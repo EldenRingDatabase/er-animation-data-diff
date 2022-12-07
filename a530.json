@@ -1,0 +1,222 @@
+{
+  "a530_045000.hkt-45000": {
+    "AnimFileName": "a530_045000.hkt",
+    "ID": 45000,
+    "Events": [
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 0.033333335,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 9,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      }
+    ]
+  },
+  "a530_045010.hkt-45010": {
+    "AnimFileName": "a530_045010.hkt",
+    "ID": 45010,
+    "Events": [
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 1.4,
+        "EndTime": 1.8333334,
+        "MemeEndTime": 1.8333334,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 0,
+          "AnimWeightAtEventStart": 0.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 1.8333334,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 0,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 0.033333335,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 9,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      }
+    ]
+  },
+  "a530_045100.hkt-45100": {
+    "AnimFileName": "a530_045100.hkt",
+    "ID": 45100,
+    "Events": [
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 0.0,
+        "EndTime": 2.6666667,
+        "MemeEndTime": 2.6666667,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 3,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 0.0,
+        "EndTime": 2.6666667,
+        "MemeEndTime": 2.6666667,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 4,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 8,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      }
+    ]
+  },
+  "a530_045110.hkt-45110": {
+    "AnimFileName": "a530_045110.hkt",
+    "ID": 45110,
+    "Events": [
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 2.0,
+        "EndTime": 2.4333334,
+        "MemeEndTime": 2.4333334,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 0,
+          "AnimWeightAtEventStart": 0.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 2.4333334,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 0,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 0.0,
+        "EndTime": 2.6666667,
+        "MemeEndTime": 2.6666667,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 3,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 0.0,
+        "EndTime": 2.6666667,
+        "MemeEndTime": 2.6666667,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 4,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 2.0333333,
+        "EndTime": 2.6666667,
+        "MemeEndTime": 2.6666667,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 5,
+          "AnimWeightAtEventStart": 0.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 2.0333333,
+        "EndTime": 2.6666667,
+        "MemeEndTime": 2.6666667,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 6,
+          "AnimWeightAtEventStart": 0.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 8,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      }
+    ]
+  }
+}

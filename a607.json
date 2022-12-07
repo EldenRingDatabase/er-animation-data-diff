@@ -65,63 +65,14 @@
         }
       },
       {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {
-          "SoundType": 15,
-          "SoundID": 100,
-          "DummyPolyID": -1,
-          "SlotNumber": -1,
-          "StateInfo": 0,
-          "Unk12": 256,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
-        }
-      },
-      {
         "TypeName": "InvokeDS3Poise",
         "StartTime": 0.16666667,
         "EndTime": 1.4333333,
         "MemeEndTime": 1.4333333,
         "Parameters": {
-          "ToughnessParamID": 250,
+          "ToughnessParamID": 50,
           "ToughnessType": 1,
           "DamageRatio": 1.0
-        }
-      },
-      {
-        "TypeName": "InvokeFootSfxParam_Entity",
-        "StartTime": 0.4,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
-        "Parameters": {
-          "FootSFXIndex": 11,
-          "DummyPolyID": 6,
-          "TimerNumber": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": false,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 1.1,
-        "EndTime": 1.2,
-        "MemeEndTime": 1.2,
-        "Parameters": {
-          "SoundType": 15,
-          "SoundID": 100,
-          "DummyPolyID": -1,
-          "SlotNumber": -1,
-          "StateInfo": 0,
-          "Unk12": 256,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
         }
       },
       {
@@ -724,6 +675,55 @@
           "DummyPolyID": 5,
           "Unk06": 0,
           "Unk08": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeFootSfxParam_Entity",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "FootSFXIndex": 11,
+          "DummyPolyID": 6,
+          "TimerNumber": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.1,
+        "EndTime": 1.2,
+        "MemeEndTime": 1.2,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
         }
       },
       {
@@ -2799,7 +2799,7 @@
         "EndTime": 1.9333333,
         "MemeEndTime": 1.9333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3794,7 +3794,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -4037,7 +4037,7 @@
         "EndTime": 1.4333333,
         "MemeEndTime": 1.4333333,
         "Parameters": {
-          "ToughnessParamID": 250,
+          "ToughnessParamID": 50,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -6127,7 +6127,7 @@
         "EndTime": 1.9333333,
         "MemeEndTime": 1.9333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -7278,7 +7278,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -7350,7 +7350,7 @@
         "EndTime": 1.4333333,
         "MemeEndTime": 1.4333333,
         "Parameters": {
-          "ToughnessParamID": 250,
+          "ToughnessParamID": 50,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -9440,7 +9440,7 @@
         "EndTime": 1.9333333,
         "MemeEndTime": 1.9333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -10591,7 +10591,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {

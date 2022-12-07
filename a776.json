@@ -1125,7 +1125,7 @@
         "EndTime": 3.0,
         "MemeEndTime": 3.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -2774,7 +2774,7 @@
         "EndTime": 3.0,
         "MemeEndTime": 3.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3802,7 +3802,7 @@
         "EndTime": 3.3666666,
         "MemeEndTime": 3.3666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -5291,7 +5291,7 @@
         "EndTime": 3.3666666,
         "MemeEndTime": 3.3666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {

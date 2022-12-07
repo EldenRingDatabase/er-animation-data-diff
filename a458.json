@@ -240,6 +240,22 @@
         }
       },
       {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.5,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "FFXID": 523785,
+          "DummyPolyID": 200,
+          "TimerNumber": 5,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.6,
         "EndTime": 0.7,
@@ -254,22 +270,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.76666665,
-        "EndTime": 100.0,
-        "MemeEndTime": 3.4028235E+38,
-        "Parameters": {
-          "FFXID": 523785,
-          "DummyPolyID": 200,
-          "TimerNumber": 5,
-          "IsIgnoreDummyPolyAngle": false,
-          "IsFollowDummyPoly": true,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0,
-          "StateInfo": 0
         }
       },
       {
@@ -1153,7 +1153,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.76666665,
+        "StartTime": 0.5,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
@@ -2216,7 +2216,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.76666665,
+        "StartTime": 0.5,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {

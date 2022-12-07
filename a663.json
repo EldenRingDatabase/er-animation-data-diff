@@ -35,6 +35,23 @@
         }
       },
       {
+        "TypeName": "InvokeBulletBehavior",
+        "StartTime": 0.6333333,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "DummyPolyID": 2,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 3344,
+          "AttachmentType": 0,
+          "Enable": false,
+          "StateInfo": 0,
+          "Offset": -1,
+          "Unk12": 255,
+          "Unk13": false
+        }
+      },
+      {
         "TypeName": "AddSpEffect_Multiplayer",
         "StartTime": 1.0,
         "EndTime": 1.4666667,
@@ -514,7 +531,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -1525,7 +1542,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3016,7 +3033,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3628,7 +3645,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {

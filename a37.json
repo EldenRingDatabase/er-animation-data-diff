@@ -768,7 +768,7 @@
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -1652,7 +1652,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -2546,7 +2546,7 @@
         "EndTime": 1.5333333,
         "MemeEndTime": 1.5333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3549,7 +3549,7 @@
         "EndTime": 1.2666667,
         "MemeEndTime": 1.2666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -4805,7 +4805,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -5696,7 +5696,7 @@
         "EndTime": 1.0333333,
         "MemeEndTime": 1.0333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -6612,7 +6612,7 @@
         "EndTime": 1.2,
         "MemeEndTime": 1.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -7652,7 +7652,7 @@
         "EndTime": 2.6,
         "MemeEndTime": 2.6,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -8626,7 +8626,7 @@
         "EndTime": 1.4,
         "MemeEndTime": 1.4,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -9789,7 +9789,7 @@
         "EndTime": 2.2333333,
         "MemeEndTime": 2.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -10527,7 +10527,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -12447,7 +12447,7 @@
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -13428,7 +13428,7 @@
         "EndTime": 2.4666667,
         "MemeEndTime": 2.4666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -15399,7 +15399,7 @@
         "EndTime": 2.3666666,
         "MemeEndTime": 2.3666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -16008,7 +16008,7 @@
         "EndTime": 1.6333333,
         "MemeEndTime": 1.6333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -17613,7 +17613,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -18696,7 +18696,7 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -19837,7 +19837,7 @@
         "EndTime": 2.3,
         "MemeEndTime": 2.3,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -20750,7 +20750,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -21727,7 +21727,7 @@
         "EndTime": 1.3666667,
         "MemeEndTime": 1.3666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -21908,6 +21908,15 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_Multiplayer",
+        "StartTime": 0.0,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
+        "Parameters": {
+          "SpEffectID": 2000001
         }
       },
       {
@@ -22668,6 +22677,15 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_Multiplayer",
+        "StartTime": 0.0,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
+        "Parameters": {
+          "SpEffectID": 2000002
         }
       },
       {
@@ -23445,6 +23463,15 @@
         }
       },
       {
+        "TypeName": "AddSpEffect_Multiplayer",
+        "StartTime": 0.0,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
+        "Parameters": {
+          "SpEffectID": 2000000
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.43333334,
         "EndTime": 2.0,
@@ -24202,6 +24229,15 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_Multiplayer",
+        "StartTime": 0.0,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
+        "Parameters": {
+          "SpEffectID": 2000000
         }
       },
       {
@@ -26716,7 +26752,7 @@
         "EndTime": 1.0333333,
         "MemeEndTime": 1.0333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -27445,7 +27481,7 @@
         "EndTime": 0.46666667,
         "MemeEndTime": 0.46666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -28110,7 +28146,7 @@
         "EndTime": 0.96666664,
         "MemeEndTime": 0.96666664,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -28775,7 +28811,7 @@
         "EndTime": 0.46666667,
         "MemeEndTime": 0.46666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -29425,7 +29461,7 @@
         "EndTime": 0.96666664,
         "MemeEndTime": 0.96666664,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -31518,7 +31554,7 @@
         "EndTime": 1.4333333,
         "MemeEndTime": 1.4333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -32361,7 +32397,7 @@
         "EndTime": 0.73333335,
         "MemeEndTime": 0.73333335,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -33085,7 +33121,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -33830,7 +33866,7 @@
         "EndTime": 0.73333335,
         "MemeEndTime": 0.73333335,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -34585,7 +34621,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -35707,7 +35743,7 @@
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -36613,7 +36649,7 @@
         "EndTime": 1.3666667,
         "MemeEndTime": 1.3666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -37518,7 +37554,7 @@
         "EndTime": 1.5333333,
         "MemeEndTime": 1.5333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -38508,7 +38544,7 @@
         "EndTime": 1.2666667,
         "MemeEndTime": 1.2666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -39731,7 +39767,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -40720,7 +40756,7 @@
         "EndTime": 1.0333333,
         "MemeEndTime": 1.0333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -41536,7 +41572,7 @@
         "EndTime": 1.2,
         "MemeEndTime": 1.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -42271,7 +42307,7 @@
         "EndTime": 2.6,
         "MemeEndTime": 2.6,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -43531,7 +43567,7 @@
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -44616,7 +44652,7 @@
         "EndTime": 2.2333333,
         "MemeEndTime": 2.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -45592,7 +45628,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -47376,7 +47412,7 @@
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -48339,7 +48375,7 @@
         "EndTime": 2.4666667,
         "MemeEndTime": 2.4666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -50172,7 +50208,7 @@
         "EndTime": 2.3666666,
         "MemeEndTime": 2.3666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -50781,7 +50817,7 @@
         "EndTime": 1.6333333,
         "MemeEndTime": 1.6333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -52383,7 +52419,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -53466,7 +53502,7 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -54691,7 +54727,7 @@
         "EndTime": 2.3,
         "MemeEndTime": 2.3,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -55630,7 +55666,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -56571,7 +56607,7 @@
         "EndTime": 1.3666667,
         "MemeEndTime": 1.3666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -58693,7 +58729,7 @@
         "EndTime": 1.0333333,
         "MemeEndTime": 1.0333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -59439,7 +59475,7 @@
         "EndTime": 0.46666667,
         "MemeEndTime": 0.46666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -60104,7 +60140,7 @@
         "EndTime": 0.96666664,
         "MemeEndTime": 0.96666664,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -60769,7 +60805,7 @@
         "EndTime": 0.46666667,
         "MemeEndTime": 0.46666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -61436,7 +61472,7 @@
         "EndTime": 0.96666664,
         "MemeEndTime": 0.96666664,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -63619,7 +63655,7 @@
         "EndTime": 1.4333333,
         "MemeEndTime": 1.4333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -64496,7 +64532,7 @@
         "EndTime": 0.73333335,
         "MemeEndTime": 0.73333335,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -65220,7 +65256,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -65965,7 +66001,7 @@
         "EndTime": 0.73333335,
         "MemeEndTime": 0.73333335,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -66703,7 +66739,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -67876,7 +67912,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -68784,7 +68820,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -69712,7 +69748,7 @@
         "EndTime": 1.7333333,
         "MemeEndTime": 1.7333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -70936,7 +70972,7 @@
         "EndTime": 2.0666666,
         "MemeEndTime": 2.0666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -71906,7 +71942,915 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {
+          "JumpTableID": 51,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {
+          "JumpTableID": 134,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "PhysicsClassUnk907",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": 2.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0
+        }
+      }
+    ]
+  },
+  "a037_034300.hkt-34310": {
+    "AnimFileName": "a037_034300.hkt",
+    "ID": 34310,
+    "Events": [
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 3,
+          "BehaviorJudgeID": 5000,
+          "DirectionType": 0,
+          "Source": 1,
+          "StateInfo": 187
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.43333334,
+        "EndTime": 0.46666667,
+        "MemeEndTime": 0.46666667,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 103760000,
+          "DummyPolyID": 100,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.5,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 103760000,
+          "DummyPolyID": 102,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 2
+        }
+      },
+      {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 4,
+          "BehaviorJudgeID": 5005,
+          "DirectionType": 0,
+          "Source": 2,
+          "StateInfo": 187
+        }
+      },
+      {
+        "TypeName": "InvokeRumbleCam_ByDummyPoly",
+        "StartTime": 0.56666666,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "RumbleCamID": 67,
+          "Condition": 0,
+          "Unk04": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.4,
+        "EndTime": 0.43333334,
+        "MemeEndTime": 0.43333334,
+        "Parameters": {
+          "JumpTableID": 72,
+          "ArgA": 0.09,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.033333335,
+        "MemeEndTime": 0.033333335,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 2001,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.033333335,
+        "EndTime": 0.13333334,
+        "MemeEndTime": 0.13333334,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 2001,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.33333334,
+        "EndTime": 0.43333334,
+        "MemeEndTime": 0.43333334,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 2001,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.4,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "KnockbackPercent": 80
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 1.1666666,
+        "EndTime": 1.8333334,
+        "MemeEndTime": 1.8333334,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 0,
+          "AnimWeightAtEventStart": 0.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.4,
+        "EndTime": 1.5,
+        "MemeEndTime": 1.5,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 1001,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.7333333,
+        "EndTime": 1.8333334,
+        "MemeEndTime": 1.8333334,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 1001,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 1.8333334,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 0,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.43333334,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "JumpTableID": 56,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.1,
+        "EndTime": 1.2,
+        "MemeEndTime": 1.2,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 1,
+          "BehaviorJudgeID": 870,
+          "DirectionType": 1,
+          "Source": 1,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.76666665,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.4,
+        "EndTime": 1.5,
+        "MemeEndTime": 1.5,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 2,
+          "BehaviorJudgeID": 875,
+          "DirectionType": 1,
+          "Source": 2,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.23333333,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {
+          "JumpTableID": 63,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.4,
+        "EndTime": 0.43333334,
+        "MemeEndTime": 0.43333334,
+        "Parameters": {
+          "JumpTableID": 5,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.3,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 87,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.3,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 106,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 66,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.0,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 4,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 4,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.0,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 103,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 103,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2,
+        "MemeEndTime": 1.2,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 104,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.2,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 104,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.0,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 117,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 117,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2,
+        "MemeEndTime": 1.2,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 118,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.2,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 118,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2,
+        "MemeEndTime": 1.2,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 22,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.2,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 22,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.2666667,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 11,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.3333334,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 11,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.36666667,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.1,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {
+          "TurnSpeed": 720.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 2.2666667,
+        "EndTime": 2.3333333,
+        "MemeEndTime": 2.3333333,
+        "Parameters": {
+          "TurnSpeed": 720.0,
+          "IsLockOnCheck": true,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.2666667,
+        "EndTime": 2.3333333,
+        "MemeEndTime": 2.3333333,
+        "Parameters": {
+          "JumpTableID": 110,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.0,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 26,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.0333333,
+        "EndTime": 1.1,
+        "MemeEndTime": 1.1,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 107,
+          "JumpTable2ID_ToJudgeHowEarly": 1,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.1,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 107,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 31,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.2333333,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 31,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 29,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.2333333,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 29,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.0,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 32,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "JumpTableID": 32,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 100,
+          "JumpTableID": 0,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "SetSPRegenRatePercent",
+        "StartTime": 0.0,
+        "EndTime": 1.2,
+        "MemeEndTime": 1.2,
+        "Parameters": {
+          "RegenRatePercent": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_Multiplayer",
+        "StartTime": 0.4,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "SpEffectID": 45
         }
       },
       {
@@ -72814,7 +73758,7 @@
         "EndTime": 1.2,
         "MemeEndTime": 1.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -75200,7 +76144,7 @@
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -75897,7 +76841,7 @@
         "EndTime": 0.4,
         "MemeEndTime": 0.4,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -76573,7 +77517,7 @@
         "EndTime": 0.56666666,
         "MemeEndTime": 0.56666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -77335,7 +78279,7 @@
         "EndTime": 0.4,
         "MemeEndTime": 0.4,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -78044,7 +78988,7 @@
         "EndTime": 0.56666666,
         "MemeEndTime": 0.56666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -78938,7 +79882,7 @@
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -79933,7 +80877,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -80897,7 +81841,7 @@
         "EndTime": 1.5333333,
         "MemeEndTime": 1.5333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -81877,7 +82821,7 @@
         "EndTime": 1.2,
         "MemeEndTime": 1.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -82485,7 +83429,7 @@
         "EndTime": 1.4,
         "MemeEndTime": 1.4,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -83088,7 +84032,7 @@
         "EndTime": 1.4,
         "MemeEndTime": 1.4,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -84016,7 +84960,7 @@
         "EndTime": 3.9666667,
         "MemeEndTime": 3.9666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -84510,7 +85454,7 @@
         "EndTime": 1.5333333,
         "MemeEndTime": 1.5333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -85102,7 +86046,7 @@
         "EndTime": 1.2,
         "MemeEndTime": 1.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -85655,7 +86599,7 @@
         "EndTime": 1.5333333,
         "MemeEndTime": 1.5333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -86382,7 +87326,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -86972,7 +87916,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -87568,7 +88512,7 @@
         "EndTime": 1.2666667,
         "MemeEndTime": 1.2666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -88369,7 +89313,7 @@
         "EndTime": 3.9666667,
         "MemeEndTime": 3.9666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -89160,7 +90104,7 @@
         "EndTime": 1.5666667,
         "MemeEndTime": 1.5666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -89797,7 +90741,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -90367,7 +91311,7 @@
         "EndTime": 1.5666667,
         "MemeEndTime": 1.5666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {

@@ -9,7 +9,7 @@
         "EndTime": 1.9,
         "MemeEndTime": 1.9,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 120,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -685,9 +685,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.9666667,
-        "EndTime": 2.0333333,
-        "MemeEndTime": 2.0333333,
+        "StartTime": 1.8,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -699,7 +699,21 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.0333333,
+        "StartTime": 1.8666667,
+        "EndTime": 2.9,
+        "MemeEndTime": 2.9,
+        "Parameters": {
+          "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.9,
         "EndTime": 3.0666666,
         "MemeEndTime": 3.0666666,
         "Parameters": {
@@ -859,7 +873,7 @@
         "EndTime": 1.9,
         "MemeEndTime": 1.9,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -937,6 +951,17 @@
           "Unk04": -1.0,
           "Unk08": -1.0,
           "Unk0C": -1.0
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 1.4,
+        "MemeEndTime": 1.4,
+        "Parameters": {
+          "MovDistMultiplier": 1.08,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
         }
       },
       {
@@ -1202,7 +1227,7 @@
         "EndTime": 0.8333333,
         "MemeEndTime": 0.8333333,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 110,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -1759,9 +1784,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.0,
-        "EndTime": 1.0666667,
-        "MemeEndTime": 1.0666667,
+        "StartTime": 0.8333333,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -1773,7 +1798,21 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.0666667,
+        "StartTime": 0.9,
+        "EndTime": 1.6666666,
+        "MemeEndTime": 1.6666666,
+        "Parameters": {
+          "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.6666666,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -1933,7 +1972,7 @@
         "EndTime": 0.93333334,
         "MemeEndTime": 0.93333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -1974,6 +2013,17 @@
           "Unk04": -1.0,
           "Unk08": -1.0,
           "Unk0C": -1.0
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.43333334,
+        "MemeEndTime": 0.43333334,
+        "Parameters": {
+          "MovDistMultiplier": 1.25,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
         }
       },
       {
@@ -2079,7 +2129,7 @@
         "EndTime": 2.0333333,
         "MemeEndTime": 2.0333333,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 120,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -2739,9 +2789,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.1,
-        "EndTime": 2.1666667,
-        "MemeEndTime": 2.1666667,
+        "StartTime": 1.8,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -2753,7 +2803,21 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.1666667,
+        "StartTime": 1.8666667,
+        "EndTime": 2.8666666,
+        "MemeEndTime": 2.8666666,
+        "Parameters": {
+          "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.8666666,
         "EndTime": 3.1666667,
         "MemeEndTime": 3.1666667,
         "Parameters": {
@@ -2913,7 +2977,7 @@
         "EndTime": 1.9,
         "MemeEndTime": 1.9,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -2991,6 +3055,17 @@
           "Unk04": -1.0,
           "Unk08": -1.0,
           "Unk0C": -1.0
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 1.4,
+        "MemeEndTime": 1.4,
+        "Parameters": {
+          "MovDistMultiplier": 1.33,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
         }
       },
       {
@@ -3077,7 +3152,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 110,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -3623,9 +3698,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.1,
-        "EndTime": 1.1666666,
-        "MemeEndTime": 1.1666666,
+        "StartTime": 0.93333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3637,7 +3712,21 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.1666666,
+        "StartTime": 1.0,
+        "EndTime": 1.8333334,
+        "MemeEndTime": 1.8333334,
+        "Parameters": {
+          "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.8333334,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
@@ -3797,7 +3886,7 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3838,6 +3927,17 @@
           "Unk04": -1.0,
           "Unk08": -1.0,
           "Unk0C": -1.0
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "MovDistMultiplier": 1.26,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
         }
       },
       {
@@ -3928,7 +4028,7 @@
         "EndTime": 1.9,
         "MemeEndTime": 1.9,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 120,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -4316,9 +4416,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.0,
-        "EndTime": 2.0666666,
-        "MemeEndTime": 2.0666666,
+        "StartTime": 1.8,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -4330,7 +4430,21 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.0666666,
+        "StartTime": 1.8666667,
+        "EndTime": 2.8,
+        "MemeEndTime": 2.8,
+        "Parameters": {
+          "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.8,
         "EndTime": 3.0,
         "MemeEndTime": 3.0,
         "Parameters": {
@@ -4490,7 +4604,7 @@
         "EndTime": 1.8666667,
         "MemeEndTime": 1.8666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -4568,6 +4682,17 @@
           "Unk04": -1.0,
           "Unk08": -1.0,
           "Unk0C": -1.0
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 1.3666667,
+        "MemeEndTime": 1.3666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.09,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
         }
       },
       {
@@ -5121,7 +5246,7 @@
         "EndTime": 0.8333333,
         "MemeEndTime": 0.8333333,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 110,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -5509,9 +5634,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.0,
-        "EndTime": 1.0666667,
-        "MemeEndTime": 1.0666667,
+        "StartTime": 0.8333333,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -5523,7 +5648,21 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.0666667,
+        "StartTime": 0.9,
+        "EndTime": 1.6666666,
+        "MemeEndTime": 1.6666666,
+        "Parameters": {
+          "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.6666666,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -5683,7 +5822,7 @@
         "EndTime": 0.93333334,
         "MemeEndTime": 0.93333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -5998,7 +6137,7 @@
         "EndTime": 2.0333333,
         "MemeEndTime": 2.0333333,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 120,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -6358,9 +6497,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.0666666,
-        "EndTime": 2.1333334,
-        "MemeEndTime": 2.1333334,
+        "StartTime": 1.7666667,
+        "EndTime": 1.8333334,
+        "MemeEndTime": 1.8333334,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -6372,7 +6511,21 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.1333334,
+        "StartTime": 1.8333334,
+        "EndTime": 2.9,
+        "MemeEndTime": 2.9,
+        "Parameters": {
+          "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.9,
         "EndTime": 3.2,
         "MemeEndTime": 3.2,
         "Parameters": {
@@ -6532,7 +6685,7 @@
         "EndTime": 1.9,
         "MemeEndTime": 1.9,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -6610,6 +6763,17 @@
           "Unk04": -1.0,
           "Unk08": -1.0,
           "Unk0C": -1.0
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 1.3666667,
+        "MemeEndTime": 1.3666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.37,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
         }
       },
       {
@@ -6982,7 +7146,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 110,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -7342,9 +7506,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.1,
-        "EndTime": 1.1666666,
-        "MemeEndTime": 1.1666666,
+        "StartTime": 0.93333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -7356,7 +7520,21 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.1666666,
+        "StartTime": 1.0,
+        "EndTime": 1.8333334,
+        "MemeEndTime": 1.8333334,
+        "Parameters": {
+          "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.8333334,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
@@ -7516,7 +7694,7 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {

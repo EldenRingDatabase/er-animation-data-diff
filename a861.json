@@ -11,6 +11,39 @@
         "Parameters": {}
       },
       {
+        "TypeName": "InvokeBulletBehavior",
+        "StartTime": 2.2666667,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
+        "Parameters": {
+          "DummyPolyID": 1,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 6005,
+          "AttachmentType": 0,
+          "Enable": false,
+          "StateInfo": 0,
+          "Offset": -1,
+          "Unk12": 255,
+          "Unk13": false
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.5,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
+        "Parameters": {
+          "FFXID": 525305,
+          "DummyPolyID": 1,
+          "TimerNumber": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "BlendToIdleOrMovementAnim",
         "StartTime": 2.6666667,
         "EndTime": 3.1666667,

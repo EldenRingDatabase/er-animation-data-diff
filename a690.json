@@ -80,14 +80,14 @@
       },
       {
         "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
+        "StartTime": 1.1333333,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -101,7 +101,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -528,7 +528,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -1452,7 +1452,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -1868,14 +1868,14 @@
       },
       {
         "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
+        "StartTime": 1.1333333,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -1889,7 +1889,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -2316,7 +2316,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3240,7 +3240,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3915,13 +3915,6 @@
         }
       },
       {
-        "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.56666666,
         "EndTime": 0.6666667,
@@ -3937,6 +3930,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "WeaponArtFPConsumption",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -3957,7 +3957,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -3971,7 +3971,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -4398,7 +4398,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -5085,7 +5085,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -5841,13 +5841,6 @@
         }
       },
       {
-        "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.56666666,
         "EndTime": 0.6666667,
@@ -5863,6 +5856,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "WeaponArtFPConsumption",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -5883,7 +5883,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -5897,7 +5897,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -6460,7 +6460,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -7490,7 +7490,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -7961,13 +7961,6 @@
         }
       },
       {
-        "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.56666666,
         "EndTime": 0.6666667,
@@ -7983,6 +7976,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "WeaponArtFPConsumption",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -8003,7 +8003,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -8017,7 +8017,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -8580,7 +8580,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -9610,7 +9610,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -10126,13 +10126,6 @@
         }
       },
       {
-        "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.56666666,
         "EndTime": 0.6666667,
@@ -10148,6 +10141,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "WeaponArtFPConsumption",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -10168,7 +10168,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -10182,7 +10182,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -10745,7 +10745,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -11820,7 +11820,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -12258,13 +12258,6 @@
         }
       },
       {
-        "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.56666666,
         "EndTime": 0.6666667,
@@ -12280,6 +12273,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "WeaponArtFPConsumption",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {}
       },
       {
         "TypeName": "SpawnFFX_FloorDetermined",
@@ -12312,7 +12312,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -12350,7 +12350,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -12811,7 +12811,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -13704,7 +13704,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -14130,13 +14130,6 @@
         }
       },
       {
-        "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.56666666,
         "EndTime": 0.6666667,
@@ -14152,6 +14145,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "WeaponArtFPConsumption",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -14172,7 +14172,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -14186,7 +14186,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -14647,7 +14647,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -15564,7 +15564,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -16035,13 +16035,6 @@
         }
       },
       {
-        "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.56666666,
         "EndTime": 0.6666667,
@@ -16057,6 +16050,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "WeaponArtFPConsumption",
+        "StartTime": 1.1333333,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -16077,7 +16077,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -16091,7 +16091,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.0,
+        "StartTime": 0.33333334,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -16552,7 +16552,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -17502,7 +17502,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {

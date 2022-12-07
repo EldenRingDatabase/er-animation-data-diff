@@ -4,6 +4,16 @@
     "ID": 30000,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.16,
+          "SpeedAtEnd": 1.16
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.23333333,
@@ -106,6 +116,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.6,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.6,
         "EndTime": 0.7,
@@ -120,20 +144,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.6,
-        "EndTime": 0.7,
-        "MemeEndTime": 0.7,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -803,7 +813,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -1658,7 +1668,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -2490,7 +2500,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3357,7 +3367,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3497,6 +3507,16 @@
     "ID": 30080,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {
+          "SpeedAtStart": 1.25,
+          "SpeedAtEnd": 1.25
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
         "EndTime": 0.6666667,
@@ -3554,9 +3574,9 @@
       },
       {
         "TypeName": "InvokeEventEzStateFlag<HKS_env301>",
-        "StartTime": 0.16666667,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
+        "StartTime": 0.13333334,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
         "Parameters": {
           "EzStateFlagID": 0
         }
@@ -3636,6 +3656,16 @@
     "ID": 30081,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {
+          "SpeedAtStart": 1.25,
+          "SpeedAtEnd": 1.25
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
         "EndTime": 0.6666667,
@@ -3692,6 +3722,15 @@
         }
       },
       {
+        "TypeName": "InvokeEventEzStateFlag<HKS_env301>",
+        "StartTime": 0.13333334,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
+        "Parameters": {
+          "EzStateFlagID": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.13333334,
         "EndTime": 0.23333333,
@@ -3706,15 +3745,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "InvokeEventEzStateFlag<HKS_env301>",
-        "StartTime": 0.16666667,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
-        "Parameters": {
-          "EzStateFlagID": 0
         }
       },
       {
@@ -3774,6 +3804,26 @@
     "AnimFileName": "a050_030200.hkt",
     "ID": 30200,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.08,
+          "SpeedAtEnd": 1.08
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.5,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SpeedAtStart": 1.35,
+          "SpeedAtEnd": 1.35
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -4056,6 +4106,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.46666667,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "JumpTableID": 63,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 0.46666667,
         "EndTime": 0.56666666,
@@ -4068,20 +4132,6 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.46666667,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
-        "Parameters": {
-          "JumpTableID": 63,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -4684,7 +4734,7 @@
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -4750,6 +4800,26 @@
     "AnimFileName": "a050_030210.hkt",
     "ID": 30210,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.08,
+          "SpeedAtEnd": 1.08
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.5,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SpeedAtStart": 1.35,
+          "SpeedAtEnd": 1.35
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -5639,7 +5709,7 @@
         "EndTime": 1.2,
         "MemeEndTime": 1.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -6504,7 +6574,7 @@
         "EndTime": 0.96666664,
         "MemeEndTime": 0.96666664,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -6600,6 +6670,16 @@
     "AnimFileName": "a050_030400.hkt",
     "ID": 30400,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.08,
+          "SpeedAtEnd": 1.08
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -7506,7 +7586,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -7555,6 +7635,17 @@
     "AnimFileName": "a050_030500.hkt",
     "ID": 30500,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.4333333,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
+        "Parameters": {
+          "MovDistMultiplier": 1.8,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 1.6666666,
@@ -8448,7 +8539,7 @@
         "EndTime": 2.2,
         "MemeEndTime": 2.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -8460,7 +8551,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
+        "StartTime": 0.33333334,
         "EndTime": 0.9,
         "MemeEndTime": 0.9,
         "Parameters": {
@@ -8679,9 +8770,9 @@
       },
       {
         "TypeName": "InvokeEventEzStateFlag<HKS_env301>",
-        "StartTime": 0.16666667,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
+        "StartTime": 0.1,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "EzStateFlagID": 0
         }
@@ -8726,6 +8817,17 @@
     "AnimFileName": "a050_030505.hkt",
     "ID": 30505,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.23333333,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "MovDistMultiplier": 1.6,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -9558,7 +9660,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -9607,6 +9709,17 @@
     "AnimFileName": "a050_030510.hkt",
     "ID": 30510,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.4333333,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
+        "Parameters": {
+          "MovDistMultiplier": 1.5,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 1.6666666,
@@ -10452,7 +10565,7 @@
         "EndTime": 2.2,
         "MemeEndTime": 2.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -10579,6 +10692,17 @@
     "AnimFileName": "a050_030515.hkt",
     "ID": 30515,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.23333333,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "MovDistMultiplier": 1.4,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -11385,7 +11509,7 @@
         "EndTime": 1.0333333,
         "MemeEndTime": 1.0333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -13078,7 +13202,7 @@
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -14052,7 +14176,7 @@
         "EndTime": 2.4666667,
         "MemeEndTime": 2.4666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -15936,7 +16060,7 @@
         "EndTime": 2.3666666,
         "MemeEndTime": 2.3666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -16545,7 +16669,7 @@
         "EndTime": 1.6333333,
         "MemeEndTime": 1.6333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -18066,7 +18190,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -19100,7 +19224,7 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -20199,7 +20323,7 @@
         "EndTime": 2.3,
         "MemeEndTime": 2.3,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -21070,7 +21194,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -21968,7 +22092,7 @@
         "EndTime": 1.3,
         "MemeEndTime": 1.3,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -24039,7 +24163,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -24498,7 +24622,7 @@
         "EndTime": 0.46666667,
         "MemeEndTime": 0.46666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -25135,7 +25259,7 @@
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -25806,7 +25930,7 @@
         "EndTime": 0.46666667,
         "MemeEndTime": 0.46666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -26443,7 +26567,7 @@
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -28504,7 +28628,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -28963,7 +29087,7 @@
         "EndTime": 0.53333336,
         "MemeEndTime": 0.53333336,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -29583,7 +29707,7 @@
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -30237,7 +30361,7 @@
         "EndTime": 0.53333336,
         "MemeEndTime": 0.53333336,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -30857,7 +30981,7 @@
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -33340,7 +33464,7 @@
         "EndTime": 1.3,
         "MemeEndTime": 1.3,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -36606,6 +36730,16 @@
     "ID": 32000,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.16,
+          "SpeedAtEnd": 1.16
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.5,
         "EndTime": 0.6,
@@ -37335,7 +37469,7 @@
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -38258,7 +38392,7 @@
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -39100,7 +39234,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -39904,7 +40038,7 @@
         "EndTime": 1.2666667,
         "MemeEndTime": 1.2666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -40092,6 +40226,16 @@
     "ID": 32080,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {
+          "SpeedAtStart": 1.25,
+          "SpeedAtEnd": 1.25
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
         "EndTime": 0.6666667,
@@ -40161,9 +40305,9 @@
       },
       {
         "TypeName": "InvokeEventEzStateFlag<HKS_env301>",
-        "StartTime": 0.16666667,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
+        "StartTime": 0.13333334,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
         "Parameters": {
           "EzStateFlagID": 0
         }
@@ -40243,6 +40387,16 @@
     "ID": 32081,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {
+          "SpeedAtStart": 1.25,
+          "SpeedAtEnd": 1.25
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
         "EndTime": 0.6666667,
@@ -40312,9 +40466,9 @@
       },
       {
         "TypeName": "InvokeEventEzStateFlag<HKS_env301>",
-        "StartTime": 0.16666667,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
+        "StartTime": 0.13333334,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
         "Parameters": {
           "EzStateFlagID": 0
         }
@@ -40393,6 +40547,26 @@
     "AnimFileName": "a050_032200.hkt",
     "ID": 32200,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.08,
+          "SpeedAtEnd": 1.08
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.5,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SpeedAtStart": 1.35,
+          "SpeedAtEnd": 1.35
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -41195,7 +41369,7 @@
         "EndTime": 1.2,
         "MemeEndTime": 1.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -41344,6 +41518,26 @@
     "AnimFileName": "a050_032210.hkt",
     "ID": 32210,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.08,
+          "SpeedAtEnd": 1.08
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.5,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SpeedAtStart": 1.35,
+          "SpeedAtEnd": 1.35
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 0.6666667,
@@ -41851,7 +42045,7 @@
         "EndTime": 1.2,
         "MemeEndTime": 1.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -43048,7 +43242,7 @@
         "EndTime": 0.96666664,
         "MemeEndTime": 0.96666664,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -43219,6 +43413,27 @@
     "AnimFileName": "a050_032400.hkt",
     "ID": 32400,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.08,
+          "SpeedAtEnd": 1.08
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.23333333,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.1,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -43895,7 +44110,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -44083,6 +44298,17 @@
     "AnimFileName": "a050_032500.hkt",
     "ID": 32500,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.4333333,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
+        "Parameters": {
+          "MovDistMultiplier": 1.5,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 1.6666666,
@@ -44837,7 +45063,7 @@
         "EndTime": 2.2,
         "MemeEndTime": 2.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -45132,9 +45358,9 @@
       },
       {
         "TypeName": "InvokeEventEzStateFlag<HKS_env301>",
-        "StartTime": 0.13333334,
-        "EndTime": 0.23333333,
-        "MemeEndTime": 0.23333333,
+        "StartTime": 0.1,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "EzStateFlagID": 0
         }
@@ -45179,6 +45405,17 @@
     "AnimFileName": "a050_032505.hkt",
     "ID": 32505,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.23333333,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "MovDistMultiplier": 1.6,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -45265,6 +45502,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.5,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.5,
         "EndTime": 0.6,
@@ -45279,20 +45530,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.5,
-        "EndTime": 0.6,
-        "MemeEndTime": 0.6,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -45902,7 +46139,7 @@
         "EndTime": 1.0333333,
         "MemeEndTime": 1.0333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -46007,6 +46244,17 @@
     "AnimFileName": "a050_032510.hkt",
     "ID": 32510,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.6,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.5,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 1.8333334,
@@ -46855,7 +47103,7 @@
         "EndTime": 2.3666666,
         "MemeEndTime": 2.3666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -46867,7 +47115,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.5,
+        "StartTime": 0.4,
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
@@ -47006,6 +47254,17 @@
     "AnimFileName": "a050_032515.hkt",
     "ID": 32515,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.23333333,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "MovDistMultiplier": 1.4,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -47637,7 +47896,7 @@
         "EndTime": 1.0333333,
         "MemeEndTime": 1.0333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -49322,7 +49581,7 @@
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -50278,7 +50537,7 @@
         "EndTime": 2.4666667,
         "MemeEndTime": 2.4666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -52024,7 +52283,7 @@
         "EndTime": 2.3666666,
         "MemeEndTime": 2.3666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -52633,7 +52892,7 @@
         "EndTime": 1.6333333,
         "MemeEndTime": 1.6333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -54151,7 +54410,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -55185,7 +55444,7 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -56368,7 +56627,7 @@
         "EndTime": 2.3,
         "MemeEndTime": 2.3,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -57265,7 +57524,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -58117,7 +58376,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -60072,7 +60331,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -60522,7 +60781,7 @@
         "EndTime": 0.53333336,
         "MemeEndTime": 0.53333336,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -61114,7 +61373,7 @@
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -61723,7 +61982,7 @@
         "EndTime": 0.53333336,
         "MemeEndTime": 0.53333336,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -62303,7 +62562,7 @@
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -64124,7 +64383,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -64827,7 +65086,7 @@
         "EndTime": 0.5,
         "MemeEndTime": 0.5,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -65419,7 +65678,7 @@
         "EndTime": 0.8,
         "MemeEndTime": 0.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -66028,7 +66287,7 @@
         "EndTime": 0.5,
         "MemeEndTime": 0.5,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -66620,7 +66879,7 @@
         "EndTime": 0.8,
         "MemeEndTime": 0.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -66903,6 +67162,26 @@
     "AnimFileName": "a050_034000.hkt",
     "ID": 34000,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "SpeedAtStart": 1.12,
+          "SpeedAtEnd": 1.12
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.73333335,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "SpeedAtStart": 1.25,
+          "SpeedAtEnd": 1.25
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 0.73333335,
@@ -67522,7 +67801,7 @@
         "EndTime": 1.5666667,
         "MemeEndTime": 1.5666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -68580,7 +68859,7 @@
         "EndTime": 1.5666667,
         "MemeEndTime": 1.5666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -69613,7 +69892,7 @@
         "EndTime": 1.6,
         "MemeEndTime": 1.6,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -70071,6 +70350,37 @@
     "AnimFileName": "a038_034200.hkt",
     "ID": 34200,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.93333334,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.4,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpeedAtStart": 1.25,
+          "SpeedAtEnd": 1.25
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.76666665,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "SpeedAtStart": 1.16,
+          "SpeedAtEnd": 1.16
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 0.76666665,
@@ -70673,7 +70983,7 @@
         "EndTime": 1.8,
         "MemeEndTime": 1.8,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -71160,6 +71470,17 @@
         }
       },
       {
+        "TypeName": "InvokeRumbleCam_ByDummyPoly",
+        "StartTime": 1.3,
+        "EndTime": 1.5333333,
+        "MemeEndTime": 1.5333333,
+        "Parameters": {
+          "RumbleCamID": 60,
+          "Condition": 0,
+          "Unk04": -1
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.3,
         "EndTime": 1.3666667,
@@ -71174,17 +71495,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "InvokeRumbleCam_ByDummyPoly",
-        "StartTime": 1.3,
-        "EndTime": 1.5333333,
-        "MemeEndTime": 1.5333333,
-        "Parameters": {
-          "RumbleCamID": 60,
-          "Condition": 0,
-          "Unk04": -1
         }
       },
       {
@@ -71244,6 +71554,16 @@
     "AnimFileName": "a050_034300.hkt",
     "ID": 34300,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SpeedAtStart": 1.08,
+          "SpeedAtEnd": 1.08
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -72225,7 +72545,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -72290,6 +72610,16 @@
     "AnimFileName": "a050_034400.hkt",
     "ID": 34400,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.53333336,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {
+          "SpeedAtStart": 1.25,
+          "SpeedAtEnd": 1.25
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -72506,6 +72836,23 @@
         }
       },
       {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.8333333,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 2001,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.8333333,
         "EndTime": 0.96666664,
@@ -72528,23 +72875,6 @@
           "RumbleCamID": 60,
           "Condition": 0,
           "Unk04": -1
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.8333333,
-        "EndTime": 0.9,
-        "MemeEndTime": 0.9,
-        "Parameters": {
-          "SoundType": 8,
-          "SoundID": 2001,
-          "DummyPolyID": -1,
-          "SlotNumber": -1,
-          "StateInfo": 0,
-          "Unk12": 256,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
         }
       },
       {
@@ -73286,7 +73616,7 @@
         "EndTime": 1.4,
         "MemeEndTime": 1.4,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -75282,7 +75612,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -75749,7 +76079,7 @@
         "EndTime": 0.43333334,
         "MemeEndTime": 0.43333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -76358,7 +76688,7 @@
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -76984,7 +77314,7 @@
         "EndTime": 0.43333334,
         "MemeEndTime": 0.43333334,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -77607,7 +77937,7 @@
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -78404,7 +78734,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -79325,7 +79655,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -80228,7 +80558,7 @@
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -81117,7 +81447,7 @@
         "EndTime": 1.2666667,
         "MemeEndTime": 1.2666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -82072,7 +82402,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       }
     ]
@@ -82532,7 +82862,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -83170,7 +83500,7 @@
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -83794,7 +84124,7 @@
         "EndTime": 1.2,
         "MemeEndTime": 1.2,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -84620,7 +84950,7 @@
         "EndTime": 2.2333333,
         "MemeEndTime": 2.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -85384,7 +85714,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -85805,7 +86135,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -86410,7 +86740,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -87072,7 +87402,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -87710,7 +88040,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -88317,7 +88647,7 @@
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -88992,7 +89322,7 @@
         "EndTime": 2.2666667,
         "MemeEndTime": 2.2666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -89701,7 +90031,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -90328,7 +90658,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -90916,7 +91246,7 @@
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {

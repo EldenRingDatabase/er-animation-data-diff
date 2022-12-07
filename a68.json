@@ -519,7 +519,7 @@
         "EndTime": 2.5,
         "MemeEndTime": 2.5,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -1043,7 +1043,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       }
     ]
@@ -1579,7 +1579,7 @@
         "EndTime": 2.6666667,
         "MemeEndTime": 2.6666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -2117,7 +2117,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       }
     ]
@@ -2642,7 +2642,7 @@
         "EndTime": 1.9666667,
         "MemeEndTime": 1.9666667,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       },
       {
@@ -3158,7 +3158,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "SpEffectID": 31
+          "SpEffectID": 45
         }
       }
     ]

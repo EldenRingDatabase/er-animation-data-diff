@@ -60111,6 +60111,18 @@
         }
       },
       {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 0.13333334,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 5,
+          "Unk06": 0,
+          "Unk08": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.13333334,
         "EndTime": 0.23333333,
@@ -60125,18 +60137,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 0.13333334,
-        "EndTime": 0.23333333,
-        "MemeEndTime": 0.23333333,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 5,
-          "Unk06": 0,
-          "Unk08": 0
         }
       },
       {
@@ -60293,6 +60293,19 @@
         }
       },
       {
+        "TypeName": "Wwise_PlaySound_Unk133",
+        "StartTime": 0.0,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 111111122,
+          "Unk08": -1,
+          "Unk0C": true,
+          "Unk0D": false
+        }
+      },
+      {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.0,
         "EndTime": 100.0,
@@ -60311,19 +60324,6 @@
           "Unk1C": -1.0,
           "Unk20": -1.0,
           "Unk24": -1.0
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_Unk133",
-        "StartTime": 0.0,
-        "EndTime": 0.6666667,
-        "MemeEndTime": 0.6666667,
-        "Parameters": {
-          "SoundType": 5,
-          "SoundID": 111111122,
-          "Unk08": -1,
-          "Unk0C": true,
-          "Unk0D": false
         }
       },
       {
@@ -60560,6 +60560,24 @@
         "Parameters": {
           "Unk00": 1
         }
+      },
+      {
+        "TypeName": "SetSPRegenRatePercent",
+        "StartTime": 0.0,
+        "EndTime": 2.2,
+        "MemeEndTime": 2.2,
+        "Parameters": {
+          "RegenRatePercent": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 3.5333333,
+        "MemeEndTime": 3.5333333,
+        "Parameters": {
+          "SpEffectID": 100300
+        }
       }
     ]
   },
@@ -60736,27 +60754,28 @@
         }
       },
       {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "TypeName": "SetSPRegenRatePercent",
         "StartTime": 0.0,
-        "EndTime": 0.033333335,
-        "MemeEndTime": 0.033333335,
+        "EndTime": 2.2,
+        "MemeEndTime": 2.2,
         "Parameters": {
-          "SoundType": 8,
-          "SoundID": 2001,
-          "DummyPolyID": -1,
-          "SlotNumber": -1,
-          "StateInfo": 0,
-          "Unk12": 256,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
+          "RegenRatePercent": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 3.5333333,
+        "MemeEndTime": 3.5333333,
+        "Parameters": {
+          "SpEffectID": 100300
         }
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.033333335,
-        "EndTime": 0.06666667,
-        "MemeEndTime": 0.06666667,
+        "StartTime": 0.0,
+        "EndTime": 0.033333335,
+        "MemeEndTime": 0.033333335,
         "Parameters": {
           "SoundType": 8,
           "SoundID": 2001,
@@ -60782,6 +60801,23 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.033333335,
+        "EndTime": 0.06666667,
+        "MemeEndTime": 0.06666667,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 2001,
+          "DummyPolyID": -1,
+          "SlotNumber": -1,
+          "StateInfo": 0,
+          "Unk12": 256,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
         }
       },
       {

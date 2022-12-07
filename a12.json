@@ -57607,6 +57607,24 @@
         "Parameters": {
           "Unk00": 1
         }
+      },
+      {
+        "TypeName": "SetSPRegenRatePercent",
+        "StartTime": 0.0,
+        "EndTime": 2.2,
+        "MemeEndTime": 2.2,
+        "Parameters": {
+          "RegenRatePercent": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 3.5333333,
+        "MemeEndTime": 3.5333333,
+        "Parameters": {
+          "SpEffectID": 100300
+        }
       }
     ]
   },
@@ -57780,6 +57798,24 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetSPRegenRatePercent",
+        "StartTime": 0.0,
+        "EndTime": 2.2,
+        "MemeEndTime": 2.2,
+        "Parameters": {
+          "RegenRatePercent": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 3.5333333,
+        "MemeEndTime": 3.5333333,
+        "Parameters": {
+          "SpEffectID": 100300
         }
       },
       {

@@ -247,20 +247,6 @@
         "Parameters": {}
       },
       {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 0.26666668,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 0,
-          "BehaviorJudgeID": 200,
-          "DirectionType": 255,
-          "Source": 0,
-          "StateInfo": 0
-        }
-      },
-      {
         "TypeName": "BlendToIdleOrMovementAnim",
         "StartTime": 1.0333333,
         "EndTime": 1.7,
@@ -296,20 +282,6 @@
         "EndTime": 0.2,
         "MemeEndTime": 0.2,
         "Parameters": {}
-      },
-      {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 0.3,
-        "EndTime": 0.36666667,
-        "MemeEndTime": 0.36666667,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 0,
-          "BehaviorJudgeID": 200,
-          "DirectionType": 255,
-          "Source": 0,
-          "StateInfo": 0
-        }
       },
       {
         "TypeName": "BlendToIdleOrMovementAnim",
@@ -349,20 +321,6 @@
         "Parameters": {}
       },
       {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 0.3,
-        "EndTime": 0.36666667,
-        "MemeEndTime": 0.36666667,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 0,
-          "BehaviorJudgeID": 200,
-          "DirectionType": 255,
-          "Source": 0,
-          "StateInfo": 0
-        }
-      },
-      {
         "TypeName": "BlendToIdleOrMovementAnim",
         "StartTime": 1.0666667,
         "EndTime": 1.7333333,
@@ -398,20 +356,6 @@
         "EndTime": 0.2,
         "MemeEndTime": 0.2,
         "Parameters": {}
-      },
-      {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 0.53333336,
-        "EndTime": 0.6,
-        "MemeEndTime": 0.6,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 0,
-          "BehaviorJudgeID": 200,
-          "DirectionType": 255,
-          "Source": 0,
-          "StateInfo": 0
-        }
       },
       {
         "TypeName": "BlendToIdleOrMovementAnim",
