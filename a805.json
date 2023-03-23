@@ -4,6 +4,16 @@
     "ID": 40000,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.53333336,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "SpeedAtStart": 1.31,
+          "SpeedAtEnd": 1.31
+        }
+      },
+      {
         "TypeName": "InvokeBulletBehavior",
         "StartTime": 2.0666666,
         "EndTime": 2.1666667,
@@ -307,9 +317,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 3.9333334,
-        "EndTime": 4.0,
-        "MemeEndTime": 4.0,
+        "StartTime": 3.5333333,
+        "EndTime": 3.6,
+        "MemeEndTime": 3.6,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -321,7 +331,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 4.0,
+        "StartTime": 3.6,
         "EndTime": 5.0,
         "MemeEndTime": 5.0,
         "Parameters": {
@@ -875,6 +885,16 @@
     "ID": 40005,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.53333336,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "SpeedAtStart": 1.31,
+          "SpeedAtEnd": 1.31
+        }
+      },
+      {
         "TypeName": "AddSpEffect_Multiplayer",
         "StartTime": 4.133333,
         "EndTime": 5.0,
@@ -1131,9 +1151,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 3.9333334,
-        "EndTime": 4.0,
-        "MemeEndTime": 4.0,
+        "StartTime": 3.1,
+        "EndTime": 3.1666667,
+        "MemeEndTime": 3.1666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -1145,7 +1165,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 4.0,
+        "StartTime": 3.1666667,
         "EndTime": 5.0,
         "MemeEndTime": 5.0,
         "Parameters": {

@@ -14,7 +14,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.7,
+        "StartTime": 0.23333333,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
@@ -28,7 +28,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 1.7,
+        "StartTime": 0.23333333,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
@@ -37,7 +37,7 @@
       },
       {
         "TypeName": "AddSpEffect_Multiplayer",
-        "StartTime": 1.7,
+        "StartTime": 0.23333333,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
@@ -2924,7 +2924,7 @@
     "Events": [
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.7,
+        "StartTime": 0.23333333,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
@@ -2938,7 +2938,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 1.7,
+        "StartTime": 0.23333333,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
@@ -2947,7 +2947,7 @@
       },
       {
         "TypeName": "AddSpEffect_Multiplayer",
-        "StartTime": 1.7,
+        "StartTime": 0.23333333,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
@@ -5718,7 +5718,7 @@
     "Events": [
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.7,
+        "StartTime": 0.23333333,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
@@ -5732,11 +5732,20 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 1.7,
+        "StartTime": 0.23333333,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
           "SpEffectID": 176
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_Multiplayer",
+        "StartTime": 0.23333333,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
+        "Parameters": {
+          "SpEffectID": 100410
         }
       },
       {
@@ -5754,15 +5763,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "AddSpEffect_Multiplayer",
-        "StartTime": 1.7,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
-        "Parameters": {
-          "SpEffectID": 100410
         }
       },
       {

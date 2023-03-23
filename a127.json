@@ -726,9 +726,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.6,
-        "EndTime": 2.7333333,
-        "MemeEndTime": 2.7333333,
+        "StartTime": 2.6666667,
+        "EndTime": 2.8,
+        "MemeEndTime": 2.8,
         "Parameters": {
           "JumpTableID": 116,
           "ArgA": 0.0,
@@ -740,9 +740,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.7333333,
-        "EndTime": 3.1,
-        "MemeEndTime": 3.1,
+        "StartTime": 2.8,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 4,
           "ArgA": 0.0,
@@ -1180,7 +1180,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.53333336,
+        "StartTime": 0.3,
         "EndTime": 0.93333334,
         "MemeEndTime": 0.93333334,
         "Parameters": {
@@ -1506,6 +1506,27 @@
     "AnimFileName": "a127_030505.hkt",
     "ID": 30505,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "SpeedAtStart": 1.13,
+          "SpeedAtEnd": 1.13
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.3,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.33333334,
@@ -1833,9 +1854,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.2333333,
-        "EndTime": 1.4,
-        "MemeEndTime": 1.4,
+        "StartTime": 1.0666667,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID": 116,
           "ArgA": 0.0,
@@ -1847,9 +1868,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.4,
-        "EndTime": 1.8,
-        "MemeEndTime": 1.8,
+        "StartTime": 1.2333333,
+        "EndTime": 1.9666667,
+        "MemeEndTime": 1.9666667,
         "Parameters": {
           "JumpTableID": 4,
           "ArgA": 0.0,
@@ -2016,8 +2037,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 0.16666667,
-        "MemeEndTime": 0.16666667,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
         "Parameters": {
           "JumpTableID": 7,
           "ArgA": 0.0,
@@ -2046,7 +2067,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.5,
+        "StartTime": 0.56666666,
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
@@ -2060,9 +2081,9 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.16666667,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
+        "StartTime": 0.23333333,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
         "Parameters": {
           "TurnSpeed": 720.0,
           "IsLockOnCheck": true,
@@ -2071,9 +2092,9 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.2,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
+        "StartTime": 0.26666668,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
         "Parameters": {
           "TurnSpeed": 720.0,
           "IsLockOnCheck": false,
@@ -2081,21 +2102,10 @@
         }
       },
       {
-        "TypeName": "SetTurnSpeed",
-        "StartTime": 0.4,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
-        "Parameters": {
-          "TurnSpeed": 450.0,
-          "IsLockOnCheck": false,
-          "NewUnkArg": 255
-        }
-      },
-      {
         "TypeName": "JumpTable",
-        "StartTime": 0.16666667,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
+        "StartTime": 0.23333333,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
         "Parameters": {
           "JumpTableID": 110,
           "ArgA": 0.0,
@@ -2107,9 +2117,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.2333333,
-        "EndTime": 1.3,
-        "MemeEndTime": 1.3,
+        "StartTime": 1.1333333,
+        "EndTime": 1.2,
+        "MemeEndTime": 1.2,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -2121,9 +2131,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 1.2,
+        "EndTime": 3.2333333,
+        "MemeEndTime": 3.2333333,
         "Parameters": {
           "JumpTableID": 26,
           "ArgA": 0.0,
@@ -3045,9 +3055,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.4333334,
-        "EndTime": 2.6,
-        "MemeEndTime": 2.6,
+        "StartTime": 2.2666667,
+        "EndTime": 2.4333334,
+        "MemeEndTime": 2.4333334,
         "Parameters": {
           "JumpTableID": 115,
           "ArgA": 0.0,
@@ -3059,9 +3069,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.6,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.4333334,
+        "EndTime": 3.5,
+        "MemeEndTime": 3.5,
         "Parameters": {
           "JumpTableID": 4,
           "ArgA": 0.0,
@@ -3107,9 +3117,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.2,
-        "EndTime": 2.2666667,
-        "MemeEndTime": 2.2666667,
+        "StartTime": 2.1333334,
+        "EndTime": 2.2,
+        "MemeEndTime": 2.2,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 103,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3121,9 +3131,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.2666667,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.2,
+        "EndTime": 3.6,
+        "MemeEndTime": 3.6,
         "Parameters": {
           "JumpTableID": 103,
           "ArgA": 0.0,
@@ -3135,9 +3145,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.6,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 2.4333334,
+        "EndTime": 2.5,
+        "MemeEndTime": 2.5,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 104,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3149,9 +3159,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.6666667,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.5,
+        "EndTime": 3.5,
+        "MemeEndTime": 3.5,
         "Parameters": {
           "JumpTableID": 104,
           "ArgA": 0.0,
@@ -3163,9 +3173,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.4666667,
-        "EndTime": 2.5333333,
-        "MemeEndTime": 2.5333333,
+        "StartTime": 2.3,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 22,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3177,9 +3187,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.5333333,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.3666666,
+        "EndTime": 3.5,
+        "MemeEndTime": 3.5,
         "Parameters": {
           "JumpTableID": 22,
           "ArgA": 0.0,
@@ -3208,9 +3218,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.4666667,
-        "EndTime": 2.5333333,
-        "MemeEndTime": 2.5333333,
+        "StartTime": 2.3,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 16,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3222,9 +3232,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.5333333,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.3666666,
+        "EndTime": 3.5,
+        "MemeEndTime": 3.5,
         "Parameters": {
           "JumpTableID": 16,
           "ArgA": 0.0,
@@ -3236,9 +3246,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.8333333,
-        "EndTime": 2.9,
-        "MemeEndTime": 2.9,
+        "StartTime": 2.6666667,
+        "EndTime": 2.7333333,
+        "MemeEndTime": 2.7333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 11,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3250,9 +3260,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.9,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.7333333,
+        "EndTime": 3.5,
+        "MemeEndTime": 3.5,
         "Parameters": {
           "JumpTableID": 11,
           "ArgA": 0.0,
@@ -3317,9 +3327,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.2,
-        "EndTime": 2.2666667,
-        "MemeEndTime": 2.2666667,
+        "StartTime": 2.1,
+        "EndTime": 2.1666667,
+        "MemeEndTime": 2.1666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3331,11 +3341,39 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.2666667,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.1666667,
+        "EndTime": 3.5666666,
+        "MemeEndTime": 3.5666666,
         "Parameters": {
           "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 2.2333333,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 107,
+          "JumpTable2ID_ToJudgeHowEarly": 1,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.3,
+        "EndTime": 3.5,
+        "MemeEndTime": 3.5,
+        "Parameters": {
+          "JumpTableID": 107,
           "ArgA": 0.0,
           "ArgB": -1,
           "ArgC": 6,
@@ -3349,34 +3387,6 @@
         "EndTime": 2.4666667,
         "MemeEndTime": 2.4666667,
         "Parameters": {
-          "JumpTableID_ToActivateEarly": 107,
-          "JumpTable2ID_ToJudgeHowEarly": 1,
-          "Parameter1": 0.0,
-          "Parameter2": 1.0,
-          "Unk0C": -1,
-          "StateInfo": -1
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 2.4666667,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
-        "Parameters": {
-          "JumpTableID": 107,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.5666666,
-        "EndTime": 2.6333334,
-        "MemeEndTime": 2.6333334,
-        "Parameters": {
           "JumpTableID_ToActivateEarly": 31,
           "JumpTable2ID_ToJudgeHowEarly": 2,
           "Parameter1": 0.0,
@@ -3387,9 +3397,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.6333334,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.4666667,
+        "EndTime": 3.5,
+        "MemeEndTime": 3.5,
         "Parameters": {
           "JumpTableID": 31,
           "ArgA": 0.0,
@@ -3401,9 +3411,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.5666666,
-        "EndTime": 2.6333334,
-        "MemeEndTime": 2.6333334,
+        "StartTime": 2.4,
+        "EndTime": 2.4666667,
+        "MemeEndTime": 2.4666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 29,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3415,9 +3425,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.6333334,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.4666667,
+        "EndTime": 3.5,
+        "MemeEndTime": 3.5,
         "Parameters": {
           "JumpTableID": 29,
           "ArgA": 0.0,
@@ -3429,9 +3439,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.5,
-        "EndTime": 2.5666666,
-        "MemeEndTime": 2.5666666,
+        "StartTime": 2.3333333,
+        "EndTime": 2.4,
+        "MemeEndTime": 2.4,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 32,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3443,9 +3453,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.5666666,
-        "EndTime": 3.6666667,
-        "MemeEndTime": 3.6666667,
+        "StartTime": 2.4,
+        "EndTime": 3.5,
+        "MemeEndTime": 3.5,
         "Parameters": {
           "JumpTableID": 32,
           "ArgA": 0.0,
@@ -3496,7 +3506,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.33333334,
+        "StartTime": 0.2,
         "EndTime": 0.96666664,
         "MemeEndTime": 0.96666664,
         "Parameters": {
@@ -3896,9 +3906,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.5,
-        "EndTime": 1.6666666,
-        "MemeEndTime": 1.6666666,
+        "StartTime": 1.3333334,
+        "EndTime": 1.5,
+        "MemeEndTime": 1.5,
         "Parameters": {
           "JumpTableID": 115,
           "ArgA": 0.0,
@@ -3910,9 +3920,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.6666666,
-        "EndTime": 2.6333334,
-        "MemeEndTime": 2.6333334,
+        "StartTime": 1.5,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
         "Parameters": {
           "JumpTableID": 4,
           "ArgA": 0.0,
@@ -3924,9 +3934,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.3333334,
-        "EndTime": 1.4,
-        "MemeEndTime": 1.4,
+        "StartTime": 1.2666667,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 103,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3938,9 +3948,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.4,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 1.3333334,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
         "Parameters": {
           "JumpTableID": 103,
           "ArgA": 0.0,
@@ -3952,9 +3962,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.7,
-        "EndTime": 1.7666667,
-        "MemeEndTime": 1.7666667,
+        "StartTime": 1.5333333,
+        "EndTime": 1.6,
+        "MemeEndTime": 1.6,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 104,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3966,9 +3976,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.7666667,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 1.6,
+        "EndTime": 2.6333334,
+        "MemeEndTime": 2.6333334,
         "Parameters": {
           "JumpTableID": 104,
           "ArgA": 0.0,
@@ -3980,9 +3990,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.5666667,
-        "EndTime": 1.6333333,
-        "MemeEndTime": 1.6333333,
+        "StartTime": 1.4,
+        "EndTime": 1.4666667,
+        "MemeEndTime": 1.4666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 22,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -3994,9 +4004,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.6333333,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 1.4666667,
+        "EndTime": 2.6333334,
+        "MemeEndTime": 2.6333334,
         "Parameters": {
           "JumpTableID": 22,
           "ArgA": 0.0,
@@ -4008,9 +4018,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.5666667,
-        "EndTime": 1.6333333,
-        "MemeEndTime": 1.6333333,
+        "StartTime": 1.4,
+        "EndTime": 1.4666667,
+        "MemeEndTime": 1.4666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 16,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -4022,9 +4032,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.6333333,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 1.4666667,
+        "EndTime": 2.6333334,
+        "MemeEndTime": 2.6333334,
         "Parameters": {
           "JumpTableID": 16,
           "ArgA": 0.0,
@@ -4036,9 +4046,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.9333333,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 1.7666667,
+        "EndTime": 1.8333334,
+        "MemeEndTime": 1.8333334,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 11,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -4050,9 +4060,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.0,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 1.8333334,
+        "EndTime": 2.6333334,
+        "MemeEndTime": 2.6333334,
         "Parameters": {
           "JumpTableID": 11,
           "ArgA": 0.0,
@@ -4128,9 +4138,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.3333334,
-        "EndTime": 1.4,
-        "MemeEndTime": 1.4,
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -4142,11 +4152,39 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.4,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 1.2333333,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
         "Parameters": {
           "JumpTableID": 26,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 1.3333334,
+        "EndTime": 1.4,
+        "MemeEndTime": 1.4,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 107,
+          "JumpTable2ID_ToJudgeHowEarly": 1,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.4,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
+        "Parameters": {
+          "JumpTableID": 107,
           "ArgA": 0.0,
           "ArgB": -1,
           "ArgC": 6,
@@ -4160,34 +4198,6 @@
         "EndTime": 1.5666667,
         "MemeEndTime": 1.5666667,
         "Parameters": {
-          "JumpTableID_ToActivateEarly": 107,
-          "JumpTable2ID_ToJudgeHowEarly": 1,
-          "Parameter1": 0.0,
-          "Parameter2": 1.0,
-          "Unk0C": -1,
-          "StateInfo": -1
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 1.5666667,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
-        "Parameters": {
-          "JumpTableID": 107,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.6666666,
-        "EndTime": 1.7333333,
-        "MemeEndTime": 1.7333333,
-        "Parameters": {
           "JumpTableID_ToActivateEarly": 31,
           "JumpTable2ID_ToJudgeHowEarly": 2,
           "Parameter1": 0.0,
@@ -4198,9 +4208,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.7333333,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 1.5666667,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
         "Parameters": {
           "JumpTableID": 31,
           "ArgA": 0.0,
@@ -4212,9 +4222,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.6666666,
-        "EndTime": 1.7333333,
-        "MemeEndTime": 1.7333333,
+        "StartTime": 1.5,
+        "EndTime": 1.5666667,
+        "MemeEndTime": 1.5666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 29,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -4226,9 +4236,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.7333333,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 1.5666667,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
         "Parameters": {
           "JumpTableID": 29,
           "ArgA": 0.0,
@@ -4240,9 +4250,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.6,
-        "EndTime": 1.6666666,
-        "MemeEndTime": 1.6666666,
+        "StartTime": 1.4333333,
+        "EndTime": 1.5,
+        "MemeEndTime": 1.5,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 32,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -4254,9 +4264,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.6666666,
-        "EndTime": 2.6666667,
-        "MemeEndTime": 2.6666667,
+        "StartTime": 1.5,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
         "Parameters": {
           "JumpTableID": 32,
           "ArgA": 0.0,
@@ -5130,9 +5140,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.5333333,
-        "EndTime": 2.7,
-        "MemeEndTime": 2.7,
+        "StartTime": 2.6333334,
+        "EndTime": 2.8,
+        "MemeEndTime": 2.8,
         "Parameters": {
           "JumpTableID": 116,
           "ArgA": 0.0,
@@ -5144,9 +5154,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.7,
-        "EndTime": 3.0333333,
-        "MemeEndTime": 3.0333333,
+        "StartTime": 2.8,
+        "EndTime": 3.2,
+        "MemeEndTime": 3.2,
         "Parameters": {
           "JumpTableID": 4,
           "ArgA": 0.0,
@@ -5539,7 +5549,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.5,
+        "StartTime": 0.3,
         "EndTime": 0.93333334,
         "MemeEndTime": 0.93333334,
         "Parameters": {
@@ -6053,6 +6063,27 @@
     "ID": 32505,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "SpeedAtStart": 1.13,
+          "SpeedAtEnd": 1.13
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.26666668,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.2,
         "EndTime": 1.0,
@@ -6356,9 +6387,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.1666666,
-        "EndTime": 1.3333334,
-        "MemeEndTime": 1.3333334,
+        "StartTime": 1.0666667,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID": 116,
           "ArgA": 0.0,
@@ -6370,9 +6401,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3333334,
-        "EndTime": 1.7333333,
-        "MemeEndTime": 1.7333333,
+        "StartTime": 1.2333333,
+        "EndTime": 1.8,
+        "MemeEndTime": 1.8,
         "Parameters": {
           "JumpTableID": 4,
           "ArgA": 0.0,
@@ -6384,9 +6415,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.9,
-        "EndTime": 3.1666667,
-        "MemeEndTime": 3.1666667,
+        "StartTime": 1.8,
+        "EndTime": 3.0666666,
+        "MemeEndTime": 3.0666666,
         "Parameters": {
           "JumpTableID": 4,
           "ArgA": 0.0,
@@ -6511,8 +6542,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
         "Parameters": {
           "JumpTableID": 7,
           "ArgA": 0.0,
@@ -6524,7 +6555,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.43333334,
+        "StartTime": 0.5,
         "EndTime": 3.1666667,
         "MemeEndTime": 3.1666667,
         "Parameters": {
@@ -6538,9 +6569,9 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.1,
-        "EndTime": 0.13333334,
-        "MemeEndTime": 0.13333334,
+        "StartTime": 0.16666667,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "TurnSpeed": 720.0,
           "IsLockOnCheck": true,
@@ -6549,9 +6580,9 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.13333334,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
+        "StartTime": 0.2,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
         "Parameters": {
           "TurnSpeed": 720.0,
           "IsLockOnCheck": false,
@@ -6559,21 +6590,10 @@
         }
       },
       {
-        "TypeName": "SetTurnSpeed",
-        "StartTime": 0.33333334,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
-        "Parameters": {
-          "TurnSpeed": 450.0,
-          "IsLockOnCheck": false,
-          "NewUnkArg": 255
-        }
-      },
-      {
         "TypeName": "JumpTable",
-        "StartTime": 0.1,
-        "EndTime": 0.13333334,
-        "MemeEndTime": 0.13333334,
+        "StartTime": 0.16666667,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "JumpTableID": 110,
           "ArgA": 0.0,
@@ -6585,9 +6605,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.1666666,
-        "EndTime": 1.2333333,
-        "MemeEndTime": 1.2333333,
+        "StartTime": 1.0666667,
+        "EndTime": 1.1333333,
+        "MemeEndTime": 1.1333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -6599,9 +6619,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.2333333,
-        "EndTime": 3.1666667,
-        "MemeEndTime": 3.1666667,
+        "StartTime": 1.1333333,
+        "EndTime": 3.0666666,
+        "MemeEndTime": 3.0666666,
         "Parameters": {
           "JumpTableID": 26,
           "ArgA": 0.0,
@@ -7470,9 +7490,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.3333333,
-        "EndTime": 2.4,
-        "MemeEndTime": 2.4,
+        "StartTime": 2.1666667,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 115,
           "ArgA": 0.0,
@@ -7484,9 +7504,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.4,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 2.2333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 4,
           "ArgA": 0.0,
@@ -7498,9 +7518,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.1,
-        "EndTime": 2.1666667,
-        "MemeEndTime": 2.1666667,
+        "StartTime": 2.0,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 103,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -7512,7 +7532,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.1666667,
+        "StartTime": 2.0666666,
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
@@ -7526,9 +7546,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.4,
-        "EndTime": 2.4666667,
-        "MemeEndTime": 2.4666667,
+        "StartTime": 2.2333333,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 104,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -7540,9 +7560,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.4666667,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 2.3,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 104,
           "ArgA": 0.0,
@@ -7554,9 +7574,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.4,
-        "EndTime": 2.4666667,
-        "MemeEndTime": 2.4666667,
+        "StartTime": 2.2333333,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 22,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -7568,9 +7588,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.4666667,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 2.3,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 22,
           "ArgA": 0.0,
@@ -7582,9 +7602,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.6666667,
-        "EndTime": 2.7333333,
-        "MemeEndTime": 2.7333333,
+        "StartTime": 2.5,
+        "EndTime": 2.5666666,
+        "MemeEndTime": 2.5666666,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 11,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -7596,9 +7616,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.7333333,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 2.5666666,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 11,
           "ArgA": 0.0,
@@ -7674,9 +7694,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.1,
-        "EndTime": 2.1666667,
-        "MemeEndTime": 2.1666667,
+        "StartTime": 1.9333333,
+        "EndTime": 2.0,
+        "MemeEndTime": 2.0,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -7688,9 +7708,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.1666667,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 2.0,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 26,
           "ArgA": 0.0,
@@ -7702,9 +7722,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.1666667,
-        "EndTime": 2.2333333,
-        "MemeEndTime": 2.2333333,
+        "StartTime": 2.0,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 107,
           "JumpTable2ID_ToJudgeHowEarly": 1,
@@ -7716,9 +7736,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.2333333,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 2.0666666,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 107,
           "ArgA": 0.0,
@@ -7730,9 +7750,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.4,
-        "EndTime": 2.4666667,
-        "MemeEndTime": 2.4666667,
+        "StartTime": 2.2333333,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 31,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -7744,9 +7764,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.4666667,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 2.3,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 31,
           "ArgA": 0.0,
@@ -7758,9 +7778,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.4,
-        "EndTime": 2.4666667,
-        "MemeEndTime": 2.4666667,
+        "StartTime": 2.2333333,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 29,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -7772,9 +7792,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.4666667,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 2.3,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 29,
           "ArgA": 0.0,
@@ -7786,9 +7806,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.4,
-        "EndTime": 2.4666667,
-        "MemeEndTime": 2.4666667,
+        "StartTime": 2.2333333,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 32,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -7800,9 +7820,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.4666667,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
+        "StartTime": 2.3,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
           "JumpTableID": 32,
           "ArgA": 0.0,
@@ -7853,7 +7873,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
+        "StartTime": 0.3,
         "EndTime": 0.96666664,
         "MemeEndTime": 0.96666664,
         "Parameters": {
@@ -8407,9 +8427,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.2666667,
-        "EndTime": 1.3333334,
-        "MemeEndTime": 1.3333334,
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID": 115,
           "ArgA": 0.0,
@@ -8421,9 +8441,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3333334,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.2333333,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 4,
           "ArgA": 0.0,
@@ -8435,9 +8455,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.1,
-        "EndTime": 1.1666666,
-        "MemeEndTime": 1.1666666,
+        "StartTime": 1.0666667,
+        "EndTime": 1.1333333,
+        "MemeEndTime": 1.1333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 103,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -8449,9 +8469,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.1666666,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.1333333,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
         "Parameters": {
           "JumpTableID": 103,
           "ArgA": 0.0,
@@ -8463,9 +8483,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.2666667,
-        "EndTime": 1.3333334,
-        "MemeEndTime": 1.3333334,
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 104,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -8477,9 +8497,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3333334,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.2333333,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 104,
           "ArgA": 0.0,
@@ -8491,9 +8511,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.2666667,
-        "EndTime": 1.3333334,
-        "MemeEndTime": 1.3333334,
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 22,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -8505,9 +8525,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3333334,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.2333333,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 22,
           "ArgA": 0.0,
@@ -8519,9 +8539,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.7333333,
-        "EndTime": 1.8,
-        "MemeEndTime": 1.8,
+        "StartTime": 1.6333333,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 11,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -8533,9 +8553,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.8,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.7,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 11,
           "ArgA": 0.0,
@@ -8611,9 +8631,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.1,
-        "EndTime": 1.1666666,
-        "MemeEndTime": 1.1666666,
+        "StartTime": 1.0,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -8625,9 +8645,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.1666666,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.0666667,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 26,
           "ArgA": 0.0,
@@ -8639,9 +8659,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.2666667,
-        "EndTime": 1.3333334,
-        "MemeEndTime": 1.3333334,
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 107,
           "JumpTable2ID_ToJudgeHowEarly": 1,
@@ -8653,9 +8673,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3333334,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.2333333,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 107,
           "ArgA": 0.0,
@@ -8667,9 +8687,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.2666667,
-        "EndTime": 1.3333334,
-        "MemeEndTime": 1.3333334,
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 31,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -8681,9 +8701,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3333334,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.2333333,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 31,
           "ArgA": 0.0,
@@ -8695,9 +8715,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.2666667,
-        "EndTime": 1.3333334,
-        "MemeEndTime": 1.3333334,
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 29,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -8709,9 +8729,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3333334,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.2333333,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 29,
           "ArgA": 0.0,
@@ -8723,9 +8743,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.2666667,
-        "EndTime": 1.3333334,
-        "MemeEndTime": 1.3333334,
+        "StartTime": 1.1666666,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 32,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -8737,9 +8757,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3333334,
-        "EndTime": 2.3333333,
-        "MemeEndTime": 2.3333333,
+        "StartTime": 1.2333333,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
         "Parameters": {
           "JumpTableID": 32,
           "ArgA": 0.0,

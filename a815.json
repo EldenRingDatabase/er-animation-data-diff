@@ -204,6 +204,20 @@
         }
       },
       {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 1.4333333,
+        "EndTime": 1.5333333,
+        "MemeEndTime": 1.5333333,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 3900,
+          "DirectionType": 255,
+          "Source": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "InvokeDS3Poise",
         "StartTime": 0.43333334,
         "EndTime": 2.0,
@@ -1079,6 +1093,20 @@
     "AnimFileName": "a744_040000.hkt",
     "ID": 40005,
     "Events": [
+      {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 1.4333333,
+        "EndTime": 1.5333333,
+        "MemeEndTime": 1.5333333,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 3901,
+          "DirectionType": 255,
+          "Source": 0,
+          "StateInfo": 0
+        }
+      },
       {
         "TypeName": "OverrideWeaponModelLocations",
         "StartTime": 0.0,

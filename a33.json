@@ -4320,6 +4320,16 @@
     "ID": 30200,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SpeedAtStart": 1.13,
+          "SpeedAtEnd": 1.13
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.6333333,
         "EndTime": 0.6666667,
@@ -4660,8 +4670,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.13333334,
-        "EndTime": 0.4,
-        "MemeEndTime": 0.4,
+        "EndTime": 0.36666667,
+        "MemeEndTime": 0.36666667,
         "Parameters": {
           "TurnSpeed": 120.0,
           "IsLockOnCheck": false,
@@ -4670,7 +4680,7 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.4,
+        "StartTime": 0.36666667,
         "EndTime": 0.56666666,
         "MemeEndTime": 0.56666666,
         "Parameters": {
@@ -5248,10 +5258,30 @@
     "ID": 30210,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.13,
+          "SpeedAtEnd": 1.13
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.5,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "SpeedAtStart": 1.35,
+          "SpeedAtEnd": 1.35
+        }
+      },
+      {
         "TypeName": "BehaviorDataUnk700",
-        "StartTime": 0.53333336,
-        "EndTime": 1.3666667,
-        "MemeEndTime": 1.3666667,
+        "StartTime": 0.5,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
         "Parameters": {
           "Unk00": -1.0,
           "Unk04": -1.0,
@@ -5964,8 +5994,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.13333334,
-        "EndTime": 0.53333336,
-        "MemeEndTime": 0.53333336,
+        "EndTime": 0.4,
+        "MemeEndTime": 0.4,
         "Parameters": {
           "TurnSpeed": 100.0,
           "IsLockOnCheck": false,
@@ -5974,7 +6004,7 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.53333336,
+        "StartTime": 0.4,
         "EndTime": 0.7,
         "MemeEndTime": 0.7,
         "Parameters": {
@@ -37004,6 +37034,16 @@
     "ID": 32200,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "SpeedAtStart": 1.13,
+          "SpeedAtEnd": 1.13
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.6,
         "EndTime": 0.6333333,
@@ -37303,8 +37343,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.13333334,
-        "EndTime": 0.4,
-        "MemeEndTime": 0.4,
+        "EndTime": 0.36666667,
+        "MemeEndTime": 0.36666667,
         "Parameters": {
           "TurnSpeed": 120.0,
           "IsLockOnCheck": false,
@@ -37313,7 +37353,7 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.4,
+        "StartTime": 0.36666667,
         "EndTime": 0.53333336,
         "MemeEndTime": 0.53333336,
         "Parameters": {
@@ -37957,6 +37997,26 @@
     "ID": 32210,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.13,
+          "SpeedAtEnd": 1.13
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.5,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "SpeedAtStart": 1.35,
+          "SpeedAtEnd": 1.35
+        }
+      },
+      {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.53333336,
         "EndTime": 1.3666667,
@@ -38277,8 +38337,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.13333334,
-        "EndTime": 0.53333336,
-        "MemeEndTime": 0.53333336,
+        "EndTime": 0.43333334,
+        "MemeEndTime": 0.43333334,
         "Parameters": {
           "TurnSpeed": 100.0,
           "IsLockOnCheck": false,
@@ -38287,7 +38347,7 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.53333336,
+        "StartTime": 0.43333334,
         "EndTime": 0.7,
         "MemeEndTime": 0.7,
         "Parameters": {

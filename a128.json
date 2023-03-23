@@ -6,11 +6,22 @@
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
         "Parameters": {
-          "SpeedAtStart": 1.25,
-          "SpeedAtEnd": 1.25
+          "SpeedAtStart": 1.2,
+          "SpeedAtEnd": 1.2
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.4,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
         }
       },
       {
@@ -559,7 +570,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.6,
+        "StartTime": 0.6333333,
         "EndTime": 2.8333333,
         "MemeEndTime": 2.8333333,
         "Parameters": {
@@ -1344,7 +1355,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.46666667,
+        "StartTime": 0.5,
         "EndTime": 2.6666667,
         "MemeEndTime": 2.6666667,
         "Parameters": {
@@ -2113,7 +2124,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.36666667,
+        "StartTime": 0.4,
         "EndTime": 3.0,
         "MemeEndTime": 3.0,
         "Parameters": {
@@ -2943,7 +2954,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.53333336,
+        "StartTime": 0.56666666,
         "EndTime": 3.1666667,
         "MemeEndTime": 3.1666667,
         "Parameters": {

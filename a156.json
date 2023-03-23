@@ -5008,6 +5008,16 @@
     "ID": 32000,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.46666667,
+        "MemeEndTime": 0.46666667,
+        "Parameters": {
+          "SpeedAtStart": 1.08,
+          "SpeedAtEnd": 1.08
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.2,
@@ -5253,20 +5263,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 0.3,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {
-          "JumpTableID": 63,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.3,
         "EndTime": 0.4,
@@ -5281,6 +5277,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.3,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "JumpTableID": 63,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {

@@ -20811,6 +20811,16 @@
     "ID": 30700,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
+      {
         "TypeName": "InvokeAttackBehavior",
         "StartTime": 0.73333335,
         "EndTime": 0.8333333,
@@ -55726,6 +55736,16 @@
     "AnimFileName": "a037_032700.hkt",
     "ID": 32700,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
       {
         "TypeName": "InvokeAttackBehavior",
         "StartTime": 0.73333335,

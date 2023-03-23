@@ -4569,6 +4569,16 @@
     "ID": 30200,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SpeedAtStart": 1.07,
+          "SpeedAtEnd": 1.07
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.53333336,
         "EndTime": 0.56666666,
@@ -5142,8 +5152,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.13333334,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
+        "EndTime": 0.3,
+        "MemeEndTime": 0.3,
         "Parameters": {
           "TurnSpeed": 120.0,
           "IsLockOnCheck": false,
@@ -5152,7 +5162,7 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.33333334,
+        "StartTime": 0.3,
         "EndTime": 0.5,
         "MemeEndTime": 0.5,
         "Parameters": {
@@ -5501,6 +5511,16 @@
     "AnimFileName": "a030_030210.hkt",
     "ID": 30210,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
+        "Parameters": {
+          "SpeedAtStart": 1.11,
+          "SpeedAtEnd": 1.11
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -6229,8 +6249,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.13333334,
-        "EndTime": 0.46666667,
-        "MemeEndTime": 0.46666667,
+        "EndTime": 0.36666667,
+        "MemeEndTime": 0.36666667,
         "Parameters": {
           "TurnSpeed": 100.0,
           "IsLockOnCheck": false,
@@ -6239,7 +6259,7 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.46666667,
+        "StartTime": 0.36666667,
         "EndTime": 0.6333333,
         "MemeEndTime": 0.6333333,
         "Parameters": {
@@ -22123,6 +22143,16 @@
     "AnimFileName": "a030_030700.hkt",
     "ID": 30700,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "SpeedAtStart": 1.12,
+          "SpeedAtEnd": 1.12
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -41703,6 +41733,16 @@
     "ID": 32200,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SpeedAtStart": 1.07,
+          "SpeedAtEnd": 1.07
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.53333336,
         "EndTime": 0.56666666,
@@ -42152,8 +42192,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.13333334,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
+        "EndTime": 0.3,
+        "MemeEndTime": 0.3,
         "Parameters": {
           "TurnSpeed": 120.0,
           "IsLockOnCheck": false,
@@ -42162,7 +42202,7 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.33333334,
+        "StartTime": 0.3,
         "EndTime": 0.5,
         "MemeEndTime": 0.5,
         "Parameters": {
@@ -42611,6 +42651,16 @@
     "ID": 32210,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "SpeedAtStart": 1.12,
+          "SpeedAtEnd": 1.12
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.2,
@@ -42717,6 +42767,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.6666667,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.6666667,
         "EndTime": 0.76666665,
@@ -42731,20 +42795,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.6666667,
-        "EndTime": 0.76666665,
-        "MemeEndTime": 0.76666665,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -43169,8 +43219,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.13333334,
-        "EndTime": 0.46666667,
-        "MemeEndTime": 0.46666667,
+        "EndTime": 0.4,
+        "MemeEndTime": 0.4,
         "Parameters": {
           "TurnSpeed": 100.0,
           "IsLockOnCheck": false,
@@ -43179,7 +43229,7 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.46666667,
+        "StartTime": 0.4,
         "EndTime": 0.6333333,
         "MemeEndTime": 0.6333333,
         "Parameters": {
@@ -58268,6 +58318,16 @@
     "AnimFileName": "a030_032700.hkt",
     "ID": 32700,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "SpeedAtStart": 1.12,
+          "SpeedAtEnd": 1.12
+        }
+      },
       {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.33333334,

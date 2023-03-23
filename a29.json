@@ -4626,8 +4626,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.13333334,
-        "EndTime": 0.3,
-        "MemeEndTime": 0.3,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
         "Parameters": {
           "TurnSpeed": 120.0,
           "IsLockOnCheck": false,
@@ -4636,7 +4636,7 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.3,
+        "StartTime": 0.26666668,
         "EndTime": 0.46666667,
         "MemeEndTime": 0.46666667,
         "Parameters": {
@@ -4956,6 +4956,16 @@
     "AnimFileName": "a029_030210.hkt",
     "ID": 30210,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SpeedAtStart": 1.06,
+          "SpeedAtEnd": 1.06
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -21373,6 +21383,16 @@
     "ID": 30700,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpeedAtStart": 1.23,
+          "SpeedAtEnd": 1.23
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.16666667,
@@ -22233,6 +22253,22 @@
         }
       },
       {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "FFXID": 405030,
+          "DummyPolyID": 902,
+          "TimerNumber": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -22247,22 +22283,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.0,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {
-          "FFXID": 405030,
-          "DummyPolyID": 902,
-          "TimerNumber": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": false,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0,
-          "StateInfo": 0
         }
       },
       {
@@ -36114,6 +36134,16 @@
     "ID": 32200,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SpeedAtStart": 1.19,
+          "SpeedAtEnd": 1.19
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.6333333,
         "EndTime": 0.7,
@@ -36425,8 +36455,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.16666667,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
+        "EndTime": 0.36666667,
+        "MemeEndTime": 0.36666667,
         "Parameters": {
           "TurnSpeed": 100.0,
           "IsLockOnCheck": false,
@@ -36435,9 +36465,9 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.43333334,
-        "EndTime": 0.6,
-        "MemeEndTime": 0.6,
+        "StartTime": 0.36666667,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
         "Parameters": {
           "TurnSpeed": 450.0,
           "IsLockOnCheck": false,
@@ -36446,7 +36476,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.6,
+        "StartTime": 0.6333333,
         "EndTime": 3.0,
         "MemeEndTime": 3.0,
         "Parameters": {
@@ -36971,6 +37001,16 @@
     "AnimFileName": "a029_032210.hkt",
     "ID": 32210,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "SpeedAtStart": 1.12,
+          "SpeedAtEnd": 1.12
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 0.6666667,
@@ -37547,6 +37587,18 @@
         }
       },
       {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 0.76666665,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 6,
+          "Unk06": 0,
+          "Unk08": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.76666665,
         "EndTime": 0.8666667,
@@ -37561,18 +37613,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 0.76666665,
-        "EndTime": 0.8666667,
-        "MemeEndTime": 0.8666667,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 6,
-          "Unk06": 0,
-          "Unk08": 0
         }
       },
       {
@@ -52567,6 +52607,16 @@
     "ID": 32700,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpeedAtStart": 1.23,
+          "SpeedAtEnd": 1.23
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.16666667,
@@ -53424,6 +53474,22 @@
         }
       },
       {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "FFXID": 405030,
+          "DummyPolyID": 902,
+          "TimerNumber": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -53438,22 +53504,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.0,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {
-          "FFXID": 405030,
-          "DummyPolyID": 902,
-          "TimerNumber": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": false,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0,
-          "StateInfo": 0
         }
       },
       {

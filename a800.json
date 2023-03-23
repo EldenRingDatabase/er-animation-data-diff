@@ -4,6 +4,26 @@
     "ID": 40000,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.1,
+        "EndTime": 0.93333334,
+        "MemeEndTime": 0.93333334,
+        "Parameters": {
+          "SpeedAtStart": 1.2,
+          "SpeedAtEnd": 1.2
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.93333334,
+        "EndTime": 1.7666667,
+        "MemeEndTime": 1.7666667,
+        "Parameters": {
+          "SpeedAtStart": 1.5,
+          "SpeedAtEnd": 1.5
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.8,
         "EndTime": 0.8333333,
@@ -1291,6 +1311,26 @@
     "AnimFileName": "a800_040000.hkt",
     "ID": 40005,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.1,
+        "EndTime": 0.93333334,
+        "MemeEndTime": 0.93333334,
+        "Parameters": {
+          "SpeedAtStart": 1.2,
+          "SpeedAtEnd": 1.2
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.93333334,
+        "EndTime": 1.7666667,
+        "MemeEndTime": 1.7666667,
+        "Parameters": {
+          "SpeedAtStart": 1.5,
+          "SpeedAtEnd": 1.5
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 0.8,

@@ -4,6 +4,27 @@
     "ID": 30000,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "SpeedAtStart": 1.07,
+          "SpeedAtEnd": 1.07
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.36666667,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.26666668,
@@ -349,9 +370,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 0.9,
-        "EndTime": 0.96666664,
-        "MemeEndTime": 0.96666664,
+        "StartTime": 0.93333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 4,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -363,7 +384,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.96666664,
+        "StartTime": 1.0,
         "EndTime": 2.7666667,
         "MemeEndTime": 2.7666667,
         "Parameters": {
@@ -391,9 +412,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 0.9,
-        "EndTime": 0.96666664,
-        "MemeEndTime": 0.96666664,
+        "StartTime": 0.93333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 103,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -405,7 +426,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.96666664,
+        "StartTime": 1.0,
         "EndTime": 2.7666667,
         "MemeEndTime": 2.7666667,
         "Parameters": {
@@ -817,6 +838,17 @@
     "ID": 30010,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.4,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.35,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.33333334,
@@ -1145,9 +1177,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 0.9,
-        "EndTime": 0.96666664,
-        "MemeEndTime": 0.96666664,
+        "StartTime": 0.93333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 115,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -1159,9 +1191,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.96666664,
-        "EndTime": 3.0333333,
-        "MemeEndTime": 3.0333333,
+        "StartTime": 1.0,
+        "EndTime": 3.0666666,
+        "MemeEndTime": 3.0666666,
         "Parameters": {
           "JumpTableID": 115,
           "ArgA": 0.0,
@@ -1201,9 +1233,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 0.9,
-        "EndTime": 0.96666664,
-        "MemeEndTime": 0.96666664,
+        "StartTime": 0.93333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 103,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -1215,9 +1247,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.96666664,
-        "EndTime": 2.7666667,
-        "MemeEndTime": 2.7666667,
+        "StartTime": 1.0,
+        "EndTime": 2.8,
+        "MemeEndTime": 2.8,
         "Parameters": {
           "JumpTableID": 103,
           "ArgA": 0.0,
@@ -3534,6 +3566,27 @@
     "ID": 30200,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "SpeedAtStart": 1.13,
+          "SpeedAtEnd": 1.13
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.4,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.15,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.2,
@@ -4151,9 +4204,20 @@
       },
       {
         "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {
+          "TurnSpeed": 450.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
         "StartTime": 0.16666667,
-        "EndTime": 0.46666667,
-        "MemeEndTime": 0.46666667,
+        "EndTime": 0.36666667,
+        "MemeEndTime": 0.36666667,
         "Parameters": {
           "TurnSpeed": 75.0,
           "IsLockOnCheck": false,
@@ -4162,32 +4226,18 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.46666667,
-        "EndTime": 0.56666666,
-        "MemeEndTime": 0.56666666,
+        "StartTime": 0.36666667,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
         "Parameters": {
-          "TurnSpeed": 360.0,
+          "TurnSpeed": 450.0,
           "IsLockOnCheck": false,
           "NewUnkArg": 255
         }
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.13333334,
-        "EndTime": 0.16666667,
-        "MemeEndTime": 0.16666667,
-        "Parameters": {
-          "JumpTableID": 7,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.56666666,
+        "StartTime": 0.6,
         "EndTime": 2.5666666,
         "MemeEndTime": 2.5666666,
         "Parameters": {
@@ -4425,6 +4475,27 @@
     "ID": 30210,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "SpeedAtStart": 1.12,
+          "SpeedAtEnd": 1.12
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.26666668,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.2,
@@ -4437,6 +4508,20 @@
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {}
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.6666667,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
+        "Parameters": {
+          "JumpTableID": 72,
+          "ArgA": 0.09,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -4453,20 +4538,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.6666667,
-        "EndTime": 0.7,
-        "MemeEndTime": 0.7,
-        "Parameters": {
-          "JumpTableID": 72,
-          "ArgA": 0.09,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -5087,38 +5158,35 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.2,
-        "EndTime": 0.53333336,
-        "MemeEndTime": 0.53333336,
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
         "Parameters": {
-          "TurnSpeed": 75.0,
+          "TurnSpeed": 450.0,
           "IsLockOnCheck": false,
           "NewUnkArg": 255
         }
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.53333336,
-        "EndTime": 0.6333333,
-        "MemeEndTime": 0.6333333,
+        "StartTime": 0.16666667,
+        "EndTime": 0.36666667,
+        "MemeEndTime": 0.36666667,
         "Parameters": {
-          "TurnSpeed": 360.0,
+          "TurnSpeed": 70.0,
           "IsLockOnCheck": false,
           "NewUnkArg": 255
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 0.16666667,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.36666667,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
         "Parameters": {
-          "JumpTableID": 7,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
+          "TurnSpeed": 450.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
         }
       },
       {
@@ -5137,9 +5205,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.3666667,
-        "EndTime": 1.4333333,
-        "MemeEndTime": 1.4333333,
+        "StartTime": 1.3,
+        "EndTime": 1.3666667,
+        "MemeEndTime": 1.3666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -5151,7 +5219,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.4333333,
+        "StartTime": 1.3666667,
         "EndTime": 3.0666666,
         "MemeEndTime": 3.0666666,
         "Parameters": {
@@ -5360,6 +5428,16 @@
     "AnimFileName": "a040_030300.hkt",
     "ID": 30300,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SpeedAtStart": 1.15,
+          "SpeedAtEnd": 1.15
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -7115,6 +7193,17 @@
         }
       },
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.2,
+        "EndTime": 1.4666667,
+        "MemeEndTime": 1.4666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 1.4666667,
         "EndTime": 1.5,
@@ -7187,20 +7276,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 1.5666667,
-        "EndTime": 1.6,
-        "MemeEndTime": 1.6,
-        "Parameters": {
-          "JumpTableID": 56,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.5666667,
         "EndTime": 1.6666666,
@@ -7215,6 +7290,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.5666667,
+        "EndTime": 1.6,
+        "MemeEndTime": 1.6,
+        "Parameters": {
+          "JumpTableID": 56,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -7910,7 +7999,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.26666668,
+        "StartTime": 0.2,
         "EndTime": 0.8666667,
         "MemeEndTime": 0.8666667,
         "Parameters": {
@@ -8116,6 +8205,27 @@
     "ID": 30505,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.23333333,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.26666668,
@@ -8233,6 +8343,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.5,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.5,
         "EndTime": 0.6,
@@ -8247,20 +8371,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.5,
-        "EndTime": 0.6,
-        "MemeEndTime": 0.6,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -8990,6 +9100,27 @@
         }
       },
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 1.7,
+        "EndTime": 2.2,
+        "MemeEndTime": 2.2,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.2,
+        "EndTime": 1.5666667,
+        "MemeEndTime": 1.5666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 1.5333333,
         "EndTime": 1.5666667,
@@ -9354,20 +9485,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 1.5333333,
-        "EndTime": 1.6,
-        "MemeEndTime": 1.6,
-        "Parameters": {
-          "JumpTableID": 5,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.5333333,
         "EndTime": 1.6333333,
@@ -9382,6 +9499,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.5333333,
+        "EndTime": 1.6,
+        "MemeEndTime": 1.6,
+        "Parameters": {
+          "JumpTableID": 5,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -10279,6 +10410,27 @@
     "ID": 30515,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.23333333,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.26666668,
@@ -10704,6 +10856,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 1.3666667,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "JumpTableID": 16,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.3666667,
         "EndTime": 1.4666667,
@@ -10718,20 +10884,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 1.3666667,
-        "EndTime": 3.1333334,
-        "MemeEndTime": 3.1333334,
-        "Parameters": {
-          "JumpTableID": 16,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -21666,11 +21818,11 @@
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
-        "EndTime": 0.4,
-        "MemeEndTime": 0.4,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
         "Parameters": {
-          "SpeedAtStart": 1.2,
-          "SpeedAtEnd": 1.2
+          "SpeedAtStart": 1.14,
+          "SpeedAtEnd": 1.14
         }
       },
       {
@@ -32353,6 +32505,27 @@
     "ID": 32000,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "SpeedAtStart": 1.07,
+          "SpeedAtEnd": 1.07
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.36666667,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.26666668,
@@ -33199,6 +33372,17 @@
     "AnimFileName": "a040_032010.hkt",
     "ID": 32010,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.4,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.35,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -35871,6 +36055,27 @@
     "ID": 32200,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "SpeedAtStart": 1.13,
+          "SpeedAtEnd": 1.13
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.4,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.15,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.2,
@@ -36505,9 +36710,20 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.13333334,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {
+          "TurnSpeed": 450.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.16666667,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
         "Parameters": {
           "TurnSpeed": 75.0,
           "IsLockOnCheck": false,
@@ -36516,27 +36732,13 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.43333334,
+        "StartTime": 0.33333334,
         "EndTime": 0.56666666,
         "MemeEndTime": 0.56666666,
         "Parameters": {
-          "TurnSpeed": 360.0,
+          "TurnSpeed": 450.0,
           "IsLockOnCheck": false,
           "NewUnkArg": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.1,
-        "EndTime": 0.13333334,
-        "MemeEndTime": 0.13333334,
-        "Parameters": {
-          "JumpTableID": 7,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -36778,6 +36980,27 @@
     "AnimFileName": "a040_032210.hkt",
     "ID": 32210,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.26666668,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -37424,38 +37647,35 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.23333333,
-        "EndTime": 0.56666666,
-        "MemeEndTime": 0.56666666,
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
         "Parameters": {
-          "TurnSpeed": 75.0,
+          "TurnSpeed": 450.0,
           "IsLockOnCheck": false,
           "NewUnkArg": 255
         }
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.56666666,
-        "EndTime": 0.7,
-        "MemeEndTime": 0.7,
+        "StartTime": 0.16666667,
+        "EndTime": 0.46666667,
+        "MemeEndTime": 0.46666667,
         "Parameters": {
-          "TurnSpeed": 360.0,
+          "TurnSpeed": 70.0,
           "IsLockOnCheck": false,
           "NewUnkArg": 255
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 0.1,
-        "EndTime": 0.23333333,
-        "MemeEndTime": 0.23333333,
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.46666667,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
         "Parameters": {
-          "JumpTableID": 7,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
+          "TurnSpeed": 450.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
         }
       },
       {
@@ -37474,9 +37694,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.3,
-        "EndTime": 1.3666667,
-        "MemeEndTime": 1.3666667,
+        "StartTime": 1.2,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -37488,9 +37708,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.3666667,
-        "EndTime": 2.7333333,
-        "MemeEndTime": 2.7333333,
+        "StartTime": 1.2666667,
+        "EndTime": 2.6333334,
+        "MemeEndTime": 2.6333334,
         "Parameters": {
           "JumpTableID": 26,
           "ArgA": 0.0,
@@ -37697,6 +37917,16 @@
     "AnimFileName": "a040_032300.hkt",
     "ID": 32300,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SpeedAtStart": 1.15,
+          "SpeedAtEnd": 1.15
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -38291,23 +38521,51 @@
         }
       },
       {
-        "TypeName": "SetTurnSpeed",
+        "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 0.23333333,
-        "MemeEndTime": 0.23333333,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
-          "TurnSpeed": 300.0,
-          "IsLockOnCheck": false,
-          "NewUnkArg": 255
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
         "TypeName": "JumpTable",
         "StartTime": 0.46666667,
-        "EndTime": 2.3,
-        "MemeEndTime": 2.3,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
         "Parameters": {
           "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.2,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {
+          "TurnSpeed": 720.0,
+          "IsLockOnCheck": true,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.2,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {
+          "JumpTableID": 110,
           "ArgA": 0.0,
           "ArgB": -1,
           "ArgC": 6,
@@ -39421,6 +39679,17 @@
         }
       },
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.2,
+        "EndTime": 1.4666667,
+        "MemeEndTime": 1.4666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 1.4333333,
         "EndTime": 1.5333333,
@@ -39779,22 +40048,22 @@
         }
       },
       {
-        "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 2.1666667,
-        "EndTime": 2.2333333,
-        "MemeEndTime": 2.2333333,
+        "TypeName": "JumpTable",
+        "StartTime": 1.9333333,
+        "EndTime": 2.1666667,
+        "MemeEndTime": 2.1666667,
         "Parameters": {
-          "JumpTableID_ToActivateEarly": 4,
-          "JumpTable2ID_ToJudgeHowEarly": 2,
-          "Parameter1": 0.0,
-          "Parameter2": 1.0,
-          "Unk0C": -1,
-          "StateInfo": -1
+          "JumpTableID": 116,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 2.2333333,
+        "StartTime": 2.1666667,
         "EndTime": 4.1,
         "MemeEndTime": 4.1,
         "Parameters": {
@@ -40201,7 +40470,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.23333333,
+        "StartTime": 0.2,
         "EndTime": 0.9,
         "MemeEndTime": 0.9,
         "Parameters": {
@@ -40519,6 +40788,27 @@
     "ID": 32505,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.23333333,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.26666668,
@@ -40653,20 +40943,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 0.5,
-        "EndTime": 0.6333333,
-        "MemeEndTime": 0.6333333,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.5,
         "EndTime": 0.6,
@@ -40681,6 +40957,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.5,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -41409,6 +41699,27 @@
         "Parameters": {
           "SpeedAtStart": 1.4,
           "SpeedAtEnd": 1.4
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 1.7,
+        "EndTime": 2.2,
+        "MemeEndTime": 2.2,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.2,
+        "EndTime": 1.5666667,
+        "MemeEndTime": 1.5666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
         }
       },
       {
@@ -42282,20 +42593,6 @@
         }
       },
       {
-        "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 3.2666667,
-        "EndTime": 3.3333333,
-        "MemeEndTime": 3.3333333,
-        "Parameters": {
-          "JumpTableID_ToActivateEarly": 16,
-          "JumpTable2ID_ToJudgeHowEarly": 2,
-          "Parameter1": 0.0,
-          "Parameter2": 1.0,
-          "Unk0C": -1,
-          "StateInfo": -1
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 3.2666667,
         "EndTime": 3.3666666,
@@ -42310,6 +42607,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "ActivateJumpTableEarly",
+        "StartTime": 3.2666667,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "JumpTableID_ToActivateEarly": 16,
+          "JumpTable2ID_ToJudgeHowEarly": 2,
+          "Parameter1": 0.0,
+          "Parameter2": 1.0,
+          "Unk0C": -1,
+          "StateInfo": -1
         }
       },
       {
@@ -42657,7 +42968,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.46666667,
+        "StartTime": 0.33333334,
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
@@ -42738,6 +43049,27 @@
     "AnimFileName": "a040_032515.hkt",
     "ID": 32515,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.23333333,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -53830,11 +54162,11 @@
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
-        "EndTime": 0.4,
-        "MemeEndTime": 0.4,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
         "Parameters": {
-          "SpeedAtStart": 1.2,
-          "SpeedAtEnd": 1.2
+          "SpeedAtStart": 1.14,
+          "SpeedAtEnd": 1.14
         }
       },
       {
@@ -64703,6 +65035,16 @@
     "ID": 34200,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpeedAtStart": 1.17,
+          "SpeedAtEnd": 1.17
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.73333335,
         "EndTime": 0.8,
@@ -65021,38 +65363,24 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.2,
-        "EndTime": 0.6,
-        "MemeEndTime": 0.6,
+        "StartTime": 0.1,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
         "Parameters": {
-          "TurnSpeed": 75.0,
+          "TurnSpeed": 70.0,
           "IsLockOnCheck": false,
           "NewUnkArg": 255
         }
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.6,
+        "StartTime": 0.53333336,
         "EndTime": 0.7,
         "MemeEndTime": 0.7,
         "Parameters": {
-          "TurnSpeed": 360.0,
+          "TurnSpeed": 450.0,
           "IsLockOnCheck": false,
           "NewUnkArg": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.16666667,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
-        "Parameters": {
-          "JumpTableID": 7,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -65071,9 +65399,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.5,
-        "EndTime": 1.5666667,
-        "MemeEndTime": 1.5666667,
+        "StartTime": 1.4,
+        "EndTime": 1.4666667,
+        "MemeEndTime": 1.4666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -65085,9 +65413,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.5666667,
-        "EndTime": 2.8333333,
-        "MemeEndTime": 2.8333333,
+        "StartTime": 1.4666667,
+        "EndTime": 2.7333333,
+        "MemeEndTime": 2.7333333,
         "Parameters": {
           "JumpTableID": 26,
           "ArgA": 0.0,
@@ -66498,6 +66826,27 @@
     "ID": 35000,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "SpeedAtStart": 1.15,
+          "SpeedAtEnd": 1.15
+        }
+      },
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.36666667,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.56666666,
         "EndTime": 0.6,
@@ -67413,6 +67762,17 @@
     "AnimFileName": "a040_035010.hkt",
     "ID": 35010,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.4,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.35,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 0.56666666,

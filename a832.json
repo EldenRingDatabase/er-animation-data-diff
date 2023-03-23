@@ -22198,6 +22198,16 @@
     "ID": 40010,
     "Events": [
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "SpeedAtStart": 1.25,
+          "SpeedAtEnd": 1.25
+        }
+      },
+      {
         "TypeName": "SpawnOneShotFFX",
         "StartTime": 0.0,
         "EndTime": 2.0,
@@ -22723,6 +22733,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 1.4,
+        "EndTime": 4.8,
+        "MemeEndTime": 4.8,
+        "Parameters": {
+          "JumpTableID": 106,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.4,
         "EndTime": 1.5,
@@ -22737,20 +22761,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 1.4,
-        "EndTime": 4.8,
-        "MemeEndTime": 4.8,
-        "Parameters": {
-          "JumpTableID": 106,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -23442,6 +23452,16 @@
     "AnimFileName": "a832_040010.hkt",
     "ID": 40015,
     "Events": [
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "SpeedAtStart": 1.25,
+          "SpeedAtEnd": 1.25
+        }
+      },
       {
         "TypeName": "JumpTable",
         "StartTime": 1.5,

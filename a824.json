@@ -6,6 +6,16 @@
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
+        "EndTime": 1.6666666,
+        "MemeEndTime": 1.6666666,
+        "Parameters": {
+          "SpeedAtStart": 1.45,
+          "SpeedAtEnd": 1.45
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 1.6666666,
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
@@ -934,6 +944,16 @@
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
+        "EndTime": 1.6666666,
+        "MemeEndTime": 1.6666666,
+        "Parameters": {
+          "SpeedAtStart": 1.45,
+          "SpeedAtEnd": 1.45
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 1.6666666,
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
@@ -1284,6 +1304,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 2.9666667,
+        "EndTime": 4.0333333,
+        "MemeEndTime": 4.0333333,
+        "Parameters": {
+          "JumpTableID": 103,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 2.9666667,
         "EndTime": 3.0666666,
@@ -1298,20 +1332,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 2.9666667,
-        "EndTime": 4.0333333,
-        "MemeEndTime": 4.0333333,
-        "Parameters": {
-          "JumpTableID": 103,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
