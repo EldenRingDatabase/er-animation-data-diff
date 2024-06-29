@@ -212,7 +212,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 1,
           "Unk13": false
         }
@@ -229,7 +229,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 2,
           "Unk13": false
         }
@@ -349,7 +349,7 @@
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
-          "ToughnessParamID": 200,
+          "ToughnessParamID": 201,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -802,7 +802,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 1,
           "Unk13": false
         }
@@ -819,7 +819,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 1,
           "Unk13": false
         }
@@ -837,7 +837,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "ToughnessParamID": 200,
+          "ToughnessParamID": 201,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -1597,7 +1597,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 1,
           "Unk13": false
         }
@@ -1614,7 +1614,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 1,
           "Unk13": false
         }
@@ -1632,7 +1632,7 @@
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "ToughnessParamID": 200,
+          "ToughnessParamID": 201,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }

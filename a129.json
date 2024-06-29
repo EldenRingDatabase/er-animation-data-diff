@@ -4901,7 +4901,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -6032,7 +6032,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -7043,7 +7043,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -8043,7 +8043,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -10047,6 +10047,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 1.1666666,
+        "EndTime": 2.1,
+        "MemeEndTime": 2.1,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 1.4666667,
         "EndTime": 3.5,
@@ -11203,6 +11210,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.06666667,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.5,
         "EndTime": 2.5333333,
@@ -12094,6 +12108,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 1.1666666,
+        "EndTime": 2.1,
+        "MemeEndTime": 2.1,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -13119,6 +13140,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.06666667,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -14355,7 +14383,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -14392,20 +14420,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 1.5666667,
-        "EndTime": 1.6,
-        "MemeEndTime": 1.6,
-        "Parameters": {
-          "JumpTableID": 5,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.5666667,
         "EndTime": 1.6666666,
@@ -14423,6 +14437,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 1.5666667,
+        "EndTime": 1.6,
+        "MemeEndTime": 1.6,
+        "Parameters": {
+          "JumpTableID": 5,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "InvokeDS3Poise",
         "StartTime": 1.1666666,
         "EndTime": 2.1,
@@ -14432,6 +14460,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 1.1666666,
+        "EndTime": 2.1,
+        "MemeEndTime": 2.1,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -15514,7 +15549,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -15557,6 +15592,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.06666667,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -16536,7 +16578,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -16613,6 +16655,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 1.1666666,
+        "EndTime": 2.1,
+        "MemeEndTime": 2.1,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -17214,13 +17263,6 @@
     "ID": 32615,
     "Events": [
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {}
-      },
-      {
         "TypeName": "SpawnOneShotFFX",
         "StartTime": 0.0,
         "EndTime": 0.33333334,
@@ -17235,6 +17277,13 @@
           "ExtraSpawnCondition": 0,
           "StateInfo": 0
         }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -17581,7 +17630,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -17624,6 +17673,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.06666667,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",

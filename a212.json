@@ -3588,6 +3588,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.53333336,
         "EndTime": 2.3333333,
@@ -4457,6 +4464,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.4,
         "EndTime": 2.1666667,
@@ -5311,6 +5325,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.43333334,
         "EndTime": 2.1666667,
@@ -6117,6 +6138,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.5,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",

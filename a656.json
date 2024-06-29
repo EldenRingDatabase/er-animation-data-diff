@@ -295,7 +295,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 1,
           "Unk13": false
         }

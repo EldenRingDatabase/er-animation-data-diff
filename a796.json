@@ -15,7 +15,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -32,7 +32,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 469,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -1572,7 +1572,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -1589,7 +1589,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 469,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -2977,7 +2977,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -2994,7 +2994,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 469,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -4382,7 +4382,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -4399,7 +4399,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 469,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -5787,7 +5787,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -5804,7 +5804,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 469,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }

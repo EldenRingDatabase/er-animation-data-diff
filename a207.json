@@ -29798,6 +29798,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.23333333,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.5,
         "EndTime": 2.3333333,
@@ -30810,6 +30817,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.26666668,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.6333333,
         "EndTime": 2.6666667,
@@ -31555,20 +31569,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 0.8,
-        "EndTime": 0.8666667,
-        "MemeEndTime": 0.8666667,
-        "Parameters": {
-          "JumpTableID": 72,
-          "ArgA": 0.09,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.8,
         "EndTime": 0.9,
@@ -31583,6 +31583,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.8,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {
+          "JumpTableID": 72,
+          "ArgA": 0.09,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -31895,6 +31909,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 1.3,
+        "MemeEndTime": 1.3,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -32922,6 +32943,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.26666668,
+        "EndTime": 0.93333334,
+        "MemeEndTime": 0.93333334,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -34280,6 +34308,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 1.6,
+        "MemeEndTime": 1.6,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 1.2333333,
         "EndTime": 3.0,
@@ -35553,6 +35588,20 @@
         }
       },
       {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 0.4,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 1,
+          "BehaviorJudgeID": 330,
+          "DirectionType": 1,
+          "Source": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.4,
         "EndTime": 0.5,
@@ -35567,20 +35616,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 0.4,
-        "EndTime": 0.53333336,
-        "MemeEndTime": 0.53333336,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 1,
-          "BehaviorJudgeID": 330,
-          "DirectionType": 1,
-          "Source": 0,
-          "StateInfo": 0
         }
       },
       {
@@ -35667,6 +35702,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.2,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -36604,6 +36646,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.4,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.4,
         "EndTime": 0.5,
@@ -36618,20 +36674,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.4,
-        "EndTime": 0.53333336,
-        "MemeEndTime": 0.53333336,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -36781,6 +36823,13 @@
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.2,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -37710,6 +37759,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.3,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -38680,6 +38736,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 1.1666666,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 1.3,
         "EndTime": 3.6666667,
@@ -39449,21 +39512,6 @@
         }
       },
       {
-        "TypeName": "InvokeDecalParamID_Unk",
-        "StartTime": 3.0,
-        "EndTime": 3.1,
-        "MemeEndTime": 3.1,
-        "Parameters": {
-          "DecalParamID": 5,
-          "DummyPolyID1": 0,
-          "DummyPolyID2": 65535,
-          "DummyPolyID3": 0,
-          "DummyPolyID4": 65535,
-          "DummyPolyID5": 0,
-          "DummyPolyID6": 65535
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 3.0,
         "EndTime": 3.1,
@@ -39478,6 +39526,21 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeDecalParamID_Unk",
+        "StartTime": 3.0,
+        "EndTime": 3.1,
+        "MemeEndTime": 3.1,
+        "Parameters": {
+          "DecalParamID": 5,
+          "DummyPolyID1": 0,
+          "DummyPolyID2": 65535,
+          "DummyPolyID3": 0,
+          "DummyPolyID4": 65535,
+          "DummyPolyID5": 0,
+          "DummyPolyID6": 65535
         }
       },
       {
@@ -39952,6 +40015,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.06666667,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -40716,13 +40786,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.3,
-        "MemeEndTime": 0.3,
-        "Parameters": {}
-      },
-      {
         "TypeName": "SpawnOneShotFFX",
         "StartTime": 0.0,
         "EndTime": 0.5,
@@ -40737,6 +40800,13 @@
           "ExtraSpawnCondition": 0,
           "StateInfo": 187
         }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.3,
+        "MemeEndTime": 0.3,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -40941,6 +41011,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.7,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -42144,6 +42221,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.06666667,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.46666667,
         "EndTime": 3.0,
@@ -42968,13 +43052,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.16666667,
-        "MemeEndTime": 0.16666667,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 2.2,
@@ -42990,6 +43067,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -43311,6 +43395,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.4,
+        "EndTime": 1.1,
+        "MemeEndTime": 1.1,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -44112,6 +44203,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.26666668,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
+        "Parameters": {}
+      },
+      {
         "TypeName": "InvokePCBehavior",
         "StartTime": 0.0,
         "EndTime": 1.1666666,
@@ -44593,6 +44691,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.26666668,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
+        "Parameters": {}
       },
       {
         "TypeName": "AddSpEffect_Multiplayer",
@@ -45095,6 +45200,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.26666668,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
+        "Parameters": {}
       },
       {
         "TypeName": "AddSpEffect_Multiplayer",
@@ -45908,6 +46020,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.26666668,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
+        "Parameters": {}
       },
       {
         "TypeName": "InvokeAttackBehavior",
@@ -49683,6 +49802,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {}
+      },
+      {
         "TypeName": "InvokePCBehavior",
         "StartTime": 0.0,
         "EndTime": 1.1666666,
@@ -49913,6 +50039,20 @@
         "Parameters": {}
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "SpawnOneShotFFX",
         "StartTime": 0.0,
         "EndTime": 0.5,
@@ -49926,20 +50066,6 @@
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0,
           "StateInfo": 187
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.0,
-        "EndTime": 100.0,
-        "MemeEndTime": 3.4028235E+38,
-        "Parameters": {
-          "JumpTableID": 28,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -50185,6 +50311,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {}
       },
       {
         "TypeName": "InvokePCBehavior",
@@ -50661,6 +50794,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {}
       },
       {
         "TypeName": "InvokePCBehavior",
@@ -51581,6 +51721,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -52667,6 +52814,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
         "EndTime": 2.3333333,
@@ -53421,6 +53575,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -54211,6 +54372,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -55032,6 +55200,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -70827,6 +71002,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.23333333,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.5,
         "EndTime": 2.3333333,
@@ -71981,6 +72163,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.2,
+        "EndTime": 1.3666667,
+        "MemeEndTime": 1.3666667,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.6,
         "EndTime": 2.6666667,
@@ -73093,6 +73282,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 1.6666666,
+        "MemeEndTime": 1.6666666,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.7,
         "EndTime": 3.0,
@@ -74052,18 +74248,6 @@
         }
       },
       {
-        "TypeName": "BlendToIdleOrMovementAnim",
-        "StartTime": 0.0,
-        "EndTime": 3.7,
-        "MemeEndTime": 3.7,
-        "Parameters": {
-          "IsFemaleAnim": false,
-          "AnimID": 3,
-          "AnimWeightAtEventStart": 1.0,
-          "AnimWeightAtEventEnd": 1.0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -74078,6 +74262,18 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "BlendToIdleOrMovementAnim",
+        "StartTime": 0.0,
+        "EndTime": 3.7,
+        "MemeEndTime": 3.7,
+        "Parameters": {
+          "IsFemaleAnim": false,
+          "AnimID": 3,
+          "AnimWeightAtEventStart": 1.0,
+          "AnimWeightAtEventEnd": 1.0
         }
       },
       {

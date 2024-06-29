@@ -536,7 +536,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
+        "StartTime": 0.46666667,
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
@@ -2514,6 +2514,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 1.0666667,
+        "EndTime": 1.8,
+        "MemeEndTime": 1.8,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 1.4333333,
         "EndTime": 3.6666667,
@@ -3575,6 +3582,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.06666667,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -4707,6 +4721,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 1.1333333,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
+        "Parameters": {}
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -5244,7 +5265,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
+        "StartTime": 0.46666667,
         "EndTime": 1.1,
         "MemeEndTime": 1.1,
         "Parameters": {
@@ -5538,6 +5559,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.7,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {
+          "JumpTableID": 56,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 0.7,
         "EndTime": 0.8,
@@ -5550,20 +5585,6 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.7,
-        "EndTime": 0.8,
-        "MemeEndTime": 0.8,
-        "Parameters": {
-          "JumpTableID": 56,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -5721,6 +5742,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.06666667,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",

@@ -12690,19 +12690,6 @@
         }
       },
       {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 0.9,
-        "EndTime": 1.0,
-        "MemeEndTime": 1.0,
-        "Parameters": {
-          "FFXID": 401002,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 10300,
-          "DummyPolyBladeTipID": -1,
-          "SlotNumber": 0
-        }
-      },
-      {
         "TypeName": "JumpTable",
         "StartTime": 0.9,
         "EndTime": 1.0,
@@ -12731,6 +12718,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 0.9,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "FFXID": 401002,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 10300,
+          "DummyPolyBladeTipID": -1,
+          "SlotNumber": 0
         }
       },
       {
@@ -13191,6 +13191,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.46666667,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -14319,6 +14326,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 1.5,
+        "MemeEndTime": 1.5,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -15661,17 +15675,16 @@
         }
       },
       {
-        "TypeName": "InvokeAttackBehavior",
+        "TypeName": "SpawnFFX_Blade",
         "StartTime": 0.93333334,
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 0,
-          "BehaviorJudgeID": 3956,
-          "DirectionType": 0,
-          "Source": 0,
-          "StateInfo": 0
+          "FFXID": 401002,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 10300,
+          "DummyPolyBladeTipID": -1,
+          "SlotNumber": 0
         }
       },
       {
@@ -15692,16 +15705,17 @@
         }
       },
       {
-        "TypeName": "SpawnFFX_Blade",
+        "TypeName": "InvokeAttackBehavior",
         "StartTime": 0.93333334,
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
-          "FFXID": 401002,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 10300,
-          "DummyPolyBladeTipID": -1,
-          "SlotNumber": 0
+          "AttackType": 0,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 3956,
+          "DirectionType": 0,
+          "Source": 0,
+          "StateInfo": 0
         }
       },
       {
@@ -15897,6 +15911,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.5,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -16792,6 +16813,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -18022,6 +18050,20 @@
         }
       },
       {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 1.6666666,
+        "EndTime": 1.8,
+        "MemeEndTime": 1.8,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 1,
+          "BehaviorJudgeID": 3983,
+          "DirectionType": 255,
+          "Source": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "InvokeDecalParamID_Unk",
         "StartTime": 1.6666666,
         "EndTime": 1.7666667,
@@ -18034,20 +18076,6 @@
           "DummyPolyID4": 65535,
           "DummyPolyID5": 0,
           "DummyPolyID6": 65535
-        }
-      },
-      {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 1.6666666,
-        "EndTime": 1.8,
-        "MemeEndTime": 1.8,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 1,
-          "BehaviorJudgeID": 3983,
-          "DirectionType": 255,
-          "Source": 0,
-          "StateInfo": 0
         }
       },
       {
@@ -18317,6 +18345,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.6666667,
+        "EndTime": 2.5666666,
+        "MemeEndTime": 2.5666666,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -19123,6 +19158,20 @@
         }
       },
       {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 0.43333334,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 3981,
+          "DirectionType": 255,
+          "Source": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.43333334,
         "EndTime": 0.53333336,
@@ -19137,20 +19186,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 0.43333334,
-        "EndTime": 0.56666666,
-        "MemeEndTime": 0.56666666,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 0,
-          "BehaviorJudgeID": 3981,
-          "DirectionType": 255,
-          "Source": 0,
-          "StateInfo": 0
         }
       },
       {
@@ -19307,6 +19342,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -20327,6 +20369,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.6666667,
+        "EndTime": 2.5666666,
+        "MemeEndTime": 2.5666666,
+        "Parameters": {}
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.4,
         "EndTime": 0.5,
@@ -21203,6 +21252,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -34497,9 +34553,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 1.4333333,
-        "EndTime": 1.5,
-        "MemeEndTime": 1.5,
+        "StartTime": 1.2666667,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 26,
           "JumpTable2ID_ToJudgeHowEarly": 2,
@@ -34511,7 +34567,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.5,
+        "StartTime": 1.3333334,
         "EndTime": 2.5,
         "MemeEndTime": 2.5,
         "Parameters": {
@@ -53388,6 +53444,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.46666667,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 1.7666667,
         "EndTime": 3.7,
@@ -54175,19 +54238,6 @@
         }
       },
       {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 1.8333334,
-        "EndTime": 1.9666667,
-        "MemeEndTime": 1.9666667,
-        "Parameters": {
-          "FFXID": 401001,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 10300,
-          "DummyPolyBladeTipID": -1,
-          "SlotNumber": 1
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.8333334,
         "EndTime": 1.9333333,
@@ -54202,6 +54252,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 1.8333334,
+        "EndTime": 1.9666667,
+        "MemeEndTime": 1.9666667,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 10300,
+          "DummyPolyBladeTipID": -1,
+          "SlotNumber": 1
         }
       },
       {
@@ -54286,19 +54349,6 @@
         }
       },
       {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 1.8333334,
-        "EndTime": 1.9666667,
-        "MemeEndTime": 1.9666667,
-        "Parameters": {
-          "FFXID": 401001,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 11300,
-          "DummyPolyBladeTipID": -1,
-          "SlotNumber": 2
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.8333334,
         "EndTime": 1.8666667,
@@ -54313,6 +54363,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 1.8333334,
+        "EndTime": 1.9666667,
+        "MemeEndTime": 1.9666667,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 11300,
+          "DummyPolyBladeTipID": -1,
+          "SlotNumber": 2
         }
       },
       {
@@ -54902,6 +54965,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 1.5666667,
+        "MemeEndTime": 1.5666667,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -56115,6 +56185,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.5,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 1.6,
         "EndTime": 3.4333334,
@@ -57280,6 +57357,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -58644,20 +58728,6 @@
         }
       },
       {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 2.2,
-        "EndTime": 2.3,
-        "MemeEndTime": 2.3,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 0,
-          "BehaviorJudgeID": 3988,
-          "DirectionType": 255,
-          "Source": 0,
-          "StateInfo": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 2.2,
         "EndTime": 2.3,
@@ -58672,6 +58742,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 2.2,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 3988,
+          "DirectionType": 255,
+          "Source": 0,
+          "StateInfo": 0
         }
       },
       {
@@ -58893,6 +58977,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.6666667,
+        "EndTime": 2.5666666,
+        "MemeEndTime": 2.5666666,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -59889,6 +59980,22 @@
         }
       },
       {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "FFXID": 420,
+          "DummyPolyID": 80,
+          "TimerNumber": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.4,
         "EndTime": 0.46666667,
@@ -59920,42 +60027,12 @@
         }
       },
       {
-        "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.4,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
-        "Parameters": {
-          "FFXID": 420,
-          "DummyPolyID": 80,
-          "TimerNumber": -1,
-          "IsIgnoreDummyPolyAngle": false,
-          "IsFollowDummyPoly": true,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0,
-          "StateInfo": 0
-        }
-      },
-      {
         "TypeName": "JumpTable",
         "StartTime": 0.46666667,
         "EndTime": 0.5,
         "MemeEndTime": 0.5,
         "Parameters": {
           "JumpTableID": 63,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.6,
-        "EndTime": 0.6666667,
-        "MemeEndTime": 0.6666667,
-        "Parameters": {
-          "JumpTableID": 5,
           "ArgA": 0.0,
           "ArgB": -1,
           "ArgC": 6,
@@ -59977,6 +60054,20 @@
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0,
           "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.6,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "JumpTableID": 5,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -60006,6 +60097,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -60849,20 +60947,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 2.1666667,
-        "EndTime": 2.2666667,
-        "MemeEndTime": 2.2666667,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 2.1666667,
         "EndTime": 2.2666667,
@@ -60877,6 +60961,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.1666667,
+        "EndTime": 2.2666667,
+        "MemeEndTime": 2.2666667,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -60990,6 +61088,19 @@
         }
       },
       {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 2.1666667,
+        "EndTime": 2.2333333,
+        "MemeEndTime": 2.2333333,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 11300,
+          "DummyPolyBladeTipID": -1,
+          "SlotNumber": 2
+        }
+      },
+      {
         "TypeName": "InvokeAttackBehavior",
         "StartTime": 2.1666667,
         "EndTime": 2.2666667,
@@ -61001,19 +61112,6 @@
           "DirectionType": 255,
           "Source": 0,
           "StateInfo": 0
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 2.1666667,
-        "EndTime": 2.2333333,
-        "MemeEndTime": 2.2333333,
-        "Parameters": {
-          "FFXID": 401001,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 11300,
-          "DummyPolyBladeTipID": -1,
-          "SlotNumber": 2
         }
       },
       {
@@ -61116,20 +61214,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 1.8333334,
-        "EndTime": 1.9,
-        "MemeEndTime": 1.9,
-        "Parameters": {
-          "JumpTableID": 5,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "SpawnOneShotFFX",
         "StartTime": 1.8333334,
         "EndTime": 1.9333333,
@@ -61143,6 +61227,20 @@
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0,
           "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.8333334,
+        "EndTime": 1.9,
+        "MemeEndTime": 1.9,
+        "Parameters": {
+          "JumpTableID": 5,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -61267,6 +61365,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.6666667,
+        "EndTime": 2.5666666,
+        "MemeEndTime": 2.5666666,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -62262,6 +62367,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",

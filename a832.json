@@ -196,7 +196,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 101,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -1336,7 +1336,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 101,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -2652,7 +2652,7 @@
         "EndTime": 1.7,
         "MemeEndTime": 1.7,
         "Parameters": {
-          "ToughnessParamID": 100,
+          "ToughnessParamID": 101,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -3851,7 +3851,7 @@
         "EndTime": 1.4666667,
         "MemeEndTime": 1.4666667,
         "Parameters": {
-          "ToughnessParamID": 130,
+          "ToughnessParamID": 131,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -5415,7 +5415,7 @@
         "EndTime": 1.2333333,
         "MemeEndTime": 1.2333333,
         "Parameters": {
-          "ToughnessParamID": 130,
+          "ToughnessParamID": 131,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -6609,7 +6609,7 @@
         "EndTime": 1.7666667,
         "MemeEndTime": 1.7666667,
         "Parameters": {
-          "ToughnessParamID": 130,
+          "ToughnessParamID": 131,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -12904,7 +12904,7 @@
         "EndTime": 0.8,
         "MemeEndTime": 0.8,
         "Parameters": {
-          "ToughnessParamID": 140,
+          "ToughnessParamID": 141,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -13316,7 +13316,7 @@
         "EndTime": 0.8,
         "MemeEndTime": 0.8,
         "Parameters": {
-          "ToughnessParamID": 140,
+          "ToughnessParamID": 141,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -13721,7 +13721,7 @@
         "EndTime": 0.8,
         "MemeEndTime": 0.8,
         "Parameters": {
-          "ToughnessParamID": 140,
+          "ToughnessParamID": 141,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -14724,7 +14724,7 @@
         "EndTime": 0.8,
         "MemeEndTime": 0.8,
         "Parameters": {
-          "ToughnessParamID": 140,
+          "ToughnessParamID": 141,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -20097,7 +20097,7 @@
         "EndTime": 2.3333333,
         "MemeEndTime": 2.3333333,
         "Parameters": {
-          "ToughnessParamID": 200,
+          "ToughnessParamID": 201,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -22623,7 +22623,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 1,
           "Unk13": false
         }
@@ -22672,7 +22672,7 @@
         "EndTime": 2.3333333,
         "MemeEndTime": 2.3333333,
         "Parameters": {
-          "ToughnessParamID": 200,
+          "ToughnessParamID": 201,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }

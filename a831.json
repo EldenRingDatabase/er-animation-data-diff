@@ -232,7 +232,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -249,7 +249,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -301,7 +301,7 @@
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
-          "ToughnessParamID": 120,
+          "ToughnessParamID": 121,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -1819,7 +1819,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -1836,7 +1836,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -1891,7 +1891,7 @@
         "EndTime": 1.6666666,
         "MemeEndTime": 1.6666666,
         "Parameters": {
-          "ToughnessParamID": 120,
+          "ToughnessParamID": 121,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -3261,7 +3261,7 @@
         "EndTime": 3.0,
         "MemeEndTime": 3.0,
         "Parameters": {
-          "ToughnessParamID": 120,
+          "ToughnessParamID": 121,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -4632,7 +4632,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "ToughnessParamID": 120,
+          "ToughnessParamID": 121,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -5640,7 +5640,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -5657,7 +5657,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -5696,7 +5696,7 @@
         "EndTime": 3.3333333,
         "MemeEndTime": 3.3333333,
         "Parameters": {
-          "ToughnessParamID": 120,
+          "ToughnessParamID": 121,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -7128,7 +7128,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -7145,7 +7145,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -7184,7 +7184,7 @@
         "EndTime": 1.6666666,
         "MemeEndTime": 1.6666666,
         "Parameters": {
-          "ToughnessParamID": 120,
+          "ToughnessParamID": 121,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -8450,7 +8450,7 @@
         "EndTime": 3.0,
         "MemeEndTime": 3.0,
         "Parameters": {
-          "ToughnessParamID": 120,
+          "ToughnessParamID": 121,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -9815,7 +9815,7 @@
         "EndTime": 1.3333334,
         "MemeEndTime": 1.3333334,
         "Parameters": {
-          "ToughnessParamID": 120,
+          "ToughnessParamID": 121,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -10881,7 +10881,7 @@
           "AttachmentType": 0,
           "Enable": true,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -10898,7 +10898,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -10915,7 +10915,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -10969,7 +10969,7 @@
         "EndTime": 4.3333335,
         "MemeEndTime": 4.3333335,
         "Parameters": {
-          "ToughnessParamID": 190,
+          "ToughnessParamID": 191,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }

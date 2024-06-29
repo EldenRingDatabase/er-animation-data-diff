@@ -19,12 +19,12 @@
         "MemeEndTime": 0.033333335,
         "Parameters": {
           "DummyPolyID": 177,
-          "AttackIndex": 30,
+          "AttackIndex": 0,
           "BehaviorJudgeID": 310,
           "AttachmentType": 2,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }

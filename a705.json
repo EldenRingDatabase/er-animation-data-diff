@@ -820,12 +820,12 @@
         "MemeEndTime": 1.4,
         "Parameters": {
           "DummyPolyID": 100,
-          "AttackIndex": 30,
+          "AttackIndex": 0,
           "BehaviorJudgeID": 851,
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -1363,12 +1363,12 @@
         "MemeEndTime": 1.4,
         "Parameters": {
           "DummyPolyID": 100,
-          "AttackIndex": 30,
+          "AttackIndex": 0,
           "BehaviorJudgeID": 856,
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -1887,12 +1887,12 @@
         "MemeEndTime": 1.9666667,
         "Parameters": {
           "DummyPolyID": 100,
-          "AttackIndex": 30,
+          "AttackIndex": 0,
           "BehaviorJudgeID": 851,
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -2440,12 +2440,12 @@
         "MemeEndTime": 1.9666667,
         "Parameters": {
           "DummyPolyID": 100,
-          "AttackIndex": 30,
+          "AttackIndex": 0,
           "BehaviorJudgeID": 856,
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }

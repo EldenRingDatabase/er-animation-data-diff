@@ -3401,6 +3401,13 @@
         }
       },
       {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.33333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {}
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.6333333,
         "EndTime": 3.1,
@@ -4500,17 +4507,6 @@
         }
       },
       {
-        "TypeName": "InvokeRumbleCam_ByDummyPoly",
-        "StartTime": 1.3666667,
-        "EndTime": 1.4666667,
-        "MemeEndTime": 1.4666667,
-        "Parameters": {
-          "RumbleCamID": 66,
-          "Condition": 0,
-          "Unk04": -1
-        }
-      },
-      {
         "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 1.3666667,
         "EndTime": 1.4666667,
@@ -4523,6 +4519,17 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
+        }
+      },
+      {
+        "TypeName": "InvokeRumbleCam_ByDummyPoly",
+        "StartTime": 1.3666667,
+        "EndTime": 1.4666667,
+        "MemeEndTime": 1.4666667,
+        "Parameters": {
+          "RumbleCamID": 66,
+          "Condition": 0,
+          "Unk04": -1
         }
       },
       {
@@ -4789,6 +4796,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.8333333,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -5964,6 +5978,13 @@
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.06666667,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",

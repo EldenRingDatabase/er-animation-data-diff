@@ -15,7 +15,7 @@
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -42,7 +42,7 @@
         "EndTime": 1.6333333,
         "MemeEndTime": 1.6333333,
         "Parameters": {
-          "ToughnessParamID": 200,
+          "ToughnessParamID": 201,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }

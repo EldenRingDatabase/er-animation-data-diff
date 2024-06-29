@@ -965,12 +965,12 @@
         "MemeEndTime": 0.33333334,
         "Parameters": {
           "DummyPolyID": 58,
-          "AttackIndex": 30,
+          "AttackIndex": 0,
           "BehaviorJudgeID": 820,
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }
@@ -1289,12 +1289,12 @@
         "MemeEndTime": 0.33333334,
         "Parameters": {
           "DummyPolyID": 58,
-          "AttackIndex": 30,
+          "AttackIndex": 0,
           "BehaviorJudgeID": 825,
           "AttachmentType": 0,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 255,
           "Unk13": false
         }

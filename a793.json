@@ -25,7 +25,7 @@
         "EndTime": 0.8666667,
         "MemeEndTime": 0.8666667,
         "Parameters": {
-          "ToughnessParamID": 200,
+          "ToughnessParamID": 201,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -1083,7 +1083,7 @@
         "EndTime": 1.5,
         "MemeEndTime": 1.5,
         "Parameters": {
-          "ToughnessParamID": 200,
+          "ToughnessParamID": 201,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }

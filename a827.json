@@ -486,7 +486,7 @@
           "AttachmentType": 2,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 0,
           "Unk13": false
         }
@@ -503,7 +503,7 @@
           "AttachmentType": 2,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 0,
           "Unk13": false
         }
@@ -520,7 +520,7 @@
           "AttachmentType": 2,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 0,
           "Unk13": false
         }
@@ -537,7 +537,7 @@
           "AttachmentType": 2,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 0,
           "Unk13": false
         }
@@ -3013,7 +3013,7 @@
           "AttachmentType": 2,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 0,
           "Unk13": false
         }
@@ -3030,7 +3030,7 @@
           "AttachmentType": 2,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 0,
           "Unk13": false
         }
@@ -3047,7 +3047,7 @@
           "AttachmentType": 2,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 0,
           "Unk13": false
         }
@@ -3064,7 +3064,7 @@
           "AttachmentType": 2,
           "Enable": false,
           "StateInfo": 0,
-          "Offset": -1,
+          "Offset": 0,
           "Unk12": 0,
           "Unk13": false
         }
