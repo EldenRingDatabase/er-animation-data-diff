@@ -1,0 +1,335 @@
+{
+  "a381_090100.hkt-90100": {
+    "AnimFileName": "a381_090100.hkt",
+    "ID": 90100,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "a381_090101.hkt-90101": {
+    "AnimFileName": "a381_090101.hkt",
+    "ID": 90101,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "-90300": {
+    "AnimFileName": "",
+    "ID": 90300,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "-90301": {
+    "AnimFileName": "",
+    "ID": 90301,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "-90302": {
+    "AnimFileName": "",
+    "ID": 90302,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  }
+}

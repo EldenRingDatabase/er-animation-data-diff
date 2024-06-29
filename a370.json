@@ -1,0 +1,6670 @@
+{
+  "a370_090100.hkt-90100": {
+    "AnimFileName": "a370_090100.hkt",
+    "ID": 90100,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9665
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      }
+    ]
+  },
+  "a370_090101.hkt-90101": {
+    "AnimFileName": "a370_090101.hkt",
+    "ID": 90101,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9666
+        }
+      }
+    ]
+  },
+  "a370_090102.hkt-90102": {
+    "AnimFileName": "a370_090102.hkt",
+    "ID": 90102,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9667
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "a370_090103.hkt-90103": {
+    "AnimFileName": "a370_090103.hkt",
+    "ID": 90103,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      }
+    ]
+  },
+  "a370_090202.hkt-90202": {
+    "AnimFileName": "a370_090202.hkt",
+    "ID": 90202,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.5,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.2,
+        "EndTime": 1.3,
+        "MemeEndTime": 1.3,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 151,
+          "SlotID": 11,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 2.6333334,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 152,
+          "SlotID": 12,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 1,
+          "SlotID": 13,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 153,
+          "SlotID": 14,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 8,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 2,
+          "SlotID": 15,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.5666667,
+        "EndTime": 3.3,
+        "MemeEndTime": 3.3,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 7801,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 154,
+          "SlotID": 16,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.1333334,
+        "EndTime": 3.7,
+        "MemeEndTime": 3.7,
+        "Parameters": {
+          "JumpTableID": 12,
+          "ArgA": 0.0,
+          "ArgB": 0,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 24,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 5,
+          "SlotID": 17,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.4,
+        "EndTime": 2.5,
+        "MemeEndTime": 2.5,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 7800,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 999999997,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 155,
+          "SlotID": 18,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9633
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008100,
+          "DummyPolyID": 255,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 6,
+          "SlotID": 19,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 141,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.43333334,
+        "MemeEndTime": 0.43333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 2.4333334,
+        "EndTime": 3.3,
+        "MemeEndTime": 3.3,
+        "Parameters": {
+          "OpacityAtEventStart": 1.0,
+          "OpacityAtEventEnd": 0.0,
+          "Unk08": 1
+        }
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 3.3,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "OpacityAtEventStart": 0.0,
+          "OpacityAtEventEnd": 0.0,
+          "Unk08": 1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.6666666,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 95,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.5,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.6,
+        "EndTime": 3.3333333,
+        "MemeEndTime": 3.3333333,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 150,
+          "SlotID": 10,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.8666667,
+        "EndTime": 1.9666667,
+        "MemeEndTime": 1.9666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      }
+    ]
+  },
+  "a370_090203.hkt-90203": {
+    "AnimFileName": "a370_090203.hkt",
+    "ID": 90203,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 2.4,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "OpacityAtEventStart": 1.0,
+          "OpacityAtEventEnd": 0.0,
+          "Unk08": 1
+        }
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 3.2666667,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "OpacityAtEventStart": 0.0,
+          "OpacityAtEventEnd": 0.0,
+          "Unk08": 1
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.6,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 95,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.6,
+        "EndTime": 2.7,
+        "MemeEndTime": 2.7,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 150,
+          "SlotID": 10,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.0666666,
+        "EndTime": 2.1666667,
+        "MemeEndTime": 2.1666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.6333333,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.5,
+        "EndTime": 1.6,
+        "MemeEndTime": 1.6,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 151,
+          "SlotID": 11,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 2.8333333,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 8,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 152,
+          "SlotID": 12,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 1,
+          "SlotID": 13,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.1333334,
+        "EndTime": 3.9666667,
+        "MemeEndTime": 3.9666667,
+        "Parameters": {
+          "JumpTableID": 12,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 24,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 153,
+          "SlotID": 14,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 2,
+          "SlotID": 15,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9633
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.5,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 7801,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 154,
+          "SlotID": 16,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 5,
+          "SlotID": 17,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.3666666,
+        "EndTime": 2.4666667,
+        "MemeEndTime": 2.4666667,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 7800,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 141,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 999999997,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 155,
+          "SlotID": 18,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008100,
+          "DummyPolyID": 255,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.5333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 6,
+          "SlotID": 19,
+          "IsRepeat": false
+        }
+      }
+    ]
+  },
+  "a370_090204.hkt-90204": {
+    "AnimFileName": "a370_090204.hkt",
+    "ID": 90204,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.3333334,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 7801,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.4,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 154,
+          "SlotID": 16,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.4,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 5,
+          "SlotID": 17,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.2,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 7800,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 999999997,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.4,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 155,
+          "SlotID": 18,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008100,
+          "DummyPolyID": 255,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.4,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 6,
+          "SlotID": 19,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 8,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.1333334,
+        "EndTime": 3.5666666,
+        "MemeEndTime": 3.5666666,
+        "Parameters": {
+          "JumpTableID": 12,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 24,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9633
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 141,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9667
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 2.2333333,
+        "EndTime": 3.1,
+        "MemeEndTime": 3.1,
+        "Parameters": {
+          "OpacityAtEventStart": 1.0,
+          "OpacityAtEventEnd": 0.0,
+          "Unk08": 1
+        }
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 3.1,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "OpacityAtEventStart": 0.0,
+          "OpacityAtEventEnd": 0.0,
+          "Unk08": 1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.4333333,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 95,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.6,
+        "EndTime": 2.7,
+        "MemeEndTime": 2.7,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.3666667,
+        "EndTime": 3.1,
+        "MemeEndTime": 3.1,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 150,
+          "SlotID": 10,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.0666666,
+        "EndTime": 2.1666667,
+        "MemeEndTime": 2.1666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.6333333,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.4,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 151,
+          "SlotID": 11,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.5,
+        "EndTime": 1.6,
+        "MemeEndTime": 1.6,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 2.7,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.4,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 152,
+          "SlotID": 12,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.4,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 1,
+          "SlotID": 13,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.4,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 153,
+          "SlotID": 14,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_ChrType",
+        "StartTime": 1.4,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "FFXID_ForAll": 201,
+          "FFXID_ForHost": 0,
+          "FFXID_ForRoleParam1_FurledFinger": 30500,
+          "FFXID_ForRoleParam2_Duelist": 30510,
+          "FFXID_ForRoleParam20001_FurledFinger": 0,
+          "FFXID_ForRoleParam20002_FurledFinger": 0,
+          "FFXID_ForRoleParam30001_Duelist": 0,
+          "FFXID_ForRoleParam30002_Duelist": 0,
+          "FFXID_ForRoleParam10001_Hunter": 0,
+          "FFXID_ForRoleParam90001_Hunter": 0,
+          "FFXID_ForRoleParam60002_Hunter": 0,
+          "FFXID_ForRoleParam70002_BloodyFinger": 0,
+          "DummyPolyID": 2,
+          "SlotID": 15,
+          "IsRepeat": false
+        }
+      }
+    ]
+  },
+  "a370_090205.hkt-90205": {
+    "AnimFileName": "a370_090205.hkt",
+    "ID": 90205,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Body_ForEventDuration",
+        "StartTime": 0.23333333,
+        "EndTime": 6.3,
+        "MemeEndTime": 6.3,
+        "Parameters": {
+          "FFXID": 400200,
+          "DummyPolyID": 802,
+          "Unk06": 0,
+          "RepeatType": 1,
+          "IsRepeat": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.5,
+        "EndTime": 1.6,
+        "MemeEndTime": 1.6,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 2001,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 6.1666665,
+        "EndTime": 6.266667,
+        "MemeEndTime": 6.266667,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 1001,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 6.8,
+        "EndTime": 6.9,
+        "MemeEndTime": 6.9,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 1001,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 11.9,
+        "EndTime": 12.0,
+        "MemeEndTime": 12.0,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 1001,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 12.566667,
+        "EndTime": 12.666667,
+        "MemeEndTime": 12.666667,
+        "Parameters": {
+          "SoundType": 8,
+          "SoundID": 1001,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 10.7,
+        "EndTime": 10.8,
+        "MemeEndTime": 10.8,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.0,
+        "EndTime": 1.8,
+        "MemeEndTime": 1.8,
+        "Parameters": {
+          "FFXID": 30321,
+          "DummyPolyID": 900,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 6.866667,
+        "EndTime": 6.9666667,
+        "MemeEndTime": 6.9666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 11.933333,
+        "EndTime": 12.033334,
+        "MemeEndTime": 12.033334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 12.533334,
+        "EndTime": 12.633333,
+        "MemeEndTime": 12.633333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.0666667,
+        "EndTime": 1.1666666,
+        "MemeEndTime": 1.1666666,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 5.4333334,
+        "EndTime": 5.5333333,
+        "MemeEndTime": 5.5333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 6.1666665,
+        "EndTime": 6.266667,
+        "MemeEndTime": 6.266667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 11.333333,
+        "EndTime": 11.433333,
+        "MemeEndTime": 11.433333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 0.0,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "OpacityAtEventStart": 0.0,
+          "OpacityAtEventEnd": 1.0,
+          "Unk08": 1
+        }
+      }
+    ]
+  },
+  "a370_090207.hkt-90207": {
+    "AnimFileName": "a370_090207.hkt",
+    "ID": 90207,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.96666664,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 4.9333334,
+        "EndTime": 5.0333333,
+        "MemeEndTime": 5.0333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.43333334,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 5.6666665,
+        "EndTime": 5.766667,
+        "MemeEndTime": 5.766667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9667
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.6666667,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 8000,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": 0.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 311,
+          "JumpTableID": 8,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a370_090100.hkt-90300": {
+    "AnimFileName": "a370_090100.hkt",
+    "ID": 90300,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9665
+        }
+      }
+    ]
+  },
+  "a370_090100.hkt-90301": {
+    "AnimFileName": "a370_090100.hkt",
+    "ID": 90301,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9665
+        }
+      }
+    ]
+  },
+  "a370_090100.hkt-90302": {
+    "AnimFileName": "a370_090100.hkt",
+    "ID": 90302,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9665
+        }
+      }
+    ]
+  },
+  "a370_090101.hkt-90305": {
+    "AnimFileName": "a370_090101.hkt",
+    "ID": 90305,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9666
+        }
+      }
+    ]
+  },
+  "a370_090101.hkt-90306": {
+    "AnimFileName": "a370_090101.hkt",
+    "ID": 90306,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9666
+        }
+      }
+    ]
+  },
+  "a370_090101.hkt-90307": {
+    "AnimFileName": "a370_090101.hkt",
+    "ID": 90307,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9666
+        }
+      }
+    ]
+  },
+  "a370_090102.hkt-90310": {
+    "AnimFileName": "a370_090102.hkt",
+    "ID": 90310,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.43333334,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 3.1,
+        "EndTime": 3.2,
+        "MemeEndTime": 3.2,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9667
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": 0.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 311,
+          "JumpTableID": 8,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a370_090102.hkt-90311": {
+    "AnimFileName": "a370_090102.hkt",
+    "ID": 90311,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.43333334,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 3.1,
+        "EndTime": 3.2,
+        "MemeEndTime": 3.2,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9667
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": 0.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 311,
+          "JumpTableID": 8,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a370_090102.hkt-90312": {
+    "AnimFileName": "a370_090102.hkt",
+    "ID": 90312,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.43333334,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 3.1,
+        "EndTime": 3.2,
+        "MemeEndTime": 3.2,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9667
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": 0.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 311,
+          "JumpTableID": 8,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a370_090400.hkt-90400": {
+    "AnimFileName": "a370_090400.hkt",
+    "ID": 90400,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.53333336,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "OverrideWeaponModelLocations",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "RHModel0AbsorpPosParamCondition": 0,
+          "RHModel0ChangeType": 1,
+          "RHModel1AbsorpPosParamCondition": 0,
+          "RHModel1ChangeType": 1,
+          "RHModel2AbsorpPosParamCondition": 0,
+          "RHModel2ChangeType": 1,
+          "RHModel3AbsorpPosParamCondition": 0,
+          "RHModel3ChangeType": 1,
+          "LHModel0AbsorpPosParamCondition": 0,
+          "LHModel0ChangeType": -1,
+          "LHModel1AbsorpPosParamCondition": 0,
+          "LHModel1ChangeType": -1,
+          "LHModel2AbsorpPosParamCondition": 0,
+          "LHModel2ChangeType": -1,
+          "LHModel3AbsorpPosParamCondition": 0,
+          "LHModel3ChangeType": -1,
+          "IsEnabledWhile1Handing": 1,
+          "IsEnabledWhile2HandingRightWeapon": 1,
+          "IsEnabledWhile2HandingLeftWeapon": 1
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008000,
+          "DummyPolyID": 255,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 24,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9633
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9665
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.2333333,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      }
+    ]
+  },
+  "a370_090401.hkt-90401": {
+    "AnimFileName": "a370_090401.hkt",
+    "ID": 90401,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.53333336,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "OverrideWeaponModelLocations",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "RHModel0AbsorpPosParamCondition": 0,
+          "RHModel0ChangeType": 1,
+          "RHModel1AbsorpPosParamCondition": 0,
+          "RHModel1ChangeType": 1,
+          "RHModel2AbsorpPosParamCondition": 0,
+          "RHModel2ChangeType": 1,
+          "RHModel3AbsorpPosParamCondition": 0,
+          "RHModel3ChangeType": 1,
+          "LHModel0AbsorpPosParamCondition": 0,
+          "LHModel0ChangeType": -1,
+          "LHModel1AbsorpPosParamCondition": 0,
+          "LHModel1ChangeType": -1,
+          "LHModel2AbsorpPosParamCondition": 0,
+          "LHModel2ChangeType": -1,
+          "LHModel3AbsorpPosParamCondition": 0,
+          "LHModel3ChangeType": -1,
+          "IsEnabledWhile1Handing": 1,
+          "IsEnabledWhile2HandingRightWeapon": 1,
+          "IsEnabledWhile2HandingLeftWeapon": 1
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008000,
+          "DummyPolyID": 255,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 24,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9633
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9666
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.2333333,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      }
+    ]
+  },
+  "a370_090402.hkt-90402": {
+    "AnimFileName": "a370_090402.hkt",
+    "ID": 90402,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.53333336,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "OverrideWeaponModelLocations",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "RHModel0AbsorpPosParamCondition": 0,
+          "RHModel0ChangeType": 1,
+          "RHModel1AbsorpPosParamCondition": 0,
+          "RHModel1ChangeType": 1,
+          "RHModel2AbsorpPosParamCondition": 0,
+          "RHModel2ChangeType": 1,
+          "RHModel3AbsorpPosParamCondition": 0,
+          "RHModel3ChangeType": 1,
+          "LHModel0AbsorpPosParamCondition": 0,
+          "LHModel0ChangeType": -1,
+          "LHModel1AbsorpPosParamCondition": 0,
+          "LHModel1ChangeType": -1,
+          "LHModel2AbsorpPosParamCondition": 0,
+          "LHModel2ChangeType": -1,
+          "LHModel3AbsorpPosParamCondition": 0,
+          "LHModel3ChangeType": -1,
+          "IsEnabledWhile1Handing": 1,
+          "IsEnabledWhile2HandingRightWeapon": 1,
+          "IsEnabledWhile2HandingLeftWeapon": 1
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.2333333,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 24,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008000,
+          "DummyPolyID": 255,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9633
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9667
+        }
+      }
+    ]
+  },
+  "a370_090403.hkt-90403": {
+    "AnimFileName": "a370_090403.hkt",
+    "ID": 90403,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "FFXID": 604000,
+          "DummyPolyID": 750,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.5333333,
+        "EndTime": 2.6333334,
+        "MemeEndTime": 2.6333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.53333336,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.2333333,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 4.0,
+        "EndTime": 4.1,
+        "MemeEndTime": 4.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.6666667,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "FFXID": 560210,
+          "DummyPolyID": 832,
+          "SlotID": 1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.8333334,
+        "EndTime": 1.9333333,
+        "MemeEndTime": 1.9333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeBulletBehavior",
+        "StartTime": 2.0,
+        "EndTime": 2.1333334,
+        "MemeEndTime": 2.1333334,
+        "Parameters": {
+          "DummyPolyID": 220,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 920,
+          "AttachmentType": 0,
+          "Enable": true,
+          "StateInfo": 0,
+          "Offset": 0,
+          "Unk12": 255,
+          "Unk13": true
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 3.1333334,
+        "EndTime": 3.2333333,
+        "MemeEndTime": 3.2333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeBulletBehavior",
+        "StartTime": 2.0,
+        "EndTime": 3.2333333,
+        "MemeEndTime": 3.2333333,
+        "Parameters": {
+          "DummyPolyID": 220,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 921,
+          "AttachmentType": 0,
+          "Enable": true,
+          "StateInfo": 0,
+          "Offset": 0,
+          "Unk12": 255,
+          "Unk13": true
+        }
+      },
+      {
+        "TypeName": "OverrideWeaponModelLocations",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "RHModel0AbsorpPosParamCondition": 0,
+          "RHModel0ChangeType": 1,
+          "RHModel1AbsorpPosParamCondition": 0,
+          "RHModel1ChangeType": 1,
+          "RHModel2AbsorpPosParamCondition": 0,
+          "RHModel2ChangeType": 1,
+          "RHModel3AbsorpPosParamCondition": 0,
+          "RHModel3ChangeType": 1,
+          "LHModel0AbsorpPosParamCondition": 0,
+          "LHModel0ChangeType": -1,
+          "LHModel1AbsorpPosParamCondition": 0,
+          "LHModel1ChangeType": -1,
+          "LHModel2AbsorpPosParamCondition": 0,
+          "LHModel2ChangeType": -1,
+          "LHModel3AbsorpPosParamCondition": 0,
+          "LHModel3ChangeType": -1,
+          "IsEnabledWhile1Handing": 0,
+          "IsEnabledWhile2HandingRightWeapon": 1,
+          "IsEnabledWhile2HandingLeftWeapon": 1
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008000,
+          "DummyPolyID": 255,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.16666667,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {
+          "FFXID": 560211,
+          "DummyPolyID": 832,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": false,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 4.4666667,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 24,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.9666667,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008300,
+          "DummyPolyID": 255,
+          "SlotID": 20,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604001,
+          "DummyPolyID": 255,
+          "SlotID": 21,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_Unk134",
+        "StartTime": 1.9666667,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604002,
+          "Unk08": -1,
+          "Unk0C": 30.0,
+          "Unk10": 1.0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.4333333,
+        "EndTime": 1.5333333,
+        "MemeEndTime": 1.5333333,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604003,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9633
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.9666667,
+        "EndTime": 4.266667,
+        "MemeEndTime": 4.266667,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604004,
+          "DummyPolyID": 255,
+          "SlotID": 22,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604005,
+          "DummyPolyID": -1,
+          "SlotID": 55,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.13333334,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604000,
+          "DummyPolyID": -1,
+          "SlotID": 56,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 18680
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9665
+        }
+      }
+    ]
+  },
+  "a370_090404.hkt-90404": {
+    "AnimFileName": "a370_090404.hkt",
+    "ID": 90404,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "InvokeBulletBehavior",
+        "StartTime": 2.0,
+        "EndTime": 2.1333334,
+        "MemeEndTime": 2.1333334,
+        "Parameters": {
+          "DummyPolyID": 220,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 920,
+          "AttachmentType": 0,
+          "Enable": true,
+          "StateInfo": 0,
+          "Offset": 0,
+          "Unk12": 255,
+          "Unk13": true
+        }
+      },
+      {
+        "TypeName": "InvokeBulletBehavior",
+        "StartTime": 2.0,
+        "EndTime": 3.2333333,
+        "MemeEndTime": 3.2333333,
+        "Parameters": {
+          "DummyPolyID": 220,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 921,
+          "AttachmentType": 0,
+          "Enable": true,
+          "StateInfo": 0,
+          "Offset": 0,
+          "Unk12": 255,
+          "Unk13": true
+        }
+      },
+      {
+        "TypeName": "OverrideWeaponModelLocations",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "RHModel0AbsorpPosParamCondition": 0,
+          "RHModel0ChangeType": 1,
+          "RHModel1AbsorpPosParamCondition": 0,
+          "RHModel1ChangeType": 1,
+          "RHModel2AbsorpPosParamCondition": 0,
+          "RHModel2ChangeType": 1,
+          "RHModel3AbsorpPosParamCondition": 0,
+          "RHModel3ChangeType": 1,
+          "LHModel0AbsorpPosParamCondition": 0,
+          "LHModel0ChangeType": -1,
+          "LHModel1AbsorpPosParamCondition": 0,
+          "LHModel1ChangeType": -1,
+          "LHModel2AbsorpPosParamCondition": 0,
+          "LHModel2ChangeType": -1,
+          "LHModel3AbsorpPosParamCondition": 0,
+          "LHModel3ChangeType": -1,
+          "IsEnabledWhile1Handing": 0,
+          "IsEnabledWhile2HandingRightWeapon": 1,
+          "IsEnabledWhile2HandingLeftWeapon": 1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 24,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9633
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 18681
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9666
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "FFXID": 604010,
+          "DummyPolyID": 750,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.5333333,
+        "EndTime": 2.6333334,
+        "MemeEndTime": 2.6333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.53333336,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.6666667,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "FFXID": 560210,
+          "DummyPolyID": 832,
+          "SlotID": 1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.2333333,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 4.0,
+        "EndTime": 4.1,
+        "MemeEndTime": 4.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.16666667,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {
+          "FFXID": 560211,
+          "DummyPolyID": 832,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": false,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.8333334,
+        "EndTime": 1.9333333,
+        "MemeEndTime": 1.9333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 3.1333334,
+        "EndTime": 3.2333333,
+        "MemeEndTime": 3.2333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008000,
+          "DummyPolyID": 255,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 4.1,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.9666667,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008300,
+          "DummyPolyID": 255,
+          "SlotID": 20,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604001,
+          "DummyPolyID": 255,
+          "SlotID": 21,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_Unk134",
+        "StartTime": 1.9666667,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604002,
+          "Unk08": -1,
+          "Unk0C": 30.0,
+          "Unk10": 1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.4333333,
+        "EndTime": 1.5333333,
+        "MemeEndTime": 1.5333333,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604003,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.9666667,
+        "EndTime": 4.266667,
+        "MemeEndTime": 4.266667,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604004,
+          "DummyPolyID": 255,
+          "SlotID": 22,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604005,
+          "DummyPolyID": -1,
+          "SlotID": 55,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.13333334,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604000,
+          "DummyPolyID": -1,
+          "SlotID": 56,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      }
+    ]
+  },
+  "a370_090405.hkt-90405": {
+    "AnimFileName": "a370_090405.hkt",
+    "ID": 90405,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "InvokeBulletBehavior",
+        "StartTime": 2.0,
+        "EndTime": 2.1333334,
+        "MemeEndTime": 2.1333334,
+        "Parameters": {
+          "DummyPolyID": 220,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 920,
+          "AttachmentType": 0,
+          "Enable": true,
+          "StateInfo": 0,
+          "Offset": 0,
+          "Unk12": 255,
+          "Unk13": true
+        }
+      },
+      {
+        "TypeName": "InvokeBulletBehavior",
+        "StartTime": 2.0,
+        "EndTime": 3.2333333,
+        "MemeEndTime": 3.2333333,
+        "Parameters": {
+          "DummyPolyID": 220,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 921,
+          "AttachmentType": 0,
+          "Enable": true,
+          "StateInfo": 0,
+          "Offset": 0,
+          "Unk12": 255,
+          "Unk13": true
+        }
+      },
+      {
+        "TypeName": "OverrideWeaponModelLocations",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "RHModel0AbsorpPosParamCondition": 0,
+          "RHModel0ChangeType": 1,
+          "RHModel1AbsorpPosParamCondition": 0,
+          "RHModel1ChangeType": 1,
+          "RHModel2AbsorpPosParamCondition": 0,
+          "RHModel2ChangeType": 1,
+          "RHModel3AbsorpPosParamCondition": 0,
+          "RHModel3ChangeType": 1,
+          "LHModel0AbsorpPosParamCondition": 0,
+          "LHModel0ChangeType": -1,
+          "LHModel1AbsorpPosParamCondition": 0,
+          "LHModel1ChangeType": -1,
+          "LHModel2AbsorpPosParamCondition": 0,
+          "LHModel2ChangeType": -1,
+          "LHModel3AbsorpPosParamCondition": 0,
+          "LHModel3ChangeType": -1,
+          "IsEnabledWhile1Handing": 0,
+          "IsEnabledWhile2HandingRightWeapon": 1,
+          "IsEnabledWhile2HandingLeftWeapon": 1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 24,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 19,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 27,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9624
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9633
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "InvokePartDamageAdditiveBlendInvalid",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 18682
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "SpEffectID": 9667
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "FFXID": 604020,
+          "DummyPolyID": 750,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.5333333,
+        "EndTime": 2.6333334,
+        "MemeEndTime": 2.6333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.53333336,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.6666667,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "FFXID": 560210,
+          "DummyPolyID": 832,
+          "SlotID": 1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.2333333,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 4.0,
+        "EndTime": 4.1,
+        "MemeEndTime": 4.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": false,
+          "RightHand": true,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.16666667,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {
+          "FFXID": 560211,
+          "DummyPolyID": 832,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": false,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.8333334,
+        "EndTime": 1.9333333,
+        "MemeEndTime": 1.9333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 3.1333334,
+        "EndTime": 3.2333333,
+        "MemeEndTime": 3.2333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 0.0,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008000,
+          "DummyPolyID": 255,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "HideEquippedWeapon",
+        "StartTime": 4.0333333,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "LeftHand": true,
+          "RightHand": false,
+          "LeftHand_WithScabbard": false,
+          "RightHand_WithScabbard": false
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.9666667,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 100008300,
+          "DummyPolyID": 255,
+          "SlotID": 20,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 4.266667,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604001,
+          "DummyPolyID": 255,
+          "SlotID": 21,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_Unk134",
+        "StartTime": 1.9666667,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604002,
+          "Unk08": -1,
+          "Unk0C": 30.0,
+          "Unk10": 1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.4333333,
+        "EndTime": 1.5333333,
+        "MemeEndTime": 1.5333333,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604003,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.9666667,
+        "EndTime": 4.266667,
+        "MemeEndTime": 4.266667,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604004,
+          "DummyPolyID": 255,
+          "SlotID": 22,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604005,
+          "DummyPolyID": -1,
+          "SlotID": 55,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.13333334,
+        "EndTime": 5.0,
+        "MemeEndTime": 5.0,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604000,
+          "DummyPolyID": -1,
+          "SlotID": 56,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      }
+    ]
+  }
+}

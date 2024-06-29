@@ -1,0 +1,1752 @@
+{
+  "a371_090100.hkt-90100": {
+    "AnimFileName": "a371_090100.hkt",
+    "ID": 90100,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a371_090101.hkt-90101": {
+    "AnimFileName": "a371_090101.hkt",
+    "ID": 90101,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      }
+    ]
+  },
+  "a371_090102.hkt-90102": {
+    "AnimFileName": "a371_090102.hkt",
+    "ID": 90102,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      }
+    ]
+  },
+  "a371_090200.hkt-90200": {
+    "AnimFileName": "a371_090200.hkt",
+    "ID": 90200,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.6333333,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.36666667,
+        "EndTime": 0.46666667,
+        "MemeEndTime": 0.46666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 4.3,
+        "EndTime": 4.4,
+        "MemeEndTime": 4.4,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": 0.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 311,
+          "JumpTableID": 8,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.6666667,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 8000,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a371_090201.hkt-90201": {
+    "AnimFileName": "a371_090201.hkt",
+    "ID": 90201,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.43333334,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.7666667,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 1.0,
+        "EndTime": 1.1,
+        "MemeEndTime": 1.1,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 930,
+          "Unk06": 0,
+          "Unk08": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.1,
+        "EndTime": 1.2,
+        "MemeEndTime": 1.2,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.8666667,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 6200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 1.0,
+        "EndTime": 1.1,
+        "MemeEndTime": 1.1,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 940,
+          "Unk06": 0,
+          "Unk08": 0
+        }
+      }
+    ]
+  },
+  "a371_090202.hkt-90202": {
+    "AnimFileName": "a371_090202.hkt",
+    "ID": 90202,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.8666667,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 5.4333334,
+        "EndTime": 5.5333333,
+        "MemeEndTime": 5.5333333,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.36666667,
+        "EndTime": 0.46666667,
+        "MemeEndTime": 0.46666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 6.3,
+        "EndTime": 6.4,
+        "MemeEndTime": 6.4,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": 0.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 311,
+          "JumpTableID": 8,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a371_090203.hkt-90203": {
+    "AnimFileName": "a371_090203.hkt",
+    "ID": 90203,
+    "Events": [
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 1.3666667,
+        "EndTime": 1.5333333,
+        "MemeEndTime": 1.5333333,
+        "Parameters": {
+          "OpacityAtEventStart": 1.0,
+          "OpacityAtEventEnd": 1.0,
+          "Unk08": 1
+        }
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 1.5333333,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "OpacityAtEventStart": 1.0,
+          "OpacityAtEventEnd": 0.0,
+          "Unk08": 1
+        }
+      },
+      {
+        "TypeName": "SetOpacityKeyframe",
+        "StartTime": 3.3666666,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "OpacityAtEventStart": 0.0,
+          "OpacityAtEventEnd": 0.0,
+          "Unk08": 1
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 150,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 151,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.36666667,
+        "EndTime": 0.46666667,
+        "MemeEndTime": 0.46666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 152,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 1,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 153,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 2,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 154,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.3333334,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 604101,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 5,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 155,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 1.3666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 631731,
+          "DummyPolyID": 6,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      }
+    ]
+  },
+  "a371_090100.hkt-90300": {
+    "AnimFileName": "a371_090100.hkt",
+    "ID": 90300,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": 0.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 311,
+          "JumpTableID": 8,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a371_090100.hkt-90301": {
+    "AnimFileName": "a371_090100.hkt",
+    "ID": 90301,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": 0.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 311,
+          "JumpTableID": 8,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a371_090100.hkt-90302": {
+    "AnimFileName": "a371_090100.hkt",
+    "ID": 90302,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetAdditiveAnim",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "AnimType": 1,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
+          "Unk0C": -1
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": -1.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 301,
+          "JumpTableID": 9,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      },
+      {
+        "TypeName": "BehaviorDataUnk700",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "Unk00": 0.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0,
+          "Unk10": 311,
+          "JumpTableID": 8,
+          "Unk15": 255,
+          "Unk16": 0,
+          "Unk17": 0,
+          "Unk18": -1.0,
+          "Unk1C": -1.0,
+          "Unk20": -1.0,
+          "Unk24": -1.0
+        }
+      }
+    ]
+  },
+  "a371_090101.hkt-90305": {
+    "AnimFileName": "a371_090101.hkt",
+    "ID": 90305,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "a371_090101.hkt-90306": {
+    "AnimFileName": "a371_090101.hkt",
+    "ID": 90306,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "a371_090101.hkt-90307": {
+    "AnimFileName": "a371_090101.hkt",
+    "ID": 90307,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "a371_090102.hkt-90310": {
+    "AnimFileName": "a371_090102.hkt",
+    "ID": 90310,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "a371_090102.hkt-90311": {
+    "AnimFileName": "a371_090102.hkt",
+    "ID": 90311,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  },
+  "a371_090102.hkt-90312": {
+    "AnimFileName": "a371_090102.hkt",
+    "ID": 90312,
+    "Events": [
+      {
+        "TypeName": "SetKnockbackPercent",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "KnockbackPercent": 0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "TurnSpeed": 0.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {
+          "JumpTableID": 142,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      }
+    ]
+  }
+}

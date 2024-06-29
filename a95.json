@@ -18,7 +18,7 @@
         "Parameters": {
           "FFXID": 402,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -265,7 +265,7 @@
         "Parameters": {
           "FootSFXIndex": 31,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -308,7 +308,7 @@
         "Parameters": {
           "FootSFXIndex": 11,
           "DummyPolyID": 6,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -323,7 +323,7 @@
         "Parameters": {
           "FootSFXIndex": 1,
           "DummyPolyID": 6,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -338,7 +338,7 @@
         "Parameters": {
           "FootSFXIndex": 13,
           "DummyPolyID": 101,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -804,7 +804,7 @@
         "Parameters": {
           "FFXID": 402,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -823,7 +823,7 @@
         }
       },
       {
-        "TypeName": null,
+        "TypeName": "UnkType113",
         "StartTime": 0.13333334,
         "EndTime": 1.6,
         "MemeEndTime": 1.6,
@@ -940,7 +940,7 @@
         "Parameters": {
           "FootSFXIndex": 1,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -999,7 +999,7 @@
         "Parameters": {
           "FootSFXIndex": 1,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1058,7 +1058,7 @@
         "Parameters": {
           "FootSFXIndex": 31,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1111,7 +1111,7 @@
         "Parameters": {
           "FootSFXIndex": 1,
           "DummyPolyID": 6,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1140,7 +1140,7 @@
         "Parameters": {
           "FootSFXIndex": 31,
           "DummyPolyID": 6,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1183,7 +1183,7 @@
         "Parameters": {
           "FootSFXIndex": 13,
           "DummyPolyID": 101,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1198,7 +1198,7 @@
         "Parameters": {
           "FootSFXIndex": 12,
           "DummyPolyID": 101,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1668,7 +1668,7 @@
         "Parameters": {
           "FFXID": 402,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1701,7 +1701,7 @@
         }
       },
       {
-        "TypeName": null,
+        "TypeName": "UnkType113",
         "StartTime": 0.13333334,
         "EndTime": 1.3,
         "MemeEndTime": 1.3,
@@ -1806,7 +1806,7 @@
         "Parameters": {
           "FootSFXIndex": 1,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1831,7 +1831,7 @@
         "Parameters": {
           "FootSFXIndex": 1,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1948,7 +1948,7 @@
         "Parameters": {
           "FootSFXIndex": 31,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -2005,7 +2005,7 @@
         "Parameters": {
           "FootSFXIndex": 13,
           "DummyPolyID": 101,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -2452,7 +2452,7 @@
         "Parameters": {
           "FootSFXIndex": 31,
           "DummyPolyID": 6,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -2489,7 +2489,7 @@
         "Parameters": {
           "FFXID": 402,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -2538,7 +2538,7 @@
         }
       },
       {
-        "TypeName": null,
+        "TypeName": "UnkType113",
         "StartTime": 0.0,
         "EndTime": 1.6,
         "MemeEndTime": 1.6,
@@ -2701,7 +2701,7 @@
         "Parameters": {
           "FootSFXIndex": 31,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -2744,7 +2744,7 @@
         "Parameters": {
           "FootSFXIndex": 11,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -2787,7 +2787,7 @@
         "Parameters": {
           "FootSFXIndex": 31,
           "DummyPolyID": 6,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -3366,7 +3366,7 @@
         "Parameters": {
           "FFXID": 402,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -3385,7 +3385,7 @@
         }
       },
       {
-        "TypeName": null,
+        "TypeName": "UnkType113",
         "StartTime": 0.0,
         "EndTime": 0.8333333,
         "MemeEndTime": 0.8333333,
@@ -3484,7 +3484,7 @@
         "Parameters": {
           "FootSFXIndex": 1,
           "DummyPolyID": 5,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -3595,7 +3595,7 @@
         "Parameters": {
           "FootSFXIndex": 31,
           "DummyPolyID": 6,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,

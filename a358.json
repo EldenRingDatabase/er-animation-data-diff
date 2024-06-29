@@ -266,14 +266,14 @@
         }
       },
       {
-        "TypeName": "AdditiveAnimPlayback",
+        "TypeName": "SetAdditiveAnim",
         "StartTime": 0.0,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
-          "StayAnimType": 3,
-          "Unk04": 1.0,
-          "Unk08": 1.0,
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
           "Unk0C": -1
         }
       },
@@ -472,9 +472,10 @@
           "SoundType": 8,
           "SoundID": 2001,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -489,9 +490,10 @@
           "SoundType": 8,
           "SoundID": 2001,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -547,7 +549,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 150,
-          "SlotNumber": 10,
+          "SlotID": 10,
           "IsRepeat": false
         }
       },
@@ -560,9 +562,10 @@
           "SoundType": 15,
           "SoundID": 200,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -591,9 +594,10 @@
           "SoundType": 15,
           "SoundID": 200,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -608,9 +612,10 @@
           "SoundType": 15,
           "SoundID": 200,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -646,7 +651,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 151,
-          "SlotNumber": 11,
+          "SlotID": 11,
           "IsRepeat": false
         }
       },
@@ -659,9 +664,10 @@
           "SoundType": 15,
           "SoundID": 100,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -686,7 +692,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 152,
-          "SlotNumber": 12,
+          "SlotID": 12,
           "IsRepeat": false
         }
       },
@@ -699,9 +705,10 @@
           "SoundType": 15,
           "SoundID": 0,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -716,9 +723,10 @@
           "SoundType": 15,
           "SoundID": 0,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -757,7 +765,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 1,
-          "SlotNumber": 13,
+          "SlotID": 13,
           "IsRepeat": false
         }
       },
@@ -794,7 +802,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 153,
-          "SlotNumber": 14,
+          "SlotID": 14,
           "IsRepeat": false
         }
       },
@@ -831,7 +839,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 155,
-          "SlotNumber": 18,
+          "SlotID": 18,
           "IsRepeat": false
         }
       },
@@ -863,7 +871,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 6,
-          "SlotNumber": 19,
+          "SlotID": 19,
           "IsRepeat": false
         }
       },
@@ -900,7 +908,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 2,
-          "SlotNumber": 15,
+          "SlotID": 15,
           "IsRepeat": false
         }
       },
@@ -923,7 +931,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 154,
-          "SlotNumber": 16,
+          "SlotID": 16,
           "IsRepeat": false
         }
       },
@@ -946,7 +954,7 @@
           "FFXID_ForRoleParam60002_Hunter": 0,
           "FFXID_ForRoleParam70002_BloodyFinger": 0,
           "DummyPolyID": 5,
-          "SlotNumber": 17,
+          "SlotID": 17,
           "IsRepeat": false
         }
       },
@@ -959,9 +967,10 @@
           "SoundType": 15,
           "SoundID": 6200,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -976,9 +985,10 @@
           "SoundType": 15,
           "SoundID": 6200,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -1692,9 +1702,10 @@
           "SoundType": 15,
           "SoundID": 0,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -1709,9 +1720,10 @@
           "SoundType": 15,
           "SoundID": 0,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -1726,9 +1738,10 @@
           "SoundType": 15,
           "SoundID": 0,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -1784,26 +1797,26 @@
         }
       },
       {
-        "TypeName": "AdditiveAnimPlayback",
+        "TypeName": "SetAdditiveAnim",
         "StartTime": 0.0,
         "EndTime": 0.6666667,
         "MemeEndTime": 0.6666667,
         "Parameters": {
-          "StayAnimType": 3,
-          "Unk04": 1.0,
-          "Unk08": 1.0,
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
           "Unk0C": -1
         }
       },
       {
-        "TypeName": "AdditiveAnimPlayback",
+        "TypeName": "SetAdditiveAnim",
         "StartTime": 0.6666667,
         "EndTime": 2.0,
         "MemeEndTime": 2.0,
         "Parameters": {
-          "StayAnimType": 3,
-          "Unk04": 1.0,
-          "Unk08": 0.0,
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 0.0,
           "Unk0C": -1
         }
       },
@@ -2021,9 +2034,10 @@
           "SoundType": 15,
           "SoundID": 0,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -2038,9 +2052,10 @@
           "SoundType": 15,
           "SoundID": 0,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -2055,9 +2070,10 @@
           "SoundType": 15,
           "SoundID": 0,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -2113,26 +2129,26 @@
         }
       },
       {
-        "TypeName": "AdditiveAnimPlayback",
+        "TypeName": "SetAdditiveAnim",
         "StartTime": 5.0,
         "EndTime": 6.3333335,
         "MemeEndTime": 6.3333335,
         "Parameters": {
-          "StayAnimType": 3,
-          "Unk04": 1.0,
-          "Unk08": 0.0,
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 0.0,
           "Unk0C": -1
         }
       },
       {
-        "TypeName": "AdditiveAnimPlayback",
+        "TypeName": "SetAdditiveAnim",
         "StartTime": 6.3333335,
         "EndTime": 7.0,
         "MemeEndTime": 7.0,
         "Parameters": {
-          "StayAnimType": 3,
-          "Unk04": 1.0,
-          "Unk08": 1.0,
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
           "Unk0C": -1
         }
       },
@@ -2168,9 +2184,10 @@
           "SoundType": 15,
           "SoundID": 100,
           "DummyPolyID": -1,
-          "SlotNumber": -1,
+          "SlotID": -1,
           "StateInfo": 0,
-          "Unk12": 256,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255

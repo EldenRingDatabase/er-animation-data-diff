@@ -45,14 +45,14 @@
         }
       },
       {
-        "TypeName": "AdditiveAnimPlayback",
+        "TypeName": "SetAdditiveAnim",
         "StartTime": 0.0,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
-          "StayAnimType": 0,
-          "Unk04": 1.0,
-          "Unk08": 1.0,
+          "AnimType": 0,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
           "Unk0C": -1
         }
       },
@@ -97,14 +97,14 @@
         }
       },
       {
-        "TypeName": "AdditiveAnimPlayback",
+        "TypeName": "SetAdditiveAnim",
         "StartTime": 0.0,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
-          "StayAnimType": 3,
-          "Unk04": 1.0,
-          "Unk08": 1.0,
+          "AnimType": 3,
+          "WeightAtEventStart": 1.0,
+          "WeightAtEventEnd": 1.0,
           "Unk0C": -1
         }
       },

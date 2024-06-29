@@ -263,7 +263,7 @@
         "Parameters": {
           "FFXID": 402,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -272,7 +272,7 @@
         }
       },
       {
-        "TypeName": null,
+        "TypeName": "UnkType113",
         "StartTime": 1.5,
         "EndTime": 1.7333333,
         "MemeEndTime": 1.7333333,
@@ -434,7 +434,7 @@
         "Parameters": {
           "FFXID": 430,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -998,7 +998,7 @@
         "Parameters": {
           "FFXID": 412,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1129,7 +1129,7 @@
         }
       },
       {
-        "TypeName": null,
+        "TypeName": "UnkType113",
         "StartTime": 0.6333333,
         "EndTime": 0.8666667,
         "MemeEndTime": 0.8666667,
@@ -1211,7 +1211,7 @@
         "Parameters": {
           "FFXID": 430,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1799,7 +1799,7 @@
         "Parameters": {
           "FFXID": 412,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -1950,7 +1950,7 @@
         }
       },
       {
-        "TypeName": null,
+        "TypeName": "UnkType113",
         "StartTime": 1.5,
         "EndTime": 1.7333333,
         "MemeEndTime": 1.7333333,
@@ -2112,7 +2112,7 @@
         "Parameters": {
           "FFXID": 430,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -2676,7 +2676,7 @@
         "Parameters": {
           "FFXID": 412,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
@@ -2807,7 +2807,7 @@
         }
       },
       {
-        "TypeName": null,
+        "TypeName": "UnkType113",
         "StartTime": 0.6333333,
         "EndTime": 0.8666667,
         "MemeEndTime": 0.8666667,
@@ -2983,7 +2983,7 @@
         "Parameters": {
           "FFXID": 430,
           "DummyPolyID": 80,
-          "TimerNumber": -1,
+          "SlotID": -1,
           "IsIgnoreDummyPolyAngle": false,
           "IsFollowDummyPoly": true,
           "IsRestrictToDummyPoly": true,
