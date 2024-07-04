@@ -2459,8 +2459,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 4.133333,
-        "MemeEndTime": 4.133333,
+        "EndTime": 4.3333335,
+        "MemeEndTime": 4.3333335,
         "Parameters": {
           "JumpTableID": 89,
           "ArgA": 0.0,
@@ -4673,8 +4673,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 4.133333,
-        "MemeEndTime": 4.133333,
+        "EndTime": 4.3333335,
+        "MemeEndTime": 4.3333335,
         "Parameters": {
           "JumpTableID": 89,
           "ArgA": 0.0,
@@ -7643,8 +7643,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 4.133333,
-        "MemeEndTime": 4.133333,
+        "EndTime": 4.366667,
+        "MemeEndTime": 4.366667,
         "Parameters": {
           "JumpTableID": 89,
           "ArgA": 0.0,
@@ -9743,8 +9743,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 4.133333,
-        "MemeEndTime": 4.133333,
+        "EndTime": 4.366667,
+        "MemeEndTime": 4.366667,
         "Parameters": {
           "JumpTableID": 89,
           "ArgA": 0.0,

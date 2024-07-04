@@ -11547,7 +11547,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.3,
+        "StartTime": 0.26666668,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
         "Parameters": {
@@ -11573,8 +11573,8 @@
       {
         "TypeName": "SetTurnSpeed",
         "StartTime": 0.1,
-        "EndTime": 0.23333333,
-        "MemeEndTime": 0.23333333,
+        "EndTime": 0.13333334,
+        "MemeEndTime": 0.13333334,
         "Parameters": {
           "TurnSpeed": 750.0,
           "IsLockOnCheck": false,
