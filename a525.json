@@ -2714,8 +2714,8 @@
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
         "Parameters": {}
       },
       {

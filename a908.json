@@ -693,6 +693,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.1333333,
+        "EndTime": 2.1333334,
+        "MemeEndTime": 2.1333334,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "InvokeDecalParamID_Unk",
         "StartTime": 1.3,
         "EndTime": 1.4,
@@ -778,6 +791,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.36666667,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 1.1333333,
         "EndTime": 1.2333333,
@@ -790,6 +817,20 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.1,
+        "EndTime": 3.0666666,
+        "MemeEndTime": 3.0666666,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -2073,6 +2114,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.1333333,
+        "EndTime": 2.1333334,
+        "MemeEndTime": 2.1333334,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -2235,6 +2289,34 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.36666667,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.1,
+        "EndTime": 3.0666666,
+        "MemeEndTime": 3.0666666,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -3414,6 +3496,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 2.8,
+        "MemeEndTime": 2.8,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -4048,6 +4143,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.7333333,
+        "EndTime": 3.6666667,
+        "MemeEndTime": 3.6666667,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       }
     ]
@@ -4876,6 +4985,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 2.8,
+        "MemeEndTime": 2.8,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.53333336,
         "EndTime": 0.6333333,
@@ -5432,6 +5554,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.7333333,
+        "EndTime": 3.6666667,
+        "MemeEndTime": 3.6666667,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -6433,6 +6569,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -6466,6 +6615,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.2666667,
+        "EndTime": 2.7666667,
+        "MemeEndTime": 2.7666667,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
         }
       },
       {
@@ -6535,6 +6697,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.53333336,
+        "EndTime": 2.1333334,
+        "MemeEndTime": 2.1333334,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -7390,20 +7566,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 2.0,
-        "EndTime": 2.0333333,
-        "MemeEndTime": 2.0333333,
-        "Parameters": {
-          "JumpTableID": 72,
-          "ArgA": 0.09,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 2.0,
         "EndTime": 2.1,
@@ -7419,6 +7581,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 2.0,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "JumpTableID": 72,
+          "ArgA": 0.09,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -7676,6 +7852,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.5,
         "EndTime": 0.6,
@@ -7739,6 +7928,19 @@
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0,
           "StateInfo": 0
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.2666667,
+        "EndTime": 2.7666667,
+        "MemeEndTime": 2.7666667,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
         }
       },
       {
@@ -8570,6 +8772,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.53333336,
+        "EndTime": 2.1333334,
+        "MemeEndTime": 2.1333334,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {

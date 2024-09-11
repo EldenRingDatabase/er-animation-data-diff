@@ -18,7 +18,7 @@
         "EndTime": 2.8333333,
         "MemeEndTime": 2.8333333,
         "Parameters": {
-          "ToughnessParamID": 220,
+          "ToughnessParamID": 51,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -1061,7 +1061,7 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "ToughnessParamID": 170,
+          "ToughnessParamID": 52,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -3971,7 +3971,7 @@
         "EndTime": 2.8333333,
         "MemeEndTime": 2.8333333,
         "Parameters": {
-          "ToughnessParamID": 220,
+          "ToughnessParamID": 51,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -5014,7 +5014,7 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "ToughnessParamID": 170,
+          "ToughnessParamID": 52,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -5994,7 +5994,7 @@
         "EndTime": 2.8333333,
         "MemeEndTime": 2.8333333,
         "Parameters": {
-          "ToughnessParamID": 220,
+          "ToughnessParamID": 51,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
@@ -7034,7 +7034,7 @@
         "EndTime": 1.0,
         "MemeEndTime": 1.0,
         "Parameters": {
-          "ToughnessParamID": 170,
+          "ToughnessParamID": 52,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }

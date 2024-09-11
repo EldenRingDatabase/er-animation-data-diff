@@ -75141,6 +75141,13 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.6333333,
+        "EndTime": 0.93333334,
+        "MemeEndTime": 0.93333334,
+        "Parameters": {}
+      },
+      {
         "TypeName": "InvokeAttackBehavior",
         "StartTime": 0.73333335,
         "EndTime": 0.8333333,
@@ -75170,6 +75177,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 0.6666667,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 10300,
+          "DummyPolyBladeTipID": 303,
+          "SlotID": 0
         }
       },
       {

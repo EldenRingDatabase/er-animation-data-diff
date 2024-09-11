@@ -259,6 +259,15 @@
         }
       },
       {
+        "TypeName": "AddSpEffect_Multiplayer",
+        "StartTime": 0.6666667,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpEffectID": 20018726
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.56666666,
         "EndTime": 3.0,
@@ -1206,6 +1215,15 @@
           "Unk0A": 0,
           "Unk0C": -1,
           "Unk0D": 0
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_Multiplayer",
+        "StartTime": 0.6666667,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpEffectID": 20018726
         }
       },
       {

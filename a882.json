@@ -3775,9 +3775,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.7,
-        "EndTime": 0.8,
-        "MemeEndTime": 0.8,
+        "StartTime": 0.5,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 999996100,
@@ -3826,9 +3826,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 1.0,
-        "EndTime": 1.1,
-        "MemeEndTime": 1.1,
+        "StartTime": 0.96666664,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 103260300,
@@ -3886,12 +3886,30 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.1,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
+        "StartTime": 0.06666667,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 103263100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.46666667,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 102363300,
           "DummyPolyID": -1,
           "SlotID": -1,
           "StateInfo": 0,
@@ -4535,6 +4553,24 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.06666667,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.3,
         "EndTime": 0.4,
         "MemeEndTime": 0.4,
@@ -4880,9 +4916,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.7,
-        "EndTime": 0.8,
-        "MemeEndTime": 0.8,
+        "StartTime": 0.5,
+        "EndTime": 0.6,
+        "MemeEndTime": 0.6,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 999996100,
@@ -4930,9 +4966,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 1.0,
-        "EndTime": 1.1,
-        "MemeEndTime": 1.1,
+        "StartTime": 0.96666664,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 103260000,

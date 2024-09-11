@@ -6713,13 +6713,6 @@
         }
       },
       {
-        "TypeName": "WeaponArtFPConsumption",
-        "StartTime": 0.6,
-        "EndTime": 1.3333334,
-        "MemeEndTime": 1.3333334,
-        "Parameters": {}
-      },
-      {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
         "EndTime": 1.3333334,
@@ -7643,8 +7636,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 4.366667,
-        "MemeEndTime": 4.366667,
+        "EndTime": 4.3333335,
+        "MemeEndTime": 4.3333335,
         "Parameters": {
           "JumpTableID": 89,
           "ArgA": 0.0,
@@ -8248,19 +8241,6 @@
         }
       },
       {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 3.3,
-        "EndTime": 3.4666667,
-        "MemeEndTime": 3.4666667,
-        "Parameters": {
-          "FFXID": 401001,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 10300,
-          "DummyPolyBladeTipID": 10302,
-          "SlotID": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 3.4,
         "EndTime": 3.5,
@@ -8276,6 +8256,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 3.4666667,
+        "EndTime": 3.6333334,
+        "MemeEndTime": 3.6333334,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 10300,
+          "DummyPolyBladeTipID": 10302,
+          "SlotID": 0
         }
       },
       {
@@ -8297,6 +8290,19 @@
         }
       },
       {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 3.8333333,
+        "EndTime": 4.0666666,
+        "MemeEndTime": 4.0666666,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 10300,
+          "DummyPolyBladeTipID": 10302,
+          "SlotID": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 3.8333333,
         "EndTime": 3.9333334,
@@ -8312,19 +8318,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 3.8333333,
-        "EndTime": 4.0,
-        "MemeEndTime": 4.0,
-        "Parameters": {
-          "FFXID": 401001,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 10300,
-          "DummyPolyBladeTipID": 10302,
-          "SlotID": 0
         }
       },
       {
@@ -8442,9 +8435,9 @@
       },
       {
         "TypeName": "SpawnFFX_Blade",
-        "StartTime": 3.1333334,
-        "EndTime": 3.3,
-        "MemeEndTime": 3.3,
+        "StartTime": 3.4666667,
+        "EndTime": 3.6333334,
+        "MemeEndTime": 3.6333334,
         "Parameters": {
           "FFXID": 401001,
           "DummyPolySource": 0,
@@ -8456,8 +8449,8 @@
       {
         "TypeName": "SpawnFFX_Blade",
         "StartTime": 3.7666667,
-        "EndTime": 3.9333334,
-        "MemeEndTime": 3.9333334,
+        "EndTime": 4.1,
+        "MemeEndTime": 4.1,
         "Parameters": {
           "FFXID": 401001,
           "DummyPolySource": 0,
@@ -9743,8 +9736,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 4.366667,
-        "MemeEndTime": 4.366667,
+        "EndTime": 4.3333335,
+        "MemeEndTime": 4.3333335,
         "Parameters": {
           "JumpTableID": 89,
           "ArgA": 0.0,

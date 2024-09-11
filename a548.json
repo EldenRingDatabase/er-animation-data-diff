@@ -1926,9 +1926,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 0.4,
-        "EndTime": 0.6666667,
-        "MemeEndTime": 0.6666667,
+        "StartTime": 0.2,
+        "EndTime": 0.46666667,
+        "MemeEndTime": 0.46666667,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 93,
           "JumpTable2ID_ToJudgeHowEarly": 5,

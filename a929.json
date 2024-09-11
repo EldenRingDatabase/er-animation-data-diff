@@ -1836,6 +1836,36 @@
         }
       },
       {
+        "TypeName": "InvokeFootSfxParam_Entity",
+        "StartTime": 1.2,
+        "EndTime": 1.3,
+        "MemeEndTime": 1.3,
+        "Parameters": {
+          "FootSFXIndex": 142,
+          "DummyPolyID": 101,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0
+        }
+      },
+      {
+        "TypeName": "InvokeFootSfxParam_Entity",
+        "StartTime": 2.0,
+        "EndTime": 2.1,
+        "MemeEndTime": 2.1,
+        "Parameters": {
+          "FootSFXIndex": 142,
+          "DummyPolyID": 101,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0
+        }
+      },
+      {
         "TypeName": "OverrideWeaponModelLocations",
         "StartTime": 0.0,
         "EndTime": 4.1666665,

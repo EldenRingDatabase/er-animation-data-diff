@@ -60457,6 +60457,13 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.6333333,
+        "EndTime": 0.93333334,
+        "MemeEndTime": 0.93333334,
+        "Parameters": {}
+      },
+      {
         "TypeName": "InvokeAttackBehavior",
         "StartTime": 0.73333335,
         "EndTime": 0.8333333,
@@ -60486,6 +60493,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 0.6666667,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 10300,
+          "DummyPolyBladeTipID": 303,
+          "SlotID": 0
         }
       },
       {
@@ -84187,6 +84207,16 @@
         }
       },
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {
+          "SpeedAtStart": 1.28,
+          "SpeedAtEnd": 1.28
+        }
+      },
+      {
         "TypeName": "WeaponArtFPConsumption",
         "StartTime": 1.2333333,
         "EndTime": 1.3333334,
@@ -85204,16 +85234,6 @@
         }
       },
       {
-        "TypeName": "Unk910",
-        "StartTime": 0.5,
-        "EndTime": 1.0,
-        "MemeEndTime": 1.0,
-        "Parameters": {
-          "Unk00": 1045220557,
-          "Unk04": 1045220557
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.5,
         "EndTime": 0.6,
@@ -85229,6 +85249,16 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Unk910",
+        "StartTime": 0.5,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "Unk00": 1045220557,
+          "Unk04": 1045220557
         }
       },
       {
@@ -85787,6 +85817,16 @@
         "MemeEndTime": 3.5,
         "Parameters": {
           "SpEffectID": 100420
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {
+          "SpeedAtStart": 1.28,
+          "SpeedAtEnd": 1.28
         }
       },
       {
@@ -86755,16 +86795,6 @@
         }
       },
       {
-        "TypeName": "Unk910",
-        "StartTime": 0.5,
-        "EndTime": 1.0,
-        "MemeEndTime": 1.0,
-        "Parameters": {
-          "Unk00": 1045220557,
-          "Unk04": 1045220557
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.5,
         "EndTime": 0.6,
@@ -86780,6 +86810,16 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "Unk910",
+        "StartTime": 0.5,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "Unk00": 1045220557,
+          "Unk04": 1045220557
         }
       },
       {
@@ -87216,6 +87256,16 @@
         "MemeEndTime": 3.6666667,
         "Parameters": {
           "SpEffectID": 100420
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "SpeedAtStart": 1.18,
+          "SpeedAtEnd": 1.18
         }
       },
       {
@@ -88558,6 +88608,16 @@
         }
       },
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "SpeedAtStart": 1.18,
+          "SpeedAtEnd": 1.18
+        }
+      },
+      {
         "TypeName": "WeaponArtFPConsumption",
         "StartTime": 0.6666667,
         "EndTime": 0.76666665,
@@ -89792,6 +89852,16 @@
         }
       },
       {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SpeedAtStart": 1.19,
+          "SpeedAtEnd": 1.19
+        }
+      },
+      {
         "TypeName": "WeaponArtFPConsumption",
         "StartTime": 0.6333333,
         "EndTime": 0.73333335,
@@ -90821,19 +90891,6 @@
         }
       },
       {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 1.0666667,
-        "EndTime": 1.4,
-        "MemeEndTime": 1.4,
-        "Parameters": {
-          "FFXID": 401002,
-          "DummyPolySource": 2,
-          "DummyPolyBladeBaseID": 300,
-          "DummyPolyBladeTipID": -1,
-          "SlotID": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.0666667,
         "EndTime": 1.1666666,
@@ -90849,6 +90906,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 1.0666667,
+        "EndTime": 1.4,
+        "MemeEndTime": 1.4,
+        "Parameters": {
+          "FFXID": 401002,
+          "DummyPolySource": 2,
+          "DummyPolyBladeBaseID": 300,
+          "DummyPolyBladeTipID": -1,
+          "SlotID": 0
         }
       },
       {
@@ -91206,6 +91276,16 @@
         "MemeEndTime": 3.5,
         "Parameters": {
           "SpEffectID": 100420
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "SpeedAtStart": 1.19,
+          "SpeedAtEnd": 1.19
         }
       },
       {

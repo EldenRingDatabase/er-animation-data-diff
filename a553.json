@@ -185,9 +185,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.23333333,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
+        "StartTime": 0.1,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "SoundType": 5,
           "SoundID": 524050,
@@ -1824,9 +1824,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.23333333,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
+        "StartTime": 0.1,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "SoundType": 5,
           "SoundID": 524050,
@@ -3703,9 +3703,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.23333333,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
+        "StartTime": 0.1,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "SoundType": 5,
           "SoundID": 524050,

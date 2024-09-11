@@ -243,7 +243,7 @@
           "AttackIndex": 0,
           "BehaviorJudgeID": 6571,
           "DirectionType": 255,
-          "Source": 2,
+          "Source": 0,
           "StateInfo": 0
         }
       },
@@ -271,7 +271,7 @@
           "AttackIndex": 0,
           "BehaviorJudgeID": 6571,
           "DirectionType": 255,
-          "Source": 2,
+          "Source": 0,
           "StateInfo": 0
         }
       },
@@ -1938,7 +1938,7 @@
           "AttackIndex": 0,
           "BehaviorJudgeID": 6574,
           "DirectionType": 255,
-          "Source": 2,
+          "Source": 0,
           "StateInfo": 0
         }
       },
@@ -1966,7 +1966,7 @@
           "AttackIndex": 0,
           "BehaviorJudgeID": 6574,
           "DirectionType": 255,
-          "Source": 2,
+          "Source": 0,
           "StateInfo": 0
         }
       },

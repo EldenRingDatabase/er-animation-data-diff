@@ -226,6 +226,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.3,
         "EndTime": 0.33333334,
@@ -287,6 +300,19 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.2666667,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
         }
       },
       {
@@ -359,6 +385,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.33333334,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -1427,6 +1467,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.33333334,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.33333334,
         "EndTime": 0.43333334,
@@ -2260,6 +2314,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.3,
         "EndTime": 0.33333334,
@@ -2306,6 +2373,19 @@
           "DummyPolyBladeBaseID": 11300,
           "DummyPolyBladeTipID": -1,
           "SlotID": 2
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.2666667,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
         }
       },
       {
@@ -3468,19 +3548,6 @@
         }
       },
       {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 1.1333333,
-        "EndTime": 1.3,
-        "MemeEndTime": 1.3,
-        "Parameters": {
-          "FFXID": 401001,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 11300,
-          "DummyPolyBladeTipID": -1,
-          "SlotID": 2
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.1333333,
         "EndTime": 1.1666666,
@@ -3496,6 +3563,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 1.1333333,
+        "EndTime": 1.3,
+        "MemeEndTime": 1.3,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 11300,
+          "DummyPolyBladeTipID": -1,
+          "SlotID": 2
         }
       },
       {
@@ -3658,6 +3738,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.3,
         "EndTime": 0.33333334,
@@ -3691,6 +3784,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.2666667,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
         }
       },
       {
@@ -3745,6 +3851,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.33333334,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -4077,6 +4197,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.3,
         "EndTime": 0.33333334,
@@ -4141,6 +4274,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.2666667,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.4666667,
         "EndTime": 1.5666667,
@@ -4192,6 +4338,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.33333334,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -5187,8 +5347,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "JumpTableID": 8,
           "ArgA": 0.0,
@@ -5200,7 +5360,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.26666668,
+        "StartTime": 0.2,
         "EndTime": 0.43333334,
         "MemeEndTime": 0.43333334,
         "Parameters": {
@@ -5232,17 +5392,17 @@
         "Parameters": {}
       },
       {
-        "TypeName": "DisableDefaultWeaponTrail",
-        "StartTime": 0.0,
-        "EndTime": 100.0,
-        "MemeEndTime": 3.4028235E+38,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.16666667,
         "MemeEndTime": 0.16666667,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
         "Parameters": {}
       },
       {
@@ -5585,6 +5745,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -5643,6 +5816,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.1,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.2666667,
         "EndTime": 1.3666667,
@@ -5676,6 +5862,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -6620,8 +6820,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "JumpTableID": 8,
           "ArgA": 0.0,
@@ -6633,7 +6833,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.26666668,
+        "StartTime": 0.2,
         "EndTime": 0.43333334,
         "MemeEndTime": 0.43333334,
         "Parameters": {
@@ -7036,6 +7236,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.2,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.6666667,
         "EndTime": 0.76666665,
@@ -7076,6 +7289,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.3,
         "EndTime": 1.4,
@@ -7109,6 +7335,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.5,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -8037,8 +8277,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "JumpTableID": 8,
           "ArgA": 0.0,
@@ -8050,7 +8290,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.26666668,
+        "StartTime": 0.2,
         "EndTime": 0.43333334,
         "MemeEndTime": 0.43333334,
         "Parameters": {
@@ -8440,6 +8680,19 @@
         "Parameters": {}
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.2,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.6666667,
         "EndTime": 0.76666665,
@@ -8464,6 +8717,19 @@
         "MemeEndTime": 1.0666667,
         "Parameters": {
           "KnockbackPercent": 80
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
         }
       },
       {
@@ -8500,6 +8766,34 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.1,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.5,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -9445,8 +9739,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "JumpTableID": 8,
           "ArgA": 0.0,
@@ -9458,7 +9752,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.26666668,
+        "StartTime": 0.2,
         "EndTime": 0.43333334,
         "MemeEndTime": 0.43333334,
         "Parameters": {
@@ -9483,17 +9777,17 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.16666667,
-        "MemeEndTime": 0.16666667,
-        "Parameters": {}
-      },
-      {
         "TypeName": "WeaponArtFPConsumption",
         "StartTime": 0.0,
         "EndTime": 0.06666667,
         "MemeEndTime": 0.06666667,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
         "Parameters": {}
       },
       {
@@ -9774,6 +10068,19 @@
         }
       },
       {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 0.9,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 10300,
+          "DummyPolyBladeTipID": -1,
+          "SlotID": 1
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.9,
         "EndTime": 0.93333334,
@@ -9785,19 +10092,6 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 0.9,
-        "EndTime": 1.0666667,
-        "MemeEndTime": 1.0666667,
-        "Parameters": {
-          "FFXID": 401001,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 10300,
-          "DummyPolyBladeTipID": -1,
-          "SlotID": 1
         }
       },
       {
@@ -9861,6 +10155,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.2,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.6666667,
         "EndTime": 0.76666665,
@@ -9901,6 +10208,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.2666667,
         "EndTime": 1.3666667,
@@ -9934,6 +10254,34 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.1,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.5,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -11524,17 +11872,17 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.16666667,
-        "MemeEndTime": 0.16666667,
-        "Parameters": {}
-      },
-      {
         "TypeName": "DisableDefaultWeaponTrail",
         "StartTime": 0.0,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
         "Parameters": {}
       },
       {
@@ -11575,6 +11923,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "SpawnFFX_Blade",
         "StartTime": 0.8333333,
         "EndTime": 1.0333333,
@@ -11585,6 +11946,33 @@
           "DummyPolyBladeBaseID": 10310,
           "DummyPolyBladeTipID": -1,
           "SlotID": 1
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.1,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -12964,6 +13352,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.2,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "SpawnFFX_Blade",
         "StartTime": 0.8666667,
         "EndTime": 1.0666667,
@@ -12974,6 +13375,33 @@
           "DummyPolyBladeBaseID": 10310,
           "DummyPolyBladeTipID": -1,
           "SlotID": 1
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.5,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -13059,21 +13487,6 @@
         }
       },
       {
-        "TypeName": "InvokeFootSfxParam_Entity",
-        "StartTime": 0.4,
-        "EndTime": 0.46666667,
-        "MemeEndTime": 0.46666667,
-        "Parameters": {
-          "FootSFXIndex": 12,
-          "DummyPolyID": 5,
-          "SlotID": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": false,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.4,
         "EndTime": 0.43333334,
@@ -13089,6 +13502,21 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeFootSfxParam_Entity",
+        "StartTime": 0.4,
+        "EndTime": 0.46666667,
+        "MemeEndTime": 0.46666667,
+        "Parameters": {
+          "FootSFXIndex": 12,
+          "DummyPolyID": 5,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0
         }
       },
       {
@@ -14270,17 +14698,17 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.16666667,
-        "MemeEndTime": 0.16666667,
-        "Parameters": {}
-      },
-      {
         "TypeName": "DisableDefaultWeaponTrail",
         "StartTime": 0.0,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
         "Parameters": {}
       },
       {
@@ -14950,6 +15378,60 @@
           "AnimID": 0,
           "AnimWeightAtEventStart": 1.0,
           "AnimWeightAtEventEnd": 1.0
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.2,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.1,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.5,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       }
     ]
@@ -15628,17 +16110,17 @@
         }
       },
       {
-        "TypeName": "DisableDefaultWeaponTrail",
-        "StartTime": 0.0,
-        "EndTime": 100.0,
-        "MemeEndTime": 3.4028235E+38,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.16666667,
         "MemeEndTime": 0.16666667,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
         "Parameters": {}
       },
       {
@@ -15679,6 +16161,19 @@
         }
       },
       {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 0.2,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
         "TypeName": "SpawnFFX_Blade",
         "StartTime": 0.9,
         "EndTime": 1.0666667,
@@ -15689,6 +16184,47 @@
           "DummyPolyBladeBaseID": 10310,
           "DummyPolyBladeTipID": -1,
           "SlotID": 1
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 1.0666667,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.1,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.5,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "JumpTableID": 113,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -15759,6 +16295,21 @@
         }
       },
       {
+        "TypeName": "InvokeFootSfxParam_Entity",
+        "StartTime": 0.33333334,
+        "EndTime": 0.43333334,
+        "MemeEndTime": 0.43333334,
+        "Parameters": {
+          "FootSFXIndex": 12,
+          "DummyPolyID": 5,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.33333334,
         "EndTime": 0.4,
@@ -15774,21 +16325,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "InvokeFootSfxParam_Entity",
-        "StartTime": 0.33333334,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
-        "Parameters": {
-          "FootSFXIndex": 12,
-          "DummyPolyID": 5,
-          "SlotID": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": false,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0
         }
       },
       {
@@ -15930,6 +16466,21 @@
         }
       },
       {
+        "TypeName": "InvokeFootSfxParam_Entity",
+        "StartTime": 1.3,
+        "EndTime": 1.4,
+        "MemeEndTime": 1.4,
+        "Parameters": {
+          "FootSFXIndex": 12,
+          "DummyPolyID": 5,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.3,
         "EndTime": 1.4,
@@ -15945,21 +16496,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "InvokeFootSfxParam_Entity",
-        "StartTime": 1.3,
-        "EndTime": 1.4,
-        "MemeEndTime": 1.4,
-        "Parameters": {
-          "FootSFXIndex": 12,
-          "DummyPolyID": 5,
-          "SlotID": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": false,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0
         }
       },
       {

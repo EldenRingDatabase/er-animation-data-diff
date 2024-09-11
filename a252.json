@@ -350,7 +350,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 1,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -1532,7 +1532,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 10,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -1564,7 +1564,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 11,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -1578,7 +1578,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 12,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -2668,7 +2668,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 20,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -2700,7 +2700,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 21,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -4624,7 +4624,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 200,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -4674,7 +4674,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 201,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -5808,7 +5808,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 210,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -5822,7 +5822,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 211,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -5854,7 +5854,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 212,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -6588,20 +6588,6 @@
         "Parameters": {}
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 0.56666666,
-        "EndTime": 0.6,
-        "MemeEndTime": 0.6,
-        "Parameters": {
-          "JumpTableID": 72,
-          "ArgA": 0.09,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.56666666,
         "EndTime": 0.6666667,
@@ -6617,6 +6603,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.6333333,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "JumpTableID": 72,
+          "ArgA": 0.09,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -6665,9 +6665,9 @@
       },
       {
         "TypeName": "SetKnockbackPercent",
-        "StartTime": 0.56666666,
-        "EndTime": 0.7,
-        "MemeEndTime": 0.7,
+        "StartTime": 0.6333333,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
         "Parameters": {
           "KnockbackPercent": 80
         }
@@ -6707,9 +6707,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.6,
-        "EndTime": 0.6333333,
-        "MemeEndTime": 0.6333333,
+        "StartTime": 0.6666667,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
         "Parameters": {
           "JumpTableID": 56,
           "ArgA": 0.0,
@@ -6749,20 +6749,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 0.56666666,
-        "EndTime": 0.6333333,
-        "MemeEndTime": 0.6333333,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.6,
         "EndTime": 0.6666667,
@@ -6778,6 +6764,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.6,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -6934,13 +6934,13 @@
       },
       {
         "TypeName": "InvokeAttackBehavior",
-        "StartTime": 0.56666666,
-        "EndTime": 0.6333333,
-        "MemeEndTime": 0.6333333,
+        "StartTime": 0.6,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 220,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -6954,7 +6954,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 221,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -6998,9 +6998,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.43333334,
-        "EndTime": 0.46666667,
-        "MemeEndTime": 0.46666667,
+        "StartTime": 0.46666667,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
         "Parameters": {
           "JumpTableID": 63,
           "ArgA": 0.0,
@@ -7012,9 +7012,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.56666666,
-        "EndTime": 0.6,
-        "MemeEndTime": 0.6,
+        "StartTime": 0.6,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
         "Parameters": {
           "JumpTableID": 5,
           "ArgA": 0.0,
@@ -7305,8 +7305,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 0.36666667,
-        "MemeEndTime": 0.36666667,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
         "Parameters": {
           "JumpTableID": 7,
           "ArgA": 0.0,
@@ -7318,7 +7318,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.53333336,
+        "StartTime": 0.56666666,
         "EndTime": 0.7,
         "MemeEndTime": 0.7,
         "Parameters": {
@@ -7346,9 +7346,9 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.36666667,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
+        "StartTime": 0.33333334,
+        "EndTime": 0.4,
+        "MemeEndTime": 0.4,
         "Parameters": {
           "TurnSpeed": 720.0,
           "IsLockOnCheck": false,
@@ -7357,9 +7357,9 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.43333334,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
+        "StartTime": 0.4,
+        "EndTime": 0.46666667,
+        "MemeEndTime": 0.46666667,
         "Parameters": {
           "TurnSpeed": 720.0,
           "IsLockOnCheck": false,
@@ -7390,9 +7390,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.36666667,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
+        "StartTime": 0.33333334,
+        "EndTime": 0.4,
+        "MemeEndTime": 0.4,
         "Parameters": {
           "JumpTableID": 110,
           "ArgA": 0.0,
@@ -7920,7 +7920,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 0,
-          "BehaviorJudgeID": 30,
+          "BehaviorJudgeID": 230,
           "DirectionType": 1,
           "Source": 0,
           "StateInfo": 0
@@ -8862,7 +8862,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 400,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -8894,7 +8894,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 401,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -10156,7 +10156,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 410,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -10188,7 +10188,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 411,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -10202,7 +10202,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 412,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -11407,7 +11407,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 420,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -11439,7 +11439,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 1,
-          "BehaviorJudgeID": 0,
+          "BehaviorJudgeID": 421,
           "DirectionType": 0,
           "Source": 0,
           "StateInfo": 0
@@ -12496,7 +12496,7 @@
         "Parameters": {
           "AttackType": 0,
           "AttackIndex": 0,
-          "BehaviorJudgeID": 30,
+          "BehaviorJudgeID": 430,
           "DirectionType": 1,
           "Source": 0,
           "StateInfo": 0

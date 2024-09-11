@@ -4,10 +4,57 @@
     "ID": 45000,
     "Events": [
       {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.33333334,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
+        "Parameters": {
+          "ToughnessParamID": 200,
+          "ToughnessType": 0,
+          "DamageRatio": 1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.96666664,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 1.9333333,
-        "MemeEndTime": 1.9333333,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
         "Parameters": {
           "JumpTableID": 89,
           "ArgA": 0.0,
@@ -56,8 +103,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 1.7666667,
-        "MemeEndTime": 1.7666667,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
         "Parameters": {
           "JumpTableID": 7,
           "ArgA": 0.0,
@@ -157,42 +204,6 @@
         "MemeEndTime": 1.7,
         "Parameters": {
           "SpEffectID": 35
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {
-          "SoundType": 15,
-          "SoundID": 0,
-          "DummyPolyID": -1,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.96666664,
-        "EndTime": 1.0666667,
-        "MemeEndTime": 1.0666667,
-        "Parameters": {
-          "SoundType": 15,
-          "SoundID": 0,
-          "DummyPolyID": -1,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
         }
       },
       {
@@ -300,6 +311,17 @@
     "AnimFileName": "a452_045010.hkt",
     "ID": 45010,
     "Events": [
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.0,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
+        "Parameters": {
+          "ToughnessParamID": 200,
+          "ToughnessType": 0,
+          "DamageRatio": 1.0
+        }
+      },
       {
         "TypeName": "SpawnOneShotFFX",
         "StartTime": 0.0,
@@ -431,41 +453,6 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "InvokeDS3Poise",
-        "StartTime": 0.0,
-        "EndTime": 1.1,
-        "MemeEndTime": 1.1,
-        "Parameters": {
-          "ToughnessParamID": 195,
-          "ToughnessType": 1,
-          "DamageRatio": 1.0
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 1.1666666,
-        "EndTime": 1.2666667,
-        "MemeEndTime": 1.2666667,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 5,
-          "Unk06": 0,
-          "Unk08": 0
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 2.5333333,
-        "EndTime": 2.6333334,
-        "MemeEndTime": 2.6333334,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 5,
-          "Unk06": 0,
-          "Unk08": 0
         }
       },
       {
@@ -1321,6 +1308,30 @@
         "Parameters": {
           "SpEffectID": 35
         }
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 1.1666666,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 5,
+          "Unk06": 0,
+          "Unk08": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 2.5333333,
+        "EndTime": 2.6333334,
+        "MemeEndTime": 2.6333334,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 5,
+          "Unk06": 0,
+          "Unk08": 0
+        }
       }
     ]
   },
@@ -1328,6 +1339,17 @@
     "AnimFileName": "a452_045020.hkt",
     "ID": 45020,
     "Events": [
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.0,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "ToughnessParamID": 200,
+          "ToughnessType": 0,
+          "DamageRatio": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -1486,43 +1508,6 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "InvokeDS3Poise",
-        "StartTime": 0.0,
-        "EndTime": 1.5333333,
-        "MemeEndTime": 1.5333333,
-        "Parameters": {
-          "ToughnessParamID": 195,
-          "ToughnessType": 1,
-          "DamageRatio": 1.0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.0,
-        "EndTime": 3.2,
-        "MemeEndTime": 3.2,
-        "Parameters": {
-          "JumpTableID": 51,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 3.4666667,
-        "EndTime": 3.5666666,
-        "MemeEndTime": 3.5666666,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 5,
-          "Unk06": 0,
-          "Unk08": 0
         }
       },
       {
@@ -2460,6 +2445,32 @@
         "Parameters": {
           "SpEffectID": 35
         }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 3.2,
+        "MemeEndTime": 3.2,
+        "Parameters": {
+          "JumpTableID": 51,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 3.4666667,
+        "EndTime": 3.5666666,
+        "MemeEndTime": 3.5666666,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 5,
+          "Unk06": 0,
+          "Unk08": 0
+        }
       }
     ]
   },
@@ -2468,10 +2479,57 @@
     "ID": 45100,
     "Events": [
       {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 0.1,
+        "MemeEndTime": 0.1,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.33333334,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
+        "Parameters": {
+          "ToughnessParamID": 200,
+          "ToughnessType": 0,
+          "DamageRatio": 1.0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.96666664,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 0,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 1.9333333,
-        "MemeEndTime": 1.9333333,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
         "Parameters": {
           "JumpTableID": 89,
           "ArgA": 0.0,
@@ -2527,8 +2585,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
-        "EndTime": 1.7666667,
-        "MemeEndTime": 1.7666667,
+        "EndTime": 1.7,
+        "MemeEndTime": 1.7,
         "Parameters": {
           "JumpTableID": 7,
           "ArgA": 0.0,
@@ -2652,42 +2710,6 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.0,
-        "EndTime": 0.1,
-        "MemeEndTime": 0.1,
-        "Parameters": {
-          "SoundType": 15,
-          "SoundID": 0,
-          "DummyPolyID": -1,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.96666664,
-        "EndTime": 1.0666667,
-        "MemeEndTime": 1.0666667,
-        "Parameters": {
-          "SoundType": 15,
-          "SoundID": 0,
-          "DummyPolyID": -1,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.6333333,
         "EndTime": 1.8333334,
         "MemeEndTime": 1.8333334,
@@ -2764,6 +2786,17 @@
     "AnimFileName": "a452_045110.hkt",
     "ID": 45110,
     "Events": [
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.0,
+        "EndTime": 2.6,
+        "MemeEndTime": 2.6,
+        "Parameters": {
+          "ToughnessParamID": 200,
+          "ToughnessType": 0,
+          "DamageRatio": 1.0
+        }
+      },
       {
         "TypeName": "SpawnOneShotFFX",
         "StartTime": 0.0,
@@ -2906,43 +2939,6 @@
           "RumbleCamID": 65,
           "Condition": 0,
           "Unk04": -1
-        }
-      },
-      {
-        "TypeName": "InvokeDS3Poise",
-        "StartTime": 0.0,
-        "EndTime": 1.1,
-        "MemeEndTime": 1.1,
-        "Parameters": {
-          "ToughnessParamID": 195,
-          "ToughnessType": 1,
-          "DamageRatio": 1.0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.0,
-        "EndTime": 2.7,
-        "MemeEndTime": 2.7,
-        "Parameters": {
-          "JumpTableID": 28,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 2.3666666,
-        "EndTime": 2.4666667,
-        "MemeEndTime": 2.4666667,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 5,
-          "Unk06": 0,
-          "Unk08": 0
         }
       },
       {
@@ -3909,6 +3905,32 @@
         "Parameters": {
           "SpEffectID": 35
         }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 2.7,
+        "MemeEndTime": 2.7,
+        "Parameters": {
+          "JumpTableID": 28,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 2.3666666,
+        "EndTime": 2.4666667,
+        "MemeEndTime": 2.4666667,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 5,
+          "Unk06": 0,
+          "Unk08": 0
+        }
       }
     ]
   },
@@ -3916,6 +3938,17 @@
     "AnimFileName": "a452_045120.hkt",
     "ID": 45120,
     "Events": [
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.0,
+        "EndTime": 3.1333334,
+        "MemeEndTime": 3.1333334,
+        "Parameters": {
+          "ToughnessParamID": 200,
+          "ToughnessType": 0,
+          "DamageRatio": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,
@@ -4047,40 +4080,6 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "InvokeDS3Poise",
-        "StartTime": 0.0,
-        "EndTime": 1.5333333,
-        "MemeEndTime": 1.5333333,
-        "Parameters": {
-          "ToughnessParamID": 195,
-          "ToughnessType": 1,
-          "DamageRatio": 1.0
-        }
-      },
-      {
-        "TypeName": "InvokeRumbleCam_ByDummyPoly",
-        "StartTime": 1.5,
-        "EndTime": 1.6333333,
-        "MemeEndTime": 1.6333333,
-        "Parameters": {
-          "RumbleCamID": 65,
-          "Condition": 0,
-          "Unk04": -1
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 3.3,
-        "EndTime": 3.4,
-        "MemeEndTime": 3.4,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 5,
-          "Unk06": 0,
-          "Unk08": 0
         }
       },
       {
@@ -5143,6 +5142,29 @@
         "MemeEndTime": 3.2333333,
         "Parameters": {
           "SpEffectID": 35
+        }
+      },
+      {
+        "TypeName": "InvokeRumbleCam_ByDummyPoly",
+        "StartTime": 1.5,
+        "EndTime": 1.6333333,
+        "MemeEndTime": 1.6333333,
+        "Parameters": {
+          "RumbleCamID": 65,
+          "Condition": 0,
+          "Unk04": -1
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 3.3,
+        "EndTime": 3.4,
+        "MemeEndTime": 3.4,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 5,
+          "Unk06": 0,
+          "Unk08": 0
         }
       }
     ]

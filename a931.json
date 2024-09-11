@@ -4,6 +4,28 @@
     "ID": 40000,
     "Events": [
       {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.5,
+        "EndTime": 2.2,
+        "MemeEndTime": 2.2,
+        "Parameters": {
+          "ToughnessParamID": 210,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 2.6666667,
+        "EndTime": 3.6666667,
+        "MemeEndTime": 3.6666667,
+        "Parameters": {
+          "ToughnessParamID": 210,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.4,
         "EndTime": 1.7666667,
@@ -890,24 +912,9 @@
       },
       {
         "TypeName": "InvokeFootSfxParam_Entity",
-        "StartTime": 1.9,
-        "EndTime": 1.9666667,
-        "MemeEndTime": 1.9666667,
-        "Parameters": {
-          "FootSFXIndex": 122,
-          "DummyPolyID": 194,
-          "SlotID": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": true,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 3.1,
-        "EndTime": 3.2333333,
-        "MemeEndTime": 3.2333333,
+        "EndTime": 3.3,
+        "MemeEndTime": 3.3,
         "Parameters": {
           "FootSFXIndex": 122,
           "DummyPolyID": 194,
@@ -2119,27 +2126,12 @@
       },
       {
         "TypeName": "InvokeFootSfxParam_Entity",
-        "StartTime": 1.9,
-        "EndTime": 1.9666667,
-        "MemeEndTime": 1.9666667,
-        "Parameters": {
-          "FootSFXIndex": 122,
-          "DummyPolyID": 194,
-          "SlotID": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": true,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 3.1,
-        "EndTime": 3.2333333,
-        "MemeEndTime": 3.2333333,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
         "Parameters": {
-          "FootSFXIndex": 122,
-          "DummyPolyID": 194,
+          "FootSFXIndex": 121,
+          "DummyPolyID": 10302,
           "SlotID": -1,
           "IsIgnoreDummyPolyAngle": true,
           "IsFollowDummyPoly": true,
@@ -2798,9 +2790,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 1.8,
-        "EndTime": 1.9,
-        "MemeEndTime": 1.9,
+        "StartTime": 1.7333333,
+        "EndTime": 1.8333334,
+        "MemeEndTime": 1.8333334,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 105060100,

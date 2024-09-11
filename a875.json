@@ -4,6 +4,17 @@
     "ID": 40000,
     "Events": [
       {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.4,
+        "EndTime": 1.1666666,
+        "MemeEndTime": 1.1666666,
+        "Parameters": {
+          "ToughnessParamID": 190,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.16666667,
@@ -1849,6 +1860,17 @@
     "ID": 40010,
     "Events": [
       {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.2,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {
+          "ToughnessParamID": 190,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.16666667,
@@ -3681,6 +3703,17 @@
     "AnimFileName": "a875_040020.hkt",
     "ID": 40020,
     "Events": [
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.26666668,
+        "EndTime": 1.1,
+        "MemeEndTime": 1.1,
+        "Parameters": {
+          "ToughnessParamID": 190,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
       {
         "TypeName": "Blend",
         "StartTime": 0.0,

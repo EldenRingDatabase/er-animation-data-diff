@@ -127,21 +127,6 @@
         }
       },
       {
-        "TypeName": "InvokeFootSfxParam_Entity",
-        "StartTime": 1.4666667,
-        "EndTime": 1.5666667,
-        "MemeEndTime": 1.5666667,
-        "Parameters": {
-          "FootSFXIndex": 11,
-          "DummyPolyID": 6,
-          "SlotID": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": false,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.4666667,
         "EndTime": 1.5666667,
@@ -157,6 +142,21 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeFootSfxParam_Entity",
+        "StartTime": 1.4666667,
+        "EndTime": 1.5666667,
+        "MemeEndTime": 1.5666667,
+        "Parameters": {
+          "FootSFXIndex": 11,
+          "DummyPolyID": 6,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0
         }
       },
       {
@@ -195,6 +195,16 @@
         "Parameters": {}
       },
       {
+        "TypeName": "Unk910",
+        "StartTime": 1.8333334,
+        "EndTime": 2.1,
+        "MemeEndTime": 2.1,
+        "Parameters": {
+          "Unk00": 1047233823,
+          "Unk04": 1047233823
+        }
+      },
+      {
         "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 1.8333334,
         "EndTime": 1.9333333,
@@ -207,16 +217,6 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "Unk910",
-        "StartTime": 1.8333334,
-        "EndTime": 2.1,
-        "MemeEndTime": 2.1,
-        "Parameters": {
-          "Unk00": 1047233823,
-          "Unk04": 1047233823
         }
       },
       {
@@ -434,7 +434,7 @@
           "AttackIndex": 1,
           "BehaviorJudgeID": 6611,
           "DirectionType": 255,
-          "Source": 2,
+          "Source": 0,
           "StateInfo": 0
         }
       },
@@ -483,6 +483,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 1.7333333,
+        "EndTime": 1.7666667,
+        "MemeEndTime": 1.7666667,
+        "Parameters": {
+          "JumpTableID": 5,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 1.7333333,
         "EndTime": 1.8333334,
@@ -495,20 +509,6 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 1.7333333,
-        "EndTime": 1.7666667,
-        "MemeEndTime": 1.7666667,
-        "Parameters": {
-          "JumpTableID": 5,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -641,6 +641,15 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.7,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "SpEffectID": 20018641
         }
       },
       {
@@ -2421,7 +2430,7 @@
           "AttackIndex": 1,
           "BehaviorJudgeID": 6622,
           "DirectionType": 255,
-          "Source": 2,
+          "Source": 0,
           "StateInfo": 0
         }
       },
@@ -4612,20 +4621,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 1.0333333,
-        "EndTime": 1.0666667,
-        "MemeEndTime": 1.0666667,
-        "Parameters": {
-          "JumpTableID": 72,
-          "ArgA": 0.09,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.0333333,
         "EndTime": 1.0666667,
@@ -4641,6 +4636,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0333333,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "JumpTableID": 72,
+          "ArgA": 0.09,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -4708,6 +4717,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 2.3666666,
+        "EndTime": 2.4,
+        "MemeEndTime": 2.4,
+        "Parameters": {
+          "JumpTableID": 72,
+          "ArgA": 0.09,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 2.3666666,
         "EndTime": 2.4,
@@ -4723,20 +4746,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 2.3666666,
-        "EndTime": 2.4,
-        "MemeEndTime": 2.4,
-        "Parameters": {
-          "JumpTableID": 72,
-          "ArgA": 0.09,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -5451,39 +5460,11 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.6333333,
-        "EndTime": 0.6666667,
-        "MemeEndTime": 0.6666667,
-        "Parameters": {
-          "JumpTableID": 63,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
         "StartTime": 0.8,
         "EndTime": 0.8333333,
         "MemeEndTime": 0.8333333,
         "Parameters": {
           "JumpTableID": 5,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.8666667,
-        "EndTime": 0.9,
-        "MemeEndTime": 0.9,
-        "Parameters": {
-          "JumpTableID": 63,
           "ArgA": 0.0,
           "ArgB": -1,
           "ArgC": 6,
@@ -5507,39 +5488,11 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.1666666,
-        "EndTime": 1.2,
-        "MemeEndTime": 1.2,
-        "Parameters": {
-          "JumpTableID": 63,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
         "StartTime": 1.3333334,
         "EndTime": 1.3666667,
         "MemeEndTime": 1.3666667,
         "Parameters": {
           "JumpTableID": 5,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 1.4,
-        "EndTime": 1.4333333,
-        "MemeEndTime": 1.4333333,
-        "Parameters": {
-          "JumpTableID": 63,
           "ArgA": 0.0,
           "ArgB": -1,
           "ArgC": 6,
@@ -5946,6 +5899,62 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.53333336,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.8,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0333333,
+        "EndTime": 1.1333333,
+        "MemeEndTime": 1.1333333,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.3333334,
+        "EndTime": 1.4333333,
+        "MemeEndTime": 1.4333333,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.5666667,
         "EndTime": 2.0333333,
         "MemeEndTime": 2.0333333,
         "Parameters": {
@@ -5978,6 +5987,50 @@
         "MemeEndTime": 0.36666667,
         "Parameters": {
           "TurnSpeed": 720.0,
+          "IsLockOnCheck": true,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.6666667,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {
+          "TurnSpeed": 240.0,
+          "IsLockOnCheck": true,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.9,
+        "EndTime": 1.0333333,
+        "MemeEndTime": 1.0333333,
+        "Parameters": {
+          "TurnSpeed": 240.0,
+          "IsLockOnCheck": true,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 1.1333333,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
+        "Parameters": {
+          "TurnSpeed": 240.0,
+          "IsLockOnCheck": true,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 1.4333333,
+        "EndTime": 1.5666667,
+        "MemeEndTime": 1.5666667,
+        "Parameters": {
+          "TurnSpeed": 240.0,
           "IsLockOnCheck": true,
           "NewUnkArg": 255
         }
@@ -6536,20 +6589,6 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 1.0333333,
-        "EndTime": 1.0666667,
-        "MemeEndTime": 1.0666667,
-        "Parameters": {
-          "JumpTableID": 72,
-          "ArgA": 0.09,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.0333333,
         "EndTime": 1.0666667,
@@ -6565,6 +6604,20 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0333333,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "JumpTableID": 72,
+          "ArgA": 0.09,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -6892,6 +6945,20 @@
         }
       },
       {
+        "TypeName": "JumpTable",
+        "StartTime": 0.56666666,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
         "TypeName": "InvokeDecalParamID_Unk",
         "StartTime": 0.56666666,
         "EndTime": 0.6666667,
@@ -6904,20 +6971,6 @@
           "DummyPolyID4": 65535,
           "DummyPolyID5": 0,
           "DummyPolyID6": 65535
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.56666666,
-        "EndTime": 0.6666667,
-        "MemeEndTime": 0.6666667,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
         }
       },
       {
@@ -7090,6 +7143,20 @@
         }
       },
       {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 0.8,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 6626,
+          "DirectionType": 255,
+          "Source": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 0.8,
         "EndTime": 0.9,
@@ -7102,20 +7169,6 @@
           "IsFollowDummyPoly": false,
           "IsRestrictToDummyPoly": true,
           "ExtraSpawnCondition": 0
-        }
-      },
-      {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 0.8,
-        "EndTime": 0.9,
-        "MemeEndTime": 0.9,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 0,
-          "BehaviorJudgeID": 6626,
-          "DirectionType": 255,
-          "Source": 0,
-          "StateInfo": 0
         }
       },
       {
@@ -7456,39 +7509,11 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.6333333,
-        "EndTime": 0.6666667,
-        "MemeEndTime": 0.6666667,
-        "Parameters": {
-          "JumpTableID": 63,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
         "StartTime": 0.8,
         "EndTime": 0.8333333,
         "MemeEndTime": 0.8333333,
         "Parameters": {
           "JumpTableID": 5,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.8666667,
-        "EndTime": 0.9,
-        "MemeEndTime": 0.9,
-        "Parameters": {
-          "JumpTableID": 63,
           "ArgA": 0.0,
           "ArgB": -1,
           "ArgC": 6,
@@ -7512,39 +7537,11 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 1.1666666,
-        "EndTime": 1.2,
-        "MemeEndTime": 1.2,
-        "Parameters": {
-          "JumpTableID": 63,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
         "StartTime": 1.3333334,
         "EndTime": 1.3666667,
         "MemeEndTime": 1.3666667,
         "Parameters": {
           "JumpTableID": 5,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 1.4,
-        "EndTime": 1.4333333,
-        "MemeEndTime": 1.4333333,
-        "Parameters": {
-          "JumpTableID": 63,
           "ArgA": 0.0,
           "ArgB": -1,
           "ArgC": 6,
@@ -7675,7 +7672,7 @@
         "MemeEndTime": 0.6333333,
         "Parameters": {
           "SoundType": 1,
-          "SoundID": 102860100,
+          "SoundID": 102860000,
           "DummyPolyID": 102,
           "SlotID": -1,
           "StateInfo": 0,
@@ -7951,8 +7948,64 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 0.53333336,
-        "EndTime": 2.1,
-        "MemeEndTime": 2.1,
+        "EndTime": 0.6666667,
+        "MemeEndTime": 0.6666667,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.8,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0333333,
+        "EndTime": 1.1333333,
+        "MemeEndTime": 1.1333333,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.3333334,
+        "EndTime": 1.4333333,
+        "MemeEndTime": 1.4333333,
+        "Parameters": {
+          "JumpTableID": 7,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.5666667,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
         "Parameters": {
           "JumpTableID": 7,
           "ArgA": 0.0,
@@ -7989,63 +8042,57 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.36666667,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
+        "StartTime": 0.6666667,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
         "Parameters": {
-          "TurnSpeed": 720.0,
-          "IsLockOnCheck": false,
-          "NewUnkArg": 255
-        }
-      },
-      {
-        "TypeName": "SetTurnSpeed",
-        "StartTime": 2.1333334,
-        "EndTime": 2.2,
-        "MemeEndTime": 2.2,
-        "Parameters": {
-          "TurnSpeed": 720.0,
+          "TurnSpeed": 240.0,
           "IsLockOnCheck": true,
           "NewUnkArg": 255
         }
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 2.2,
-        "EndTime": 2.2666667,
-        "MemeEndTime": 2.2666667,
+        "StartTime": 0.9,
+        "EndTime": 1.0333333,
+        "MemeEndTime": 1.0333333,
         "Parameters": {
-          "TurnSpeed": 720.0,
-          "IsLockOnCheck": false,
+          "TurnSpeed": 240.0,
+          "IsLockOnCheck": true,
           "NewUnkArg": 255
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 0.3,
-        "EndTime": 0.36666667,
-        "MemeEndTime": 0.36666667,
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 1.1333333,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
         "Parameters": {
-          "JumpTableID": 110,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
+          "TurnSpeed": 240.0,
+          "IsLockOnCheck": true,
+          "NewUnkArg": 255
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 2.1333334,
-        "EndTime": 2.2,
-        "MemeEndTime": 2.2,
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 1.4333333,
+        "EndTime": 1.5666667,
+        "MemeEndTime": 1.5666667,
         "Parameters": {
-          "JumpTableID": 110,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
+          "TurnSpeed": 240.0,
+          "IsLockOnCheck": true,
+          "NewUnkArg": 255
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 2.0333333,
+        "EndTime": 2.1,
+        "MemeEndTime": 2.1,
+        "Parameters": {
+          "TurnSpeed": 720.0,
+          "IsLockOnCheck": true,
+          "NewUnkArg": 255
         }
       },
       {

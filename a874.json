@@ -406,24 +406,28 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 2.3666666,
-        "EndTime": 2.5,
-        "MemeEndTime": 2.5,
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 2.3,
+        "EndTime": 2.3333333,
+        "MemeEndTime": 2.3333333,
         "Parameters": {
-          "JumpTableID": 56,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
+          "SoundType": 1,
+          "SoundID": 106260100,
+          "DummyPolyID": 102,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 0
         }
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 2.4,
-        "EndTime": 2.4333334,
-        "MemeEndTime": 2.4333334,
+        "StartTime": 2.3333333,
+        "EndTime": 2.3666666,
+        "MemeEndTime": 2.3666666,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 106261100,
@@ -438,21 +442,17 @@
         }
       },
       {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 2.4333334,
-        "EndTime": 2.5333333,
-        "MemeEndTime": 2.5333333,
+        "TypeName": "JumpTable",
+        "StartTime": 2.3666666,
+        "EndTime": 2.5,
+        "MemeEndTime": 2.5,
         "Parameters": {
-          "SoundType": 1,
-          "SoundID": 106260100,
-          "DummyPolyID": 102,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 0
+          "JumpTableID": 56,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
         }
       },
       {
@@ -1192,9 +1192,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 2.4333334,
-        "EndTime": 2.5333333,
-        "MemeEndTime": 2.5333333,
+        "StartTime": 2.4666667,
+        "EndTime": 2.5666666,
+        "MemeEndTime": 2.5666666,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 106265000,
@@ -1694,6 +1694,19 @@
         }
       },
       {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 2.3333333,
+        "EndTime": 2.4666667,
+        "MemeEndTime": 2.4666667,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 11310,
+          "DummyPolyBladeTipID": -1,
+          "SlotID": 2
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 2.3333333,
         "EndTime": 5.0,
@@ -1708,16 +1721,16 @@
         }
       },
       {
-        "TypeName": "SpawnFFX_Blade",
-        "StartTime": 2.3333333,
-        "EndTime": 2.4666667,
-        "MemeEndTime": 2.4666667,
+        "TypeName": "ActionFlag_787",
+        "StartTime": 2.4666667,
+        "EndTime": 3.5666666,
+        "MemeEndTime": 3.5666666,
         "Parameters": {
-          "FFXID": 401001,
-          "DummyPolySource": 0,
-          "DummyPolyBladeBaseID": 11310,
-          "DummyPolyBladeTipID": -1,
-          "SlotID": 2
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
         }
       },
       {
@@ -3412,9 +3425,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 2.4333334,
-        "EndTime": 2.5333333,
-        "MemeEndTime": 2.5333333,
+        "StartTime": 2.3,
+        "EndTime": 2.4,
+        "MemeEndTime": 2.4,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 106260100,
@@ -4118,9 +4131,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 2.4333334,
-        "EndTime": 2.5333333,
-        "MemeEndTime": 2.5333333,
+        "StartTime": 2.4666667,
+        "EndTime": 2.5666666,
+        "MemeEndTime": 2.5666666,
         "Parameters": {
           "SoundType": 1,
           "SoundID": 106265000,
@@ -4268,6 +4281,19 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "ActionFlag_787",
+        "StartTime": 2.4666667,
+        "EndTime": 3.5666666,
+        "MemeEndTime": 3.5666666,
+        "Parameters": {
+          "Unk00": 25.0,
+          "Unk04": 25.0,
+          "Unk08": 0.0,
+          "Unk0C": 0.2,
+          "State": false
         }
       }
     ]
