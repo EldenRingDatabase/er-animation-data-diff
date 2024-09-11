@@ -9845,7 +9845,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.26666668,
+        "StartTime": 0.06666667,
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
@@ -9854,7 +9854,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.26666668,
+        "StartTime": 0.13333334,
         "EndTime": 0.76666665,
         "MemeEndTime": 0.76666665,
         "Parameters": {
@@ -46886,7 +46886,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.2,
+        "StartTime": 0.06666667,
         "EndTime": 0.7,
         "MemeEndTime": 0.7,
         "Parameters": {
@@ -46895,7 +46895,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.2,
+        "StartTime": 0.13333334,
         "EndTime": 0.7,
         "MemeEndTime": 0.7,
         "Parameters": {

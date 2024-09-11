@@ -12,9 +12,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 0.46666667,
-        "EndTime": 0.8,
-        "MemeEndTime": 0.8,
+        "StartTime": 0.36666667,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 93,
           "JumpTable2ID_ToJudgeHowEarly": 5,
@@ -35,9 +35,9 @@
       },
       {
         "TypeName": "SetLockCamParam",
-        "StartTime": 0.96666664,
-        "EndTime": 2.1666667,
-        "MemeEndTime": 2.1666667,
+        "StartTime": 0.8666667,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
         "Parameters": {
           "LockCamParamID": 1020
         }
@@ -94,9 +94,9 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.33333334,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
+        "StartTime": 0.23333333,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
         "Parameters": {
           "FFXID": 527060,
           "DummyPolyID": 7,
@@ -128,9 +128,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.6666667,
-        "EndTime": 0.76666665,
-        "MemeEndTime": 0.76666665,
+        "StartTime": 0.6,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
         "Parameters": {
           "SoundType": 15,
           "SoundID": 0,
@@ -146,9 +146,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.3,
-        "EndTime": 0.4,
-        "MemeEndTime": 0.4,
+        "StartTime": 0.23333333,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
         "Parameters": {
           "SoundType": 5,
           "SoundID": 527016,
@@ -177,7 +177,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.3,
+        "StartTime": 0.16666667,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
@@ -193,9 +193,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8333333,
-        "EndTime": 0.8666667,
-        "MemeEndTime": 0.8666667,
+        "StartTime": 0.7,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
         "Parameters": {
           "DummyPolyID": 91,
           "Unk04": false,
@@ -219,9 +219,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8333333,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.7,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 847,
           "Unk04": true,
@@ -263,9 +263,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8333333,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.7,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 91,
           "Unk04": true,
@@ -280,9 +280,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.2,
-        "EndTime": 0.3,
-        "MemeEndTime": 0.3,
+        "StartTime": 0.1,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "SoundType": 15,
           "SoundID": 100,
@@ -298,9 +298,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.96666664,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.8333333,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 847,
           "Unk04": true,
@@ -315,9 +315,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.96666664,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.8333333,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 900,
           "Unk04": true,
@@ -341,7 +341,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.16666667,
+        "StartTime": 0.033333335,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
@@ -366,7 +366,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.16666667,
+        "StartTime": 0.033333335,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
@@ -382,9 +382,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.13333334,
-        "EndTime": 1.4333333,
-        "MemeEndTime": 1.4333333,
+        "StartTime": 0.033333335,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
         "Parameters": {
           "SoundType": 5,
           "SoundID": 527060,
@@ -1439,9 +1439,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 0.46666667,
-        "EndTime": 0.8,
-        "MemeEndTime": 0.8,
+        "StartTime": 0.36666667,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 93,
           "JumpTable2ID_ToJudgeHowEarly": 5,
@@ -1483,9 +1483,9 @@
       },
       {
         "TypeName": "SetLockCamParam",
-        "StartTime": 0.96666664,
-        "EndTime": 2.1666667,
-        "MemeEndTime": 2.1666667,
+        "StartTime": 0.8666667,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
         "Parameters": {
           "LockCamParamID": 1020
         }
@@ -1501,9 +1501,9 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.33333334,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
+        "StartTime": 0.23333333,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
         "Parameters": {
           "FFXID": 527060,
           "DummyPolyID": 7,
@@ -1535,9 +1535,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.6666667,
-        "EndTime": 0.76666665,
-        "MemeEndTime": 0.76666665,
+        "StartTime": 0.6,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
         "Parameters": {
           "SoundType": 15,
           "SoundID": 0,
@@ -1553,9 +1553,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.3,
-        "EndTime": 0.4,
-        "MemeEndTime": 0.4,
+        "StartTime": 0.23333333,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
         "Parameters": {
           "SoundType": 5,
           "SoundID": 527016,
@@ -1577,9 +1577,9 @@
     "Events": [
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8333333,
-        "EndTime": 0.8666667,
-        "MemeEndTime": 0.8666667,
+        "StartTime": 0.7,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
         "Parameters": {
           "DummyPolyID": 91,
           "Unk04": false,
@@ -1594,9 +1594,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8333333,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.7,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 847,
           "Unk04": true,
@@ -1611,9 +1611,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8333333,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.7,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 91,
           "Unk04": true,
@@ -1628,9 +1628,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.13333334,
-        "EndTime": 1.4333333,
-        "MemeEndTime": 1.4333333,
+        "StartTime": 0.033333335,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
         "Parameters": {
           "SoundType": 5,
           "SoundID": 527060,
@@ -1646,9 +1646,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.96666664,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.8333333,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 847,
           "Unk04": true,
@@ -1663,9 +1663,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.96666664,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.8333333,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 900,
           "Unk04": true,
@@ -1698,7 +1698,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.16666667,
+        "StartTime": 0.033333335,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
@@ -1714,7 +1714,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.16666667,
+        "StartTime": 0.033333335,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
@@ -1757,7 +1757,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.3,
+        "StartTime": 0.16666667,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
@@ -1789,9 +1789,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.2,
-        "EndTime": 0.3,
-        "MemeEndTime": 0.3,
+        "StartTime": 0.1,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "SoundType": 15,
           "SoundID": 100,
@@ -2826,9 +2826,9 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.33333334,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
+        "StartTime": 0.23333333,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
         "Parameters": {
           "FFXID": 527060,
           "DummyPolyID": 7,
@@ -2842,9 +2842,9 @@
       },
       {
         "TypeName": "ActivateJumpTableEarly",
-        "StartTime": 0.46666667,
-        "EndTime": 0.8,
-        "MemeEndTime": 0.8,
+        "StartTime": 0.36666667,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
         "Parameters": {
           "JumpTableID_ToActivateEarly": 93,
           "JumpTable2ID_ToJudgeHowEarly": 5,
@@ -2865,9 +2865,9 @@
       },
       {
         "TypeName": "SetLockCamParam",
-        "StartTime": 0.4,
-        "EndTime": 2.1666667,
-        "MemeEndTime": 2.1666667,
+        "StartTime": 0.3,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
         "Parameters": {
           "LockCamParamID": 1020
         }
@@ -2942,9 +2942,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.6666667,
-        "EndTime": 0.76666665,
-        "MemeEndTime": 0.76666665,
+        "StartTime": 0.6,
+        "EndTime": 0.7,
+        "MemeEndTime": 0.7,
         "Parameters": {
           "SoundType": 15,
           "SoundID": 0,
@@ -2960,9 +2960,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.3,
-        "EndTime": 0.4,
-        "MemeEndTime": 0.4,
+        "StartTime": 0.23333333,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
         "Parameters": {
           "SoundType": 5,
           "SoundID": 527016,
@@ -3020,9 +3020,9 @@
     "Events": [
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8333333,
-        "EndTime": 0.8666667,
-        "MemeEndTime": 0.8666667,
+        "StartTime": 0.7,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
         "Parameters": {
           "DummyPolyID": 91,
           "Unk04": false,
@@ -3037,9 +3037,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8333333,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.7,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 847,
           "Unk04": true,
@@ -3054,9 +3054,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8333333,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.7,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 91,
           "Unk04": true,
@@ -3071,9 +3071,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.13333334,
-        "EndTime": 1.4333333,
-        "MemeEndTime": 1.4333333,
+        "StartTime": 0.033333335,
+        "EndTime": 1.3333334,
+        "MemeEndTime": 1.3333334,
         "Parameters": {
           "SoundType": 5,
           "SoundID": 527060,
@@ -3089,9 +3089,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.96666664,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.8333333,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 847,
           "Unk04": true,
@@ -3106,9 +3106,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.96666664,
-        "EndTime": 2.0,
-        "MemeEndTime": 2.0,
+        "StartTime": 0.8333333,
+        "EndTime": 1.8666667,
+        "MemeEndTime": 1.8666667,
         "Parameters": {
           "DummyPolyID": 900,
           "Unk04": true,
@@ -3137,7 +3137,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.16666667,
+        "StartTime": 0.033333335,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
@@ -3153,9 +3153,9 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.2,
-        "EndTime": 0.3,
-        "MemeEndTime": 0.3,
+        "StartTime": 0.1,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
         "Parameters": {
           "SoundType": 15,
           "SoundID": 100,
@@ -3218,7 +3218,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.16666667,
+        "StartTime": 0.033333335,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {
@@ -3241,7 +3241,7 @@
       },
       {
         "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.3,
+        "StartTime": 0.16666667,
         "EndTime": 100.0,
         "MemeEndTime": 3.4028235E+38,
         "Parameters": {

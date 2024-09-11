@@ -1516,7 +1516,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
+        "StartTime": 0.26666668,
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
@@ -4021,7 +4021,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
+        "StartTime": 0.26666668,
         "EndTime": 1.1666666,
         "MemeEndTime": 1.1666666,
         "Parameters": {
@@ -5851,6 +5851,15 @@
         "MemeEndTime": 2.8,
         "Parameters": {
           "SpEffectID": 20001917
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.5,
+        "EndTime": 1.1,
+        "MemeEndTime": 1.1,
+        "Parameters": {
+          "SpEffectID": 102369
         }
       },
       {
@@ -7750,6 +7759,15 @@
         "MemeEndTime": 2.8,
         "Parameters": {
           "SpEffectID": 20001917
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.5,
+        "EndTime": 1.1,
+        "MemeEndTime": 1.1,
+        "Parameters": {
+          "SpEffectID": 102369
         }
       },
       {

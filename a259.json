@@ -2305,6 +2305,13 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.9,
         "EndTime": 1.0,
@@ -2370,6 +2377,19 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 0.9,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 10300,
+          "DummyPolyBladeTipID": -1,
+          "SlotID": 0
         }
       },
       {
@@ -2448,6 +2468,19 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_Blade",
+        "StartTime": 1.1,
+        "EndTime": 1.2333333,
+        "MemeEndTime": 1.2333333,
+        "Parameters": {
+          "FFXID": 401001,
+          "DummyPolySource": 0,
+          "DummyPolyBladeBaseID": 11300,
+          "DummyPolyBladeTipID": -1,
+          "SlotID": 0
         }
       },
       {
@@ -3493,6 +3526,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
       },
       {
         "TypeName": "InvokeAttackBehavior",

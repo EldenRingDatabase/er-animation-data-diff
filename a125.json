@@ -927,55 +927,12 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {}
-      },
-      {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.36666667,
+        "StartTime": 0.26666668,
         "EndTime": 0.8333333,
         "MemeEndTime": 0.8333333,
         "Parameters": {
           "SpEffectID": 100280
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 1.4,
-        "EndTime": 1.5,
-        "MemeEndTime": 1.5,
-        "Parameters": {
-          "SoundType": 1,
-          "SoundID": 102560200,
-          "DummyPolyID": 100,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 0
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 3.1666667,
-        "EndTime": 3.2666667,
-        "MemeEndTime": 3.2666667,
-        "Parameters": {
-          "SoundType": 1,
-          "SoundID": 8100,
-          "DummyPolyID": -1,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
         }
       },
       {
@@ -1044,6 +1001,49 @@
           "Unk04": -1.0,
           "Unk08": -1.0,
           "Unk0C": -1.0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 1.4,
+        "EndTime": 1.5,
+        "MemeEndTime": 1.5,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 102560200,
+          "DummyPolyID": 100,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 0
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 3.1666667,
+        "EndTime": 3.2666667,
+        "MemeEndTime": 3.2666667,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 8100,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
         }
       },
       {
@@ -5988,43 +5988,12 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.23333333,
-        "MemeEndTime": 0.23333333,
-        "Parameters": {}
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 0.26666668,
-        "EndTime": 0.36666667,
-        "MemeEndTime": 0.36666667,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 5,
-          "Unk06": 0,
-          "Unk08": 0
-        }
-      },
-      {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.33333334,
+        "StartTime": 0.26666668,
         "EndTime": 0.8333333,
         "MemeEndTime": 0.8333333,
         "Parameters": {
           "SpEffectID": 100280
-        }
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 3.2666667,
-        "EndTime": 3.3666666,
-        "MemeEndTime": 3.3666666,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 5,
-          "Unk06": 0,
-          "Unk08": 0
         }
       },
       {
@@ -6093,6 +6062,37 @@
           "Unk04": -1.0,
           "Unk08": -1.0,
           "Unk0C": -1.0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 0.26666668,
+        "EndTime": 0.36666667,
+        "MemeEndTime": 0.36666667,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 5,
+          "Unk06": 0,
+          "Unk08": 0
+        }
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 3.2666667,
+        "EndTime": 3.3666666,
+        "MemeEndTime": 3.3666666,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 5,
+          "Unk06": 0,
+          "Unk08": 0
         }
       },
       {

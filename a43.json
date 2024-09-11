@@ -8273,7 +8273,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.36666667,
+        "StartTime": 0.16666667,
         "EndTime": 0.73333335,
         "MemeEndTime": 0.73333335,
         "Parameters": {
@@ -29773,27 +29773,8 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
-        "Parameters": {}
-      },
-      {
-        "TypeName": "SpawnFFX_FloorDetermined",
-        "StartTime": 0.16666667,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
-        "Parameters": {
-          "FFXID": 0,
-          "DummyPolyID": 5,
-          "Unk06": 0,
-          "Unk08": 0
-        }
-      },
-      {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.26666668,
+        "StartTime": 0.13333334,
         "EndTime": 0.6666667,
         "MemeEndTime": 0.6666667,
         "Parameters": {
@@ -29838,6 +29819,25 @@
           "Unk04": -1.0,
           "Unk08": -1.0,
           "Unk0C": -1.0
+        }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "SpawnFFX_FloorDetermined",
+        "StartTime": 0.16666667,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {
+          "FFXID": 0,
+          "DummyPolyID": 5,
+          "Unk06": 0,
+          "Unk08": 0
         }
       },
       {

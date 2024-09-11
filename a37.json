@@ -7753,7 +7753,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
+        "StartTime": 0.16666667,
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {
@@ -43785,7 +43785,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
+        "StartTime": 0.16666667,
         "EndTime": 1.1333333,
         "MemeEndTime": 1.1333333,
         "Parameters": {

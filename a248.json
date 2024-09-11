@@ -568,7 +568,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.4,
+        "StartTime": 0.26666668,
         "EndTime": 0.93333334,
         "MemeEndTime": 0.93333334,
         "Parameters": {
@@ -765,6 +765,13 @@
           "Unk18": 0,
           "Unk1C": 0
         }
+      },
+      {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -1786,6 +1793,31 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 103061100,
+          "DummyPolyID": 100,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.43333334,
         "EndTime": 0.53333336,
@@ -1919,24 +1951,6 @@
         "Parameters": {
           "SoundType": 1,
           "SoundID": 103060000,
-          "DummyPolyID": 100,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 0
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.4,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
-        "Parameters": {
-          "SoundType": 1,
-          "SoundID": 103061100,
           "DummyPolyID": 100,
           "SlotID": -1,
           "StateInfo": 0,
@@ -2214,6 +2228,38 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.43333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 103060000,
+          "DummyPolyID": 100,
+          "SlotID": 11,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -2247,31 +2293,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
-        "Parameters": {}
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.43333334,
-        "EndTime": 1.0,
-        "MemeEndTime": 1.0,
-        "Parameters": {
-          "SoundType": 1,
-          "SoundID": 103060000,
-          "DummyPolyID": 100,
-          "SlotID": 11,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 0
         }
       },
       {
@@ -2602,6 +2623,38 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.43333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 103060000,
+          "DummyPolyID": 100,
+          "SlotID": 11,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -2635,31 +2688,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
-        "Parameters": {}
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.43333334,
-        "EndTime": 1.0,
-        "MemeEndTime": 1.0,
-        "Parameters": {
-          "SoundType": 1,
-          "SoundID": 103060000,
-          "DummyPolyID": 100,
-          "SlotID": 11,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 0
         }
       },
       {
@@ -2990,6 +3018,38 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.43333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 103060000,
+          "DummyPolyID": 100,
+          "SlotID": 11,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -3023,31 +3083,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
-        "Parameters": {}
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.43333334,
-        "EndTime": 1.0,
-        "MemeEndTime": 1.0,
-        "Parameters": {
-          "SoundType": 1,
-          "SoundID": 103060000,
-          "DummyPolyID": 100,
-          "SlotID": 11,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 0
         }
       },
       {
@@ -3964,6 +3999,31 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.46666667,
+        "EndTime": 2.5,
+        "MemeEndTime": 2.5,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 103061100,
+          "DummyPolyID": 100,
+          "SlotID": 22,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.53333336,
         "EndTime": 0.6333333,
@@ -4135,24 +4195,6 @@
           "SoundID": 103060000,
           "DummyPolyID": 100,
           "SlotID": 11,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 0
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.46666667,
-        "EndTime": 2.5,
-        "MemeEndTime": 2.5,
-        "Parameters": {
-          "SoundType": 1,
-          "SoundID": 103061100,
-          "DummyPolyID": 100,
-          "SlotID": 22,
           "StateInfo": 0,
           "PlaybackBehaviorType": 0,
           "Unk13": 1,
@@ -7538,7 +7580,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.4,
+        "StartTime": 0.26666668,
         "EndTime": 0.93333334,
         "MemeEndTime": 0.93333334,
         "Parameters": {
@@ -7694,6 +7736,13 @@
           "Unk18": 0,
           "Unk1C": 0
         }
+      },
+      {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -8732,6 +8781,31 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.4,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "SoundType": 1,
+          "SoundID": 103061100,
+          "DummyPolyID": 100,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.43333334,
         "EndTime": 0.53333336,
@@ -8865,24 +8939,6 @@
         "Parameters": {
           "SoundType": 1,
           "SoundID": 103060000,
-          "DummyPolyID": 100,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 0
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.4,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
-        "Parameters": {
-          "SoundType": 1,
-          "SoundID": 103061100,
           "DummyPolyID": 100,
           "SlotID": -1,
           "StateInfo": 0,
@@ -9230,6 +9286,13 @@
         "Parameters": {
           "SpEffectID": 20001915
         }
+      },
+      {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
       },
       {
         "TypeName": "Blend",
@@ -9600,6 +9663,13 @@
         "Parameters": {
           "SpEffectID": 20001915
         }
+      },
+      {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
       },
       {
         "TypeName": "Blend",
@@ -9990,6 +10060,13 @@
         }
       },
       {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.2,
@@ -10287,6 +10364,13 @@
           "Source": 0,
           "StateInfo": 0
         }
+      },
+      {
+        "TypeName": "DisableDefaultWeaponTrail",
+        "StartTime": 0.0,
+        "EndTime": 100.0,
+        "MemeEndTime": 3.4028235E+38,
+        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",

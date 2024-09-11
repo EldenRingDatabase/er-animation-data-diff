@@ -4,13 +4,24 @@
     "ID": 30000,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.4,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "MovDistMultiplier": 1.45,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
-        "EndTime": 0.56666666,
-        "MemeEndTime": 0.56666666,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpeedAtStart": 1.34,
-          "SpeedAtEnd": 1.34
+          "SpeedAtStart": 1.28,
+          "SpeedAtEnd": 1.28
         }
       },
       {
@@ -1196,6 +1207,17 @@
     "ID": 30010,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.53333336,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.43333334,
         "EndTime": 1.3,
@@ -1930,21 +1952,6 @@
         }
       },
       {
-        "TypeName": "InvokeFootSfxParam_Entity",
-        "StartTime": 0.23333333,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
-        "Parameters": {
-          "FootSFXIndex": 121,
-          "DummyPolyID": 10301,
-          "SlotID": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": true,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.23333333,
         "EndTime": 0.33333334,
@@ -1960,6 +1967,21 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeFootSfxParam_Entity",
+        "StartTime": 0.23333333,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "FootSFXIndex": 121,
+          "DummyPolyID": 10301,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0
         }
       },
       {
@@ -2411,6 +2433,17 @@
     "AnimFileName": "a031_030020.hkt",
     "ID": 30020,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.56666666,
+        "EndTime": 0.93333334,
+        "MemeEndTime": 0.93333334,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.53333336,
@@ -3589,6 +3622,17 @@
     "AnimFileName": "a031_030200.hkt",
     "ID": 30200,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
@@ -4801,6 +4845,17 @@
     "ID": 30210,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
         "EndTime": 0.73333335,
@@ -6007,11 +6062,11 @@
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
-        "EndTime": 0.3,
-        "MemeEndTime": 0.3,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
         "Parameters": {
-          "SpeedAtStart": 1.29,
-          "SpeedAtEnd": 1.29
+          "SpeedAtStart": 1.27,
+          "SpeedAtEnd": 1.27
         }
       },
       {
@@ -6409,9 +6464,9 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
-        "EndTime": 0.3,
-        "MemeEndTime": 0.3,
+        "StartTime": 0.56666666,
+        "EndTime": 2.8333333,
+        "MemeEndTime": 2.8333333,
         "Parameters": {
           "JumpTableID": 7,
           "ArgA": 0.0,
@@ -6422,17 +6477,14 @@
         }
       },
       {
-        "TypeName": "JumpTable",
-        "StartTime": 0.56666666,
-        "EndTime": 3.0,
-        "MemeEndTime": 3.0,
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 0.3,
+        "MemeEndTime": 0.3,
         "Parameters": {
-          "JumpTableID": 7,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
+          "TurnSpeed": 450.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
         }
       },
       {
@@ -6448,9 +6500,9 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 3.5333333,
-        "EndTime": 3.6,
-        "MemeEndTime": 3.6,
+        "StartTime": 3.1333334,
+        "EndTime": 3.2,
+        "MemeEndTime": 3.2,
         "Parameters": {
           "TurnSpeed": 720.0,
           "IsLockOnCheck": true,
@@ -7108,6 +7160,17 @@
     "AnimFileName": "a031_030400.hkt",
     "ID": 30400,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.23333333,
@@ -8237,6 +8300,17 @@
     "AnimFileName": "a031_030500.hkt",
     "ID": 30500,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.4666667,
+        "EndTime": 1.9,
+        "MemeEndTime": 1.9,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
@@ -9773,6 +9847,17 @@
     "ID": 30505,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.73333335,
         "EndTime": 1.1666666,
@@ -10922,6 +11007,17 @@
     "AnimFileName": "a031_030510.hkt",
     "ID": 30510,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.1,
+        "EndTime": 1.6,
+        "MemeEndTime": 1.6,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.43333334,
@@ -12166,6 +12262,17 @@
     "AnimFileName": "a031_030515.hkt",
     "ID": 30515,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.06666667,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.0,
@@ -25272,10 +25379,21 @@
       }
     ]
   },
-  "a026_030700.hkt-30700": {
-    "AnimFileName": "a026_030700.hkt",
+  "a031_030700.hkt-30700": {
+    "AnimFileName": "a031_030700.hkt",
     "ID": 30700,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.46666667,
+        "EndTime": 0.93333334,
+        "MemeEndTime": 0.93333334,
+        "Parameters": {
+          "MovDistMultiplier": 1.45,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
@@ -25316,13 +25434,6 @@
           "Unk20": -1.0,
           "Unk24": -1.0
         }
-      },
-      {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.16666667,
-        "MemeEndTime": 0.16666667,
-        "Parameters": {}
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
@@ -25492,15 +25603,11 @@
         }
       },
       {
-        "TypeName": "InvokeRumbleCam_ByDummyPoly",
-        "StartTime": 1.0,
-        "EndTime": 1.0666667,
-        "MemeEndTime": 1.0666667,
-        "Parameters": {
-          "RumbleCamID": 65,
-          "Condition": 0,
-          "Unk04": -1
-        }
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.16666667,
+        "MemeEndTime": 0.16666667,
+        "Parameters": {}
       },
       {
         "TypeName": "JumpTable",
@@ -25514,6 +25621,78 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.93333334,
+        "EndTime": 1.0333333,
+        "MemeEndTime": 1.0333333,
+        "Parameters": {
+          "JumpTableID": 57,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "InvokeRumbleCam_ByDummyPoly",
+        "StartTime": 1.0,
+        "EndTime": 1.0666667,
+        "MemeEndTime": 1.0666667,
+        "Parameters": {
+          "RumbleCamID": 65,
+          "Condition": 0,
+          "Unk04": -1
+        }
+      },
+      {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.8333333,
+        "EndTime": 0.93333334,
+        "MemeEndTime": 0.93333334,
+        "Parameters": {
+          "SoundType": 15,
+          "SoundID": 200,
+          "DummyPolyID": -1,
+          "SlotID": -1,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 0,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeFootSfxParam_Entity",
+        "StartTime": 0.93333334,
+        "EndTime": 1.0333333,
+        "MemeEndTime": 1.0333333,
+        "Parameters": {
+          "FootSFXIndex": 11,
+          "DummyPolyID": 5,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0
+        }
+      },
+      {
+        "TypeName": "InvokeAttackBehavior",
+        "StartTime": 0.93333334,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "AttackType": 0,
+          "AttackIndex": 0,
+          "BehaviorJudgeID": 180,
+          "DirectionType": 255,
+          "Source": 0,
+          "StateInfo": 0
         }
       },
       {
@@ -25538,67 +25717,6 @@
           "AnimID": 0,
           "AnimWeightAtEventStart": 1.0,
           "AnimWeightAtEventEnd": 1.0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.93333334,
-        "EndTime": 1.0333333,
-        "MemeEndTime": 1.0333333,
-        "Parameters": {
-          "JumpTableID": 57,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.8333333,
-        "EndTime": 0.93333334,
-        "MemeEndTime": 0.93333334,
-        "Parameters": {
-          "SoundType": 15,
-          "SoundID": 200,
-          "DummyPolyID": -1,
-          "SlotID": -1,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 0,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "InvokeAttackBehavior",
-        "StartTime": 0.93333334,
-        "EndTime": 1.0,
-        "MemeEndTime": 1.0,
-        "Parameters": {
-          "AttackType": 0,
-          "AttackIndex": 0,
-          "BehaviorJudgeID": 180,
-          "DirectionType": 255,
-          "Source": 0,
-          "StateInfo": 0
-        }
-      },
-      {
-        "TypeName": "InvokeFootSfxParam_Entity",
-        "StartTime": 0.93333334,
-        "EndTime": 1.0333333,
-        "MemeEndTime": 1.0333333,
-        "Parameters": {
-          "FootSFXIndex": 11,
-          "DummyPolyID": 5,
-          "SlotID": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": false,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0
         }
       },
       {
@@ -39461,13 +39579,24 @@
     "ID": 32000,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.4,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "MovDistMultiplier": 1.45,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
-        "EndTime": 0.56666666,
-        "MemeEndTime": 0.56666666,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
         "Parameters": {
-          "SpeedAtStart": 1.24,
-          "SpeedAtEnd": 1.24
+          "SpeedAtStart": 1.23,
+          "SpeedAtEnd": 1.23
         }
       },
       {
@@ -40610,6 +40739,17 @@
     "AnimFileName": "a031_032010.hkt",
     "ID": 32010,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.5,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.43333334,
@@ -41783,6 +41923,17 @@
     "ID": 32020,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.53333336,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.53333336,
         "EndTime": 1.4,
@@ -42947,6 +43098,17 @@
     "AnimFileName": "a031_032200.hkt",
     "ID": 32200,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
@@ -44117,6 +44279,17 @@
     "AnimFileName": "a031_032210.hkt",
     "ID": 32210,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
@@ -45296,13 +45469,24 @@
     "ID": 32300,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
+        "Parameters": {
+          "MovDistMultiplier": 1.4,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
-        "EndTime": 0.3,
-        "MemeEndTime": 0.3,
+        "EndTime": 0.6333333,
+        "MemeEndTime": 0.6333333,
         "Parameters": {
-          "SpeedAtStart": 1.29,
-          "SpeedAtEnd": 1.29
+          "SpeedAtStart": 1.36,
+          "SpeedAtEnd": 1.36
         }
       },
       {
@@ -45732,20 +45916,6 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {
-          "JumpTableID": 7,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
         "StartTime": 0.6,
         "EndTime": 2.8333333,
         "MemeEndTime": 2.8333333,
@@ -45756,6 +45926,17 @@
           "ArgC": 6,
           "ArgD": 0,
           "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "SetTurnSpeed",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "TurnSpeed": 450.0,
+          "IsLockOnCheck": false,
+          "NewUnkArg": 255
         }
       },
       {
@@ -46485,6 +46666,17 @@
     "AnimFileName": "a031_032400.hkt",
     "ID": 32400,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.23333333,
@@ -47576,6 +47768,17 @@
     "AnimFileName": "a031_032500.hkt",
     "ID": 32500,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.5,
+        "EndTime": 1.9333333,
+        "MemeEndTime": 1.9333333,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
@@ -49108,6 +49311,17 @@
     "ID": 32505,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.2,
+        "EndTime": 0.53333336,
+        "MemeEndTime": 0.53333336,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.0,
         "EndTime": 1.2333333,
@@ -50187,6 +50401,17 @@
     "AnimFileName": "a031_032510.hkt",
     "ID": 32510,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 1.5666667,
+        "EndTime": 1.9,
+        "MemeEndTime": 1.9,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
@@ -51430,6 +51655,17 @@
     "AnimFileName": "a031_032515.hkt",
     "ID": 32515,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.2,
+        "EndTime": 0.56666666,
+        "MemeEndTime": 0.56666666,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.0,
@@ -63588,6 +63824,17 @@
     "ID": 32700,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.43333334,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.45,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
         "EndTime": 0.6,
@@ -64248,6 +64495,22 @@
         }
       },
       {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {
+          "FFXID": 405030,
+          "DummyPolyID": 902,
+          "SlotID": -1,
+          "IsIgnoreDummyPolyAngle": true,
+          "IsFollowDummyPoly": false,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
+        }
+      },
+      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -64263,22 +64526,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.0,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {
-          "FFXID": 405030,
-          "DummyPolyID": 902,
-          "SlotID": -1,
-          "IsIgnoreDummyPolyAngle": true,
-          "IsFollowDummyPoly": false,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0,
-          "StateInfo": 0
         }
       },
       {
@@ -77335,18 +77582,29 @@
     "ID": 33920,
     "Events": []
   },
-  "a026_034000.hkt-34000": {
-    "AnimFileName": "a026_034000.hkt",
+  "a031_034000.hkt-34000": {
+    "AnimFileName": "a031_034000.hkt",
     "ID": 34000,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.33333334,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
-        "EndTime": 0.4,
-        "MemeEndTime": 0.4,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
         "Parameters": {
-          "SpeedAtStart": 1.2,
-          "SpeedAtEnd": 1.2
+          "SpeedAtStart": 1.16,
+          "SpeedAtEnd": 1.16
         }
       },
       {
@@ -78142,13 +78400,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.23333333,
-        "MemeEndTime": 0.23333333,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.76666665,
         "EndTime": 0.8666667,
@@ -78216,17 +78467,6 @@
         }
       },
       {
-        "TypeName": "InvokeRumbleCam_ByDummyPoly",
-        "StartTime": 0.8666667,
-        "EndTime": 0.96666664,
-        "MemeEndTime": 0.96666664,
-        "Parameters": {
-          "RumbleCamID": 65,
-          "Condition": 0,
-          "Unk04": -1
-        }
-      },
-      {
         "TypeName": "InvokeFootSfxParam_Entity",
         "StartTime": 1.0333333,
         "EndTime": 1.3,
@@ -78275,17 +78515,6 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "InvokeRumbleCam_ByDummyPoly",
-        "StartTime": 0.93333334,
-        "EndTime": 1.0333333,
-        "MemeEndTime": 1.0333333,
-        "Parameters": {
-          "RumbleCamID": 65,
-          "Condition": 0,
-          "Unk04": -1
         }
       },
       {
@@ -78577,6 +78806,35 @@
         }
       },
       {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "InvokeRumbleCam_ByDummyPoly",
+        "StartTime": 0.8666667,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
+        "Parameters": {
+          "RumbleCamID": 65,
+          "Condition": 0,
+          "Unk04": -1
+        }
+      },
+      {
+        "TypeName": "InvokeRumbleCam_ByDummyPoly",
+        "StartTime": 0.93333334,
+        "EndTime": 1.0333333,
+        "MemeEndTime": 1.0333333,
+        "Parameters": {
+          "RumbleCamID": 65,
+          "Condition": 0,
+          "Unk04": -1
+        }
+      },
+      {
         "TypeName": "BlendToIdleOrMovementAnim",
         "StartTime": 2.3333333,
         "EndTime": 2.8333333,
@@ -78602,10 +78860,21 @@
       }
     ]
   },
-  "a026_034010.hkt-34010": {
-    "AnimFileName": "a026_034010.hkt",
+  "a031_034010.hkt-34010": {
+    "AnimFileName": "a031_034010.hkt",
     "ID": 34010,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.53333336,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.1,
@@ -79507,13 +79776,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.23333333,
-        "MemeEndTime": 0.23333333,
-        "Parameters": {}
-      },
-      {
         "TypeName": "SpawnFFX_FloorDetermined",
         "StartTime": 0.13333334,
         "EndTime": 0.23333333,
@@ -79583,17 +79845,6 @@
           "DummyPolyID": 6,
           "Unk06": 0,
           "Unk08": 0
-        }
-      },
-      {
-        "TypeName": "InvokeRumbleCam_ByDummyPoly",
-        "StartTime": 1.0666667,
-        "EndTime": 1.1666666,
-        "MemeEndTime": 1.1666666,
-        "Parameters": {
-          "RumbleCamID": 65,
-          "Condition": 0,
-          "Unk04": -1
         }
       },
       {
@@ -79921,6 +80172,24 @@
         }
       },
       {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "InvokeRumbleCam_ByDummyPoly",
+        "StartTime": 1.0666667,
+        "EndTime": 1.1666666,
+        "MemeEndTime": 1.1666666,
+        "Parameters": {
+          "RumbleCamID": 65,
+          "Condition": 0,
+          "Unk04": -1
+        }
+      },
+      {
         "TypeName": "BlendToIdleOrMovementAnim",
         "StartTime": 2.0,
         "EndTime": 2.5,
@@ -79946,10 +80215,21 @@
       }
     ]
   },
-  "a026_034020.hkt-34020": {
-    "AnimFileName": "a026_034020.hkt",
+  "a031_034020.hkt-34020": {
+    "AnimFileName": "a031_034020.hkt",
     "ID": 34020,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.8666667,
+        "EndTime": 1.2,
+        "MemeEndTime": 1.2,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.1,
@@ -81191,13 +81471,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 1.1666666,
         "EndTime": 1.2333333,
@@ -81232,6 +81505,13 @@
           "Unk18": 0,
           "Unk1C": 0
         }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
       },
       {
         "TypeName": "InvokeRumbleCam_ByDummyPoly",
@@ -81270,10 +81550,21 @@
       }
     ]
   },
-  "a026_034200.hkt-34200": {
-    "AnimFileName": "a026_034200.hkt",
+  "a031_034200.hkt-34200": {
+    "AnimFileName": "a031_034200.hkt",
     "ID": 34200,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.8,
+        "MemeEndTime": 0.8,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "AnimSpeedGradient",
         "StartTime": 0.0,
@@ -82203,13 +82494,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
-        "Parameters": {}
-      },
-      {
         "TypeName": "SpawnFFX_FloorDetermined",
         "StartTime": 0.033333335,
         "EndTime": 0.13333334,
@@ -82291,17 +82575,6 @@
           "DummyPolyID": 6,
           "Unk06": 0,
           "Unk08": 0
-        }
-      },
-      {
-        "TypeName": "InvokeRumbleCam_ByDummyPoly",
-        "StartTime": 1.0333333,
-        "EndTime": 1.1333333,
-        "MemeEndTime": 1.1333333,
-        "Parameters": {
-          "RumbleCamID": 65,
-          "Condition": 0,
-          "Unk04": -1
         }
       },
       {
@@ -82533,6 +82806,24 @@
         }
       },
       {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
+      },
+      {
+        "TypeName": "InvokeRumbleCam_ByDummyPoly",
+        "StartTime": 1.0333333,
+        "EndTime": 1.1333333,
+        "MemeEndTime": 1.1333333,
+        "Parameters": {
+          "RumbleCamID": 65,
+          "Condition": 0,
+          "Unk04": -1
+        }
+      },
+      {
         "TypeName": "BlendToIdleOrMovementAnim",
         "StartTime": 2.1666667,
         "EndTime": 2.6666667,
@@ -82558,28 +82849,29 @@
       }
     ]
   },
-  "a026_034300.hkt-34300": {
-    "AnimFileName": "a026_034300.hkt",
+  "a031_034300.hkt-34300": {
+    "AnimFileName": "a031_034300.hkt",
     "ID": 34300,
     "Events": [
       {
-        "TypeName": "AnimSpeedGradient",
-        "StartTime": 0.0,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.3,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
         "Parameters": {
-          "SpeedAtStart": 1.3,
-          "SpeedAtEnd": 1.3
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
         }
       },
       {
         "TypeName": "AnimSpeedGradient",
-        "StartTime": 0.43333334,
-        "EndTime": 0.56666666,
-        "MemeEndTime": 0.56666666,
+        "StartTime": 0.0,
+        "EndTime": 0.73333335,
+        "MemeEndTime": 0.73333335,
         "Parameters": {
-          "SpeedAtStart": 2.0,
-          "SpeedAtEnd": 2.0
+          "SpeedAtStart": 1.57,
+          "SpeedAtEnd": 1.57
         }
       },
       {
@@ -83061,21 +83353,7 @@
       },
       {
         "TypeName": "JumpTable",
-        "StartTime": 0.0,
-        "EndTime": 0.43333334,
-        "MemeEndTime": 0.43333334,
-        "Parameters": {
-          "JumpTableID": 7,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.7,
+        "StartTime": 0.73333335,
         "EndTime": 2.8333333,
         "MemeEndTime": 2.8333333,
         "Parameters": {
@@ -83089,20 +83367,20 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.43333334,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
+        "StartTime": 0.0,
+        "EndTime": 0.43333334,
+        "MemeEndTime": 0.43333334,
         "Parameters": {
-          "TurnSpeed": 270.0,
+          "TurnSpeed": 450.0,
           "IsLockOnCheck": false,
           "NewUnkArg": 255
         }
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 0.5,
-        "EndTime": 0.56666666,
-        "MemeEndTime": 0.56666666,
+        "StartTime": 0.43333334,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
         "Parameters": {
           "TurnSpeed": 720.0,
           "IsLockOnCheck": false,
@@ -83111,23 +83389,12 @@
       },
       {
         "TypeName": "SetTurnSpeed",
-        "StartTime": 3.0666666,
+        "StartTime": 3.1333334,
         "EndTime": 3.2,
         "MemeEndTime": 3.2,
         "Parameters": {
           "TurnSpeed": 720.0,
           "IsLockOnCheck": true,
-          "NewUnkArg": 255
-        }
-      },
-      {
-        "TypeName": "SetTurnSpeed",
-        "StartTime": 3.2666667,
-        "EndTime": 3.3,
-        "MemeEndTime": 3.3,
-        "Parameters": {
-          "TurnSpeed": 720.0,
-          "IsLockOnCheck": false,
           "NewUnkArg": 255
         }
       },
@@ -83714,13 +83981,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.33333334,
-        "MemeEndTime": 0.33333334,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.6333333,
         "EndTime": 0.7,
@@ -83775,6 +84035,13 @@
         }
       },
       {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.33333334,
+        "MemeEndTime": 0.33333334,
+        "Parameters": {}
+      },
+      {
         "TypeName": "InvokeRumbleCam_ByDummyPoly",
         "StartTime": 0.73333335,
         "EndTime": 0.8333333,
@@ -83811,10 +84078,21 @@
       }
     ]
   },
-  "a026_034400.hkt-34400": {
-    "AnimFileName": "a026_034400.hkt",
+  "a031_034400.hkt-34400": {
+    "AnimFileName": "a031_034400.hkt",
     "ID": 34400,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.0,
+        "EndTime": 0.8333333,
+        "MemeEndTime": 0.8333333,
+        "Parameters": {
+          "MovDistMultiplier": 1.2,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.56666666,
@@ -85068,13 +85346,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.26666668,
-        "MemeEndTime": 0.26666668,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.76666665,
         "EndTime": 0.8666667,
@@ -85109,6 +85380,13 @@
           "Unk18": 0,
           "Unk1C": 2
         }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.26666668,
+        "MemeEndTime": 0.26666668,
+        "Parameters": {}
       },
       {
         "TypeName": "InvokeRumbleCam_ByDummyPoly",
@@ -91262,6 +91540,27 @@
     "ID": 35000,
     "Events": [
       {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.4,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "MovDistMultiplier": 1.45,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
+      {
+        "TypeName": "AnimSpeedGradient",
+        "StartTime": 0.0,
+        "EndTime": 0.76666665,
+        "MemeEndTime": 0.76666665,
+        "Parameters": {
+          "SpeedAtStart": 1.28,
+          "SpeedAtEnd": 1.28
+        }
+      },
+      {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.26666668,
         "EndTime": 1.3,
@@ -92489,6 +92788,17 @@
     "AnimFileName": "a031_035010.hkt",
     "ID": 35010,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.53333336,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.26666668,
@@ -93768,6 +94078,17 @@
     "AnimFileName": "a031_035020.hkt",
     "ID": 35020,
     "Events": [
+      {
+        "TypeName": "[ExePatch]DebugMovementMultiplier",
+        "StartTime": 0.56666666,
+        "EndTime": 0.93333334,
+        "MemeEndTime": 0.93333334,
+        "Parameters": {
+          "MovDistMultiplier": 1.3,
+          "CamTurnDistMultiplier": 1.0,
+          "LadderDistMultiplier": 1.0
+        }
+      },
       {
         "TypeName": "BehaviorDataUnk700",
         "StartTime": 0.26666668,

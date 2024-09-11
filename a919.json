@@ -427,33 +427,13 @@
       },
       {
         "TypeName": "InvokeDS3Poise",
-        "StartTime": 0.6666667,
+        "StartTime": 0.5,
         "EndTime": 4.3333335,
         "MemeEndTime": 4.3333335,
         "Parameters": {
-          "ToughnessParamID": 180,
+          "ToughnessParamID": 196,
           "ToughnessType": 1,
           "DamageRatio": 1.0
-        }
-      },
-      {
-        "TypeName": "Unk910",
-        "StartTime": 2.7333333,
-        "EndTime": 4.8,
-        "MemeEndTime": 4.8,
-        "Parameters": {
-          "Unk00": 1036831949,
-          "Unk04": 1036831949
-        }
-      },
-      {
-        "TypeName": "Unk910",
-        "StartTime": 4.8,
-        "EndTime": 5.8,
-        "MemeEndTime": 5.8,
-        "Parameters": {
-          "Unk00": 0,
-          "Unk04": 0
         }
       },
       {
@@ -1819,6 +1799,26 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "Unk910",
+        "StartTime": 2.7333333,
+        "EndTime": 4.8,
+        "MemeEndTime": 4.8,
+        "Parameters": {
+          "Unk00": 1036831949,
+          "Unk04": 1036831949
+        }
+      },
+      {
+        "TypeName": "Unk910",
+        "StartTime": 4.8,
+        "EndTime": 5.8,
+        "MemeEndTime": 5.8,
+        "Parameters": {
+          "Unk00": 0,
+          "Unk04": 0
+        }
       }
     ]
   },
@@ -2153,27 +2153,27 @@
       {
         "TypeName": "InvokeDS3Poise",
         "StartTime": 0.0,
-        "EndTime": 1.4,
-        "MemeEndTime": 1.4,
+        "EndTime": 1.5333333,
+        "MemeEndTime": 1.5333333,
         "Parameters": {
-          "ToughnessParamID": 180,
+          "ToughnessParamID": 196,
           "ToughnessType": 1,
           "DamageRatio": 1.0
         }
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 3.3,
-        "EndTime": 3.4,
-        "MemeEndTime": 3.4,
+        "StartTime": 1.1666666,
+        "EndTime": 1.2666667,
+        "MemeEndTime": 1.2666667,
         "Parameters": {
-          "SoundType": 1,
-          "SoundID": 8100,
-          "DummyPolyID": -1,
+          "SoundType": 5,
+          "SoundID": 450322,
+          "DummyPolyID": 10,
           "SlotID": -1,
           "StateInfo": 0,
           "PlaybackBehaviorType": 0,
-          "Unk13": 1,
+          "Unk13": 0,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
@@ -3136,17 +3136,17 @@
       },
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 1.1666666,
-        "EndTime": 1.2666667,
-        "MemeEndTime": 1.2666667,
+        "StartTime": 3.3,
+        "EndTime": 3.4,
+        "MemeEndTime": 3.4,
         "Parameters": {
-          "SoundType": 5,
-          "SoundID": 450322,
-          "DummyPolyID": 10,
+          "SoundType": 1,
+          "SoundID": 8100,
+          "DummyPolyID": -1,
           "SlotID": -1,
           "StateInfo": 0,
           "PlaybackBehaviorType": 0,
-          "Unk13": 0,
+          "Unk13": 1,
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255

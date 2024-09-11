@@ -4,6 +4,35 @@
     "ID": 45000,
     "Events": [
       {
+        "TypeName": "Wwise_PlaySound_ByStateInfo",
+        "StartTime": 0.0,
+        "EndTime": 4.366667,
+        "MemeEndTime": 4.366667,
+        "Parameters": {
+          "SoundType": 5,
+          "SoundID": 523000,
+          "DummyPolyID": -1,
+          "SlotID": 10,
+          "StateInfo": 0,
+          "PlaybackBehaviorType": 1,
+          "Unk13": 1,
+          "Unk14": 1,
+          "Unk18": 0,
+          "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.6,
+        "EndTime": 4.3333335,
+        "MemeEndTime": 4.3333335,
+        "Parameters": {
+          "ToughnessParamID": 181,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
+      {
         "TypeName": "JumpTable",
         "StartTime": 0.0,
         "EndTime": 4.5,
@@ -301,24 +330,6 @@
       {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
-        "EndTime": 4.366667,
-        "MemeEndTime": 4.366667,
-        "Parameters": {
-          "SoundType": 5,
-          "SoundID": 523000,
-          "DummyPolyID": -1,
-          "SlotID": 10,
-          "StateInfo": 0,
-          "PlaybackBehaviorType": 1,
-          "Unk13": 1,
-          "Unk14": 1,
-          "Unk18": 0,
-          "Unk1C": 255
-        }
-      },
-      {
-        "TypeName": "Wwise_PlaySound_ByStateInfo",
-        "StartTime": 0.0,
         "EndTime": 0.1,
         "MemeEndTime": 0.1,
         "Parameters": {
@@ -413,6 +424,17 @@
     "ID": 45010,
     "Events": [
       {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.0,
+        "EndTime": 3.7666667,
+        "MemeEndTime": 3.7666667,
+        "Parameters": {
+          "ToughnessParamID": 181,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
+      {
         "TypeName": "CastHighlightedMagic",
         "StartTime": 0.0,
         "EndTime": 0.033333335,
@@ -430,13 +452,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
-        "Parameters": {}
-      },
-      {
         "TypeName": "SetOpacityKeyframe",
         "StartTime": 0.0,
         "EndTime": 1.6666666,
@@ -446,6 +461,13 @@
           "OpacityAtEventEnd": 0.0,
           "Unk08": 1
         }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
       },
       {
         "TypeName": "SetOpacityKeyframe",
@@ -813,22 +835,6 @@
         }
       },
       {
-        "TypeName": "SpawnOneShotFFX",
-        "StartTime": 0.0,
-        "EndTime": 0.3,
-        "MemeEndTime": 0.3,
-        "Parameters": {
-          "FFXID": 550101,
-          "DummyPolyID": 820,
-          "SlotID": 1,
-          "IsIgnoreDummyPolyAngle": false,
-          "IsFollowDummyPoly": true,
-          "IsRestrictToDummyPoly": true,
-          "ExtraSpawnCondition": 0,
-          "StateInfo": 0
-        }
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -844,6 +850,22 @@
           "Unk14": 1,
           "Unk18": 0,
           "Unk1C": 255
+        }
+      },
+      {
+        "TypeName": "SpawnOneShotFFX",
+        "StartTime": 0.0,
+        "EndTime": 0.3,
+        "MemeEndTime": 0.3,
+        "Parameters": {
+          "FFXID": 550101,
+          "DummyPolyID": 820,
+          "SlotID": 1,
+          "IsIgnoreDummyPolyAngle": false,
+          "IsFollowDummyPoly": true,
+          "IsRestrictToDummyPoly": true,
+          "ExtraSpawnCondition": 0,
+          "StateInfo": 0
         }
       },
       {
@@ -1678,6 +1700,17 @@
     "ID": 45100,
     "Events": [
       {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.6,
+        "EndTime": 4.3333335,
+        "MemeEndTime": 4.3333335,
+        "Parameters": {
+          "ToughnessParamID": 181,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
+      {
         "TypeName": "ActivateJumpTableEarly",
         "StartTime": 1.4666667,
         "EndTime": 1.9333333,
@@ -2086,6 +2119,17 @@
     "AnimFileName": "a561_045110.hkt",
     "ID": 45110,
     "Events": [
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.0,
+        "EndTime": 3.7666667,
+        "MemeEndTime": 3.7666667,
+        "Parameters": {
+          "ToughnessParamID": 181,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
       {
         "TypeName": "CastHighlightedMagic",
         "StartTime": 0.0,
@@ -2771,13 +2815,6 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.2,
-        "MemeEndTime": 0.2,
-        "Parameters": {}
-      },
-      {
         "TypeName": "Wwise_PlaySound_ByStateInfo",
         "StartTime": 0.0,
         "EndTime": 0.1,
@@ -2794,6 +2831,13 @@
           "Unk18": 0,
           "Unk1C": 255
         }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.2,
+        "MemeEndTime": 0.2,
+        "Parameters": {}
       },
       {
         "TypeName": "SpawnOneShotFFX",
@@ -3358,6 +3402,17 @@
     "ID": 48000,
     "Events": [
       {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.6,
+        "EndTime": 4.3333335,
+        "MemeEndTime": 4.3333335,
+        "Parameters": {
+          "ToughnessParamID": 181,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
+      {
         "TypeName": "ActivateJumpTableEarly",
         "StartTime": 1.4666667,
         "EndTime": 1.9333333,
@@ -3766,6 +3821,17 @@
     "AnimFileName": "a561_048010.hkt",
     "ID": 48010,
     "Events": [
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.0,
+        "EndTime": 3.7666667,
+        "MemeEndTime": 3.7666667,
+        "Parameters": {
+          "ToughnessParamID": 181,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
       {
         "TypeName": "CastHighlightedMagic",
         "StartTime": 0.0,
@@ -5014,6 +5080,17 @@
     "ID": 48100,
     "Events": [
       {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.6,
+        "EndTime": 4.3333335,
+        "MemeEndTime": 4.3333335,
+        "Parameters": {
+          "ToughnessParamID": 181,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
+      {
         "TypeName": "ActivateJumpTableEarly",
         "StartTime": 1.4666667,
         "EndTime": 1.9333333,
@@ -5422,6 +5499,17 @@
     "AnimFileName": "a561_048110.hkt",
     "ID": 48110,
     "Events": [
+      {
+        "TypeName": "InvokeDS3Poise",
+        "StartTime": 0.0,
+        "EndTime": 3.7666667,
+        "MemeEndTime": 3.7666667,
+        "Parameters": {
+          "ToughnessParamID": 181,
+          "ToughnessType": 1,
+          "DamageRatio": 1.0
+        }
+      },
       {
         "TypeName": "CastHighlightedMagic",
         "StartTime": 0.0,

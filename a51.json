@@ -11302,6 +11302,15 @@
         }
       },
       {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "SpEffectID": 102369
+        }
+      },
+      {
         "TypeName": "SpawnFFX_Body_ForEventDuration",
         "StartTime": 0.0,
         "EndTime": 1.1666666,
@@ -11620,6 +11629,15 @@
         "MemeEndTime": 1.7,
         "Parameters": {
           "SpEffectID": 438
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 1.0,
+        "MemeEndTime": 1.0,
+        "Parameters": {
+          "SpEffectID": 102369
         }
       },
       {
@@ -11943,6 +11961,15 @@
         "MemeEndTime": 2.0666666,
         "Parameters": {
           "SpEffectID": 438
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.0,
+        "EndTime": 2.0333333,
+        "MemeEndTime": 2.0333333,
+        "Parameters": {
+          "SpEffectID": 102369
         }
       },
       {

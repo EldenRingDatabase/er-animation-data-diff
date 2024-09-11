@@ -233,8 +233,8 @@
       {
         "TypeName": "JumpTable",
         "StartTime": 3.8333333,
-        "EndTime": 12.166667,
-        "MemeEndTime": 12.166667,
+        "EndTime": 15.6,
+        "MemeEndTime": 15.6,
         "Parameters": {
           "JumpTableID": 50,
           "ArgA": 0.0,

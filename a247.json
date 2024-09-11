@@ -6393,6 +6393,15 @@
         }
       },
       {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.3,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "SpEffectID": 102369
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.2,
@@ -8373,6 +8382,15 @@
         "MemeEndTime": 1.1333333,
         "Parameters": {
           "SpEffectID": 20001916
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.3,
+        "EndTime": 0.9,
+        "MemeEndTime": 0.9,
+        "Parameters": {
+          "SpEffectID": 102369
         }
       },
       {

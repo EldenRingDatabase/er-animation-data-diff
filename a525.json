@@ -188,6 +188,33 @@
         }
       },
       {
+        "TypeName": "AddSpEffect_DragonForm",
+        "StartTime": 1.2333333,
+        "EndTime": 1.3,
+        "MemeEndTime": 1.3,
+        "Parameters": {
+          "SpEffectID": 330901
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_DragonForm",
+        "StartTime": 1.5,
+        "EndTime": 1.5666667,
+        "MemeEndTime": 1.5666667,
+        "Parameters": {
+          "SpEffectID": 330901
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_DragonForm",
+        "StartTime": 2.0,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
+        "Parameters": {
+          "SpEffectID": 330901
+        }
+      },
+      {
         "TypeName": "CastHighlightedMagic",
         "StartTime": 1.3,
         "EndTime": 1.3333334,
@@ -600,6 +627,57 @@
         "StartTime": 2.1666667,
         "EndTime": 2.2,
         "MemeEndTime": 2.2,
+        "Parameters": {
+          "DummyPolyID": 33,
+          "Unk04": true,
+          "Unk05": 0,
+          "ChrBulletSharedHitSlot": -1,
+          "RefType": 7,
+          "Unk09": 1,
+          "Unk0A": 0,
+          "Unk0C": -1,
+          "Unk0D": 0
+        }
+      },
+      {
+        "TypeName": "CastHighlightedMagic",
+        "StartTime": 1.3,
+        "EndTime": 1.6333333,
+        "MemeEndTime": 1.6333333,
+        "Parameters": {
+          "DummyPolyID": 33,
+          "Unk04": true,
+          "Unk05": 0,
+          "ChrBulletSharedHitSlot": -1,
+          "RefType": 7,
+          "Unk09": 1,
+          "Unk0A": 0,
+          "Unk0C": -1,
+          "Unk0D": 0
+        }
+      },
+      {
+        "TypeName": "CastHighlightedMagic",
+        "StartTime": 1.6333333,
+        "EndTime": 1.9666667,
+        "MemeEndTime": 1.9666667,
+        "Parameters": {
+          "DummyPolyID": 33,
+          "Unk04": true,
+          "Unk05": 0,
+          "ChrBulletSharedHitSlot": -1,
+          "RefType": 7,
+          "Unk09": 1,
+          "Unk0A": 0,
+          "Unk0C": -1,
+          "Unk0D": 0
+        }
+      },
+      {
+        "TypeName": "CastHighlightedMagic",
+        "StartTime": 1.9666667,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
         "Parameters": {
           "DummyPolyID": 33,
           "Unk04": true,
@@ -1731,9 +1809,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8666667,
-        "EndTime": 0.9,
-        "MemeEndTime": 0.9,
+        "StartTime": 0.73333335,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
         "Parameters": {
           "DummyPolyID": 33,
           "Unk04": true,
@@ -2780,6 +2858,33 @@
         }
       },
       {
+        "TypeName": "AddSpEffect_DragonForm",
+        "StartTime": 1.2333333,
+        "EndTime": 1.3,
+        "MemeEndTime": 1.3,
+        "Parameters": {
+          "SpEffectID": 330901
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_DragonForm",
+        "StartTime": 1.5,
+        "EndTime": 1.5666667,
+        "MemeEndTime": 1.5666667,
+        "Parameters": {
+          "SpEffectID": 330901
+        }
+      },
+      {
+        "TypeName": "AddSpEffect_DragonForm",
+        "StartTime": 2.0,
+        "EndTime": 2.0666666,
+        "MemeEndTime": 2.0666666,
+        "Parameters": {
+          "SpEffectID": 330901
+        }
+      },
+      {
         "TypeName": "CastHighlightedMagic",
         "StartTime": 1.3,
         "EndTime": 1.3333334,
@@ -3155,9 +3260,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 1.5,
-        "EndTime": 1.5333333,
-        "MemeEndTime": 1.5333333,
+        "StartTime": 1.3,
+        "EndTime": 1.6333333,
+        "MemeEndTime": 1.6333333,
         "Parameters": {
           "DummyPolyID": 33,
           "Unk04": true,
@@ -3172,9 +3277,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 1.7666667,
-        "EndTime": 1.8,
-        "MemeEndTime": 1.8,
+        "StartTime": 1.6333333,
+        "EndTime": 1.9666667,
+        "MemeEndTime": 1.9666667,
         "Parameters": {
           "DummyPolyID": 33,
           "Unk04": true,
@@ -3189,9 +3294,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 2.1666667,
-        "EndTime": 2.2,
-        "MemeEndTime": 2.2,
+        "StartTime": 1.9666667,
+        "EndTime": 2.3,
+        "MemeEndTime": 2.3,
         "Parameters": {
           "DummyPolyID": 33,
           "Unk04": true,
@@ -4323,9 +4428,9 @@
       },
       {
         "TypeName": "CastHighlightedMagic",
-        "StartTime": 0.8666667,
-        "EndTime": 0.9,
-        "MemeEndTime": 0.9,
+        "StartTime": 0.73333335,
+        "EndTime": 0.96666664,
+        "MemeEndTime": 0.96666664,
         "Parameters": {
           "DummyPolyID": 33,
           "Unk04": true,

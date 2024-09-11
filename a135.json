@@ -925,15 +925,8 @@
         }
       },
       {
-        "TypeName": "Blend",
-        "StartTime": 0.0,
-        "EndTime": 0.23333333,
-        "MemeEndTime": 0.23333333,
-        "Parameters": {}
-      },
-      {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.46666667,
+        "StartTime": 0.33333334,
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {
@@ -1142,6 +1135,13 @@
           "Unk18": 0,
           "Unk1C": 0
         }
+      },
+      {
+        "TypeName": "Blend",
+        "StartTime": 0.0,
+        "EndTime": 0.23333333,
+        "MemeEndTime": 0.23333333,
+        "Parameters": {}
       }
     ]
   },
@@ -2857,7 +2857,7 @@
       },
       {
         "TypeName": "AddSpEffect",
-        "StartTime": 0.5,
+        "StartTime": 0.33333334,
         "EndTime": 1.0666667,
         "MemeEndTime": 1.0666667,
         "Parameters": {

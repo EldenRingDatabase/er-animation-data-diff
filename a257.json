@@ -18340,6 +18340,92 @@
         }
       },
       {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.2,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {
+          "SpEffectID": 100280
+        }
+      },
+      {
+        "TypeName": "AddSpEffect",
+        "StartTime": 0.2,
+        "EndTime": 0.8666667,
+        "MemeEndTime": 0.8666667,
+        "Parameters": {
+          "SpEffectID": 100290
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "JumpTableID": 51,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0,
+        "EndTime": 2.7333333,
+        "MemeEndTime": 2.7333333,
+        "Parameters": {
+          "JumpTableID": 51,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 0.0,
+        "EndTime": 0.5,
+        "MemeEndTime": 0.5,
+        "Parameters": {
+          "JumpTableID": 134,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "JumpTable",
+        "StartTime": 1.0,
+        "EndTime": 2.7333333,
+        "MemeEndTime": 2.7333333,
+        "Parameters": {
+          "JumpTableID": 134,
+          "ArgA": 0.0,
+          "ArgB": -1,
+          "ArgC": 6,
+          "ArgD": 0,
+          "ArgE": 0
+        }
+      },
+      {
+        "TypeName": "PhysicsClassUnk907",
+        "StartTime": 0.0,
+        "EndTime": 2.4333334,
+        "MemeEndTime": 2.4333334,
+        "Parameters": {
+          "Unk00": 5.0,
+          "Unk04": -1.0,
+          "Unk08": -1.0,
+          "Unk0C": -1.0
+        }
+      },
+      {
         "TypeName": "Blend",
         "StartTime": 0.0,
         "EndTime": 0.23333333,
@@ -18356,15 +18442,6 @@
           "DummyPolyID": 5,
           "Unk06": 0,
           "Unk08": 0
-        }
-      },
-      {
-        "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
-        "EndTime": 0.8666667,
-        "MemeEndTime": 0.8666667,
-        "Parameters": {
-          "SpEffectID": 100280
         }
       },
       {
@@ -18458,15 +18535,6 @@
         }
       },
       {
-        "TypeName": "AddSpEffect",
-        "StartTime": 0.43333334,
-        "EndTime": 0.8666667,
-        "MemeEndTime": 0.8666667,
-        "Parameters": {
-          "SpEffectID": 100290
-        }
-      },
-      {
         "TypeName": "SpawnFFX_FloorDetermined",
         "StartTime": 1.9,
         "EndTime": 2.0,
@@ -18512,74 +18580,6 @@
           "DummyPolyID": 6,
           "Unk06": 0,
           "Unk08": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.0,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
-        "Parameters": {
-          "JumpTableID": 51,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 1.0,
-        "EndTime": 2.7333333,
-        "MemeEndTime": 2.7333333,
-        "Parameters": {
-          "JumpTableID": 51,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 0.0,
-        "EndTime": 0.5,
-        "MemeEndTime": 0.5,
-        "Parameters": {
-          "JumpTableID": 134,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "JumpTable",
-        "StartTime": 1.0,
-        "EndTime": 2.7333333,
-        "MemeEndTime": 2.7333333,
-        "Parameters": {
-          "JumpTableID": 134,
-          "ArgA": 0.0,
-          "ArgB": -1,
-          "ArgC": 6,
-          "ArgD": 0,
-          "ArgE": 0
-        }
-      },
-      {
-        "TypeName": "PhysicsClassUnk907",
-        "StartTime": 0.0,
-        "EndTime": 2.4333334,
-        "MemeEndTime": 2.4333334,
-        "Parameters": {
-          "Unk00": 5.0,
-          "Unk04": -1.0,
-          "Unk08": -1.0,
-          "Unk0C": -1.0
         }
       }
     ]
